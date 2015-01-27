@@ -46,4 +46,4 @@ Lindängens Riksinternat; a LARP about a private boarding school where hazing, b
 
 ## Too much information
 
-This LARP uses transparency with its players as much as possible to ensure that they can plan their own narrative accordingly. There will also be times that, depending on the players actions IN game, they will be required to go OFF with the organizers to plan scenes.
+This LARP uses transparency with its players as much as possible to ensure that they can plan their own narrative accordingly. There will also be times where, depending on the players actions IN game, they will be required to go OFF with the organizers to plan scenes.
