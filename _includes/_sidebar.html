@@ -1,0 +1,29 @@
+{% if page.event %}
+  {% assign event = site.data.events[page.event] %}{% else %}{% assign event = site.event %}
+{% endif %}
+
+{% if event.logo contains 'http' %}
+	<img src="{{ event.logo }}" class="bio-photo" alt="{{ event.name }} bio photo">
+{% else %}
+	<img src="{{ site.url }}/images/{{ event.logo }}" class="bio-photo" alt="{{ event.name }} logo">
+{% endif %}
+<h3>{{ event.name }}</h3>
+<p>{{ event.tagline }}</p>
+<p>{{ event.description }}</p>
+{% if event.email %}<a href="mailto:{{ event.email }}" class="event-social" target="_blank"><i class="fa fa-fw fa-envelope-square"></i> Email</a>{% endif %}
+{% if event.twitter %}<a href="http://twitter.com/{{ event.twitter }}" class="event-social" target="_blank"><i class="fa fa-fw fa-twitter-square"></i> Twitter</a>{% endif %}
+{% if event.facebook %}<a href="http://facebook.com/{{ event.facebook }}" class="event-social" target="_blank"><i class="fa fa-fw fa-facebook-square"></i> Facebook</a>{% endif %}
+{% if event.google.plus %}<a href="http://plus.google.com/+{{ event.google.plus }}" class="event-social" target="_blank"><i class="fa fa-fw fa-google-plus-square"></i> Google+</a>{% endif %}
+{% if event.linkedin %}<a href="http://linkedin.com/in/{{ event.linkedin }}" class="event-social" target="_blank"><i class="fa fa-fw fa-linkedin-square"></i> LinkedIn</a>{% endif %}
+{% if event.instagram %}<a href="http://instagram.com/{{ event.instagram }}" class="event-social" target="_blank"><i class="fa fa-fw fa-instagram"></i> Instagram</a>{% endif %}
+{% if event.tumblr %}<a href="http://{{ event.tumblr }}.tumblr.com" class="event-social" target="_blank"><i class="fa fa-fw fa-tumblr-square"></i> Tumblr</a>{% endif %}
+{% if event.github %}<a href="http://github.com/{{ event.github }}" class="event-social" target="_blank"><i class="fa fa-fw fa-github"></i> Github</a>{% endif %}
+{% if event.stackoverflow %}<a href="http://stackoverflow.com/users/{{ event.stackoverflow }}" class="event-social" target="_blank"><i class="fa fa-fw fa-stack-overflow"></i> Stackoverflow</a>{% endif %}
+{% if event.lastfm %}<a href="http://lastfm.com/user/{{ event.lastfm }}" class="event-social" target="_blank"><i class="fa fa-fw fa-music"></i> Last.fm</a>{% endif %}
+{% if event.dribbble %}<a href="http://dribbble.com/{{ event.dribbble }}" class="event-social" target="_blank"><i class="fa fa-fw fa-dribbble"></i> Dribbble</a>{% endif %}
+{% if event.pinterest %}<a href="http://www.pinterest.com/{{ event.pinterest }}" class="event-social" target="_blank"><i class="fa fa-fw fa-pinterest"></i> Pinterest</a>{% endif %}
+{% if event.foursquare %}<a href="http://foursquare.com/{{ event.foursquare }}" class="event-social" target="_blank"><i class="fa fa-fw fa-foursquare"></i> Foursquare</a>{% endif %}
+{% if event.steam %}<a href="http://steamcommunity.com/id/{{ event.steam }}" class="event-social" target="_blank"><i class="fa fa-fw fa-steam-square"></i> Steam</a>{% endif %}
+{% if event.youtube %}<a href="https://youtube.com/user/{{ event.youtube }}" class="event-social" target="_blank"><i class="fa fa-fw fa-youtube-square"></i> Youtube</a>{% endif %}
+{% if event.soundcloud %}<a href="http://soundcloud.com/{{ event.soundcloud }}" class="event-social" target="_blank"><i class="fa fa-fw fa-soundcloud"></i> Soundcloud</a>{% endif %}
+{% if event.weibo %}<a href="http://www.weibo.com/{{ event.weibo }}" class="event-social" target="_blank"><i class="fa fa-fw fa-weibo"></i> Weibo</a>{% endif %}

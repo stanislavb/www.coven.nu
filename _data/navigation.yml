@@ -1,0 +1,16 @@
+# Site navigation links
+
+- title: About
+  url: /about/
+
+- title: Characters
+  url: /characters/
+
+- title: Magic
+  url: /magic/
+
+- title: Game Mechanics
+  url: /game-mechanics/
+
+- title: Practical
+  url: /practical/

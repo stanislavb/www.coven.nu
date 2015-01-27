@@ -1,0 +1,20 @@
+language: ruby
+rvm:
+- 2.1
+script: bundle exec jekyll build && bundle exec htmlproof ./_site
+branches:
+  only:
+  - master
+env:
+  global:
+  - NOKOGIRI_USE_SYSTEM_LIBRARIES=true
+deploy:
+  provider: s3
+  access_key_id: AKIAJBVOAI4KWKYL6LMA
+  secret_access_key:
+    secure: MkFz2rSWYcWWM0CWWPv+J8ze152u8nMAcR7EbX1l0ddyDqFTBP+8KWff86UKLoVB3Yu/Zk07AEMI9Bw7BgNktjjgVx2/HMec1DqLqGqFzaUAqRrt+65a00qmtaK4NGTF007J6RFzMvVzCRqmIckpppc9XZsR+gTqHJGG/SiRdmI=
+  bucket: www.coven.nu
+  local-dir: _site
+  endpoint: www.coven.nu.s3-website-eu-central-1.amazonaws.com
+  region: eu-central-1
+  skip_cleanup: true
