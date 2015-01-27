@@ -36,12 +36,14 @@ This is the premise for the LARP. 12-15 newly rescued witches arrive at a Swedis
 
 ## Inspiration
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse volutpat ligula ac urna mollis pharetra. Nunc ac posuere urna, vitae venenatis nunc. Proin cursus odio et nisi placerat ultrices. Donec scelerisque, risus nec condimentum dapibus, magna risus faucibus sem, hendrerit laoreet nunc dolor condimentum mi. Sed mattis rhoncus mattis. Nullam vel luctus quam. Aliquam nisl metus, tincidunt et auctor at, molestie sit amet augue. Praesent vel elit sodales felis elementum egestas eget non massa. Curabitur maximus vel nulla non rhoncus. Phasellus lobortis eget ligula a maximus. Ut ut auctor turpis. Aenean tincidunt justo sit amet lorem sodales convallis.
+The LARP was inspired foremost by the television series American Horror Story: Coven. However much has been changed and adjusted so there is no need to have watched the series before the LARP.
 
-Phasellus elementum sapien eu vestibulum auctor. Nam id faucibus lacus. Aenean enim tellus, imperdiet id laoreet eget, viverra at neque. Pellentesque non cursus est. Morbi nulla ligula, efficitur sed molestie eget, feugiat eget ex. Sed efficitur, justo non luctus rhoncus, mauris arcu auctor dolor, sit amet tristique lorem augue ut lacus. Nam ultricies velit hendrerit volutpat hendrerit. Nunc a ullamcorper erat. Praesent sagittis elit sit amet magna eleifend, id iaculis lectus pharetra. Donec vitae nulla non quam tincidunt maximus bibendum vitae arcu. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+Other sources of inspiration include Buffy the Vampire Slayer season 7; where a group of newly activated slayers must come to terms with their powers in the midst of a mystical war.
+
+X-Men or more specifically 'Xavier's School for Gifted Youngsters'; the Coven has primarily been a place of learning to handle your powers.
+
+Lindängens Riksinternat; a LARP about a private boarding school where hazing, bullying and abuse of power is common and encouraged under the cover of Tradition. Similarly Covens are not always the best institutions to be stuck in.
 
 ## Too much information
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse volutpat ligula ac urna mollis pharetra. Nunc ac posuere urna, vitae venenatis nunc. Proin cursus odio et nisi placerat ultrices. Donec scelerisque, risus nec condimentum dapibus, magna risus faucibus sem, hendrerit laoreet nunc dolor condimentum mi. Sed mattis rhoncus mattis. Nullam vel luctus quam. Aliquam nisl metus, tincidunt et auctor at, molestie sit amet augue. Praesent vel elit sodales felis elementum egestas eget non massa. Curabitur maximus vel nulla non rhoncus. Phasellus lobortis eget ligula a maximus. Ut ut auctor turpis. Aenean tincidunt justo sit amet lorem sodales convallis.
-
-Phasellus elementum sapien eu vestibulum auctor. Nam id faucibus lacus. Aenean enim tellus, imperdiet id laoreet eget, viverra at neque. Pellentesque non cursus est. Morbi nulla ligula, efficitur sed molestie eget, feugiat eget ex. Sed efficitur, justo non luctus rhoncus, mauris arcu auctor dolor, sit amet tristique lorem augue ut lacus. Nam ultricies velit hendrerit volutpat hendrerit. Nunc a ullamcorper erat. Praesent sagittis elit sit amet magna eleifend, id iaculis lectus pharetra. Donec vitae nulla non quam tincidunt maximus bibendum vitae arcu. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+This LARP uses transparency with its players as much as possible to ensure that they can plan their own narrative accordingly. There will also be times that, depending on the players actions IN game, they will be required to go OFF with the organizers to plan scenes.
