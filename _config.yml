@@ -30,8 +30,8 @@ event:
   logo: skull.jpg
   description: "Super-awesome LARP with epic misery and drama"
   email: coven@example.com
-  twitter: CovenLARP
-  facebook: CovenLARP
+#  twitter: CovenLARP
+#  facebook: CovenLARP
   google:
     analytics: 
     verify: 
