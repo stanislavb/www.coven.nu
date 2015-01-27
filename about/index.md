@@ -29,7 +29,9 @@ It is a three day LARP with a clear narrative for each day. The playing style is
 ## Background
 
 The LARP is an alternative ending to the series. Instead of the The Coven ‘winning’ and beating the Witch Hunters, in this world the Witch Hunters ‘won’ and continue to exterminate Coven after Coven. The few that remain are in hiding and many witches have renounced their powers and assimilated into the rest of society. The few Covens remaining are mostly resigned to their fate.
+
 Even The Witches Council seemed to have given up. Then suddenly something changed. The Witch Hunters stopped focusing on Covens as their main target and started going after individual witches. First previous Coven members, but then they started targeting anyone with magical potential, sinisterly before many of them were even aware of their own legacy.The Witches Council was forced to step in, rescuing young witches and sending them to the few Covens still undiscovered by the Witch Hunters. 
+
 This is the premise for the LARP. 12-15 newly rescued witches arrive at a Swedish Coven to discover their powers, each other and the life threatening danger they all face.
 
 ## Inspiration
