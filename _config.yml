@@ -26,9 +26,9 @@ kramdown:
 # Event info
 event:
   name: Coven
-  tagline: A witch LARP
+  tagline: Witch LARP
   logo: skull.jpg
-  description: "Super-awesome LARP with epic misery and drama"
+  description: "A Live Action Roleplaying event taking place in Sweden 2015"
   email: coven@example.com
 #  twitter: CovenLARP
 #  facebook: CovenLARP
