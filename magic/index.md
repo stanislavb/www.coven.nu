@@ -66,15 +66,7 @@ It is harder for a weaker witch to break the Transferal by a stronger witch, but
 
 ## The Seven Wonders
 
-Malorum discere pri ei, liber accusam dignissim mea no. Et dicam iisque senserit nec, pro te purto eripuit mentitum. Etiam tractatos petentium at duo, te has quot admodum definitiones. Vix graece interesset ea, nominavi patrioque eum ea. At mutat malorum per, ad eum labores inimicus, his ne mucius splendide.
-
-Offendit definiebas nam eu, mei facer affert ne, nulla cetero honestatis ei pro. Ea vim graeci deseruisse sadipscing, te quo erant consetetur. Ut graeco democritum deterruisset quo, eu per quas solet. At sea alii apeirian, alia diceret neglegentur eu nec, sea eirmod delenit ut. Nec ne dolores recusabo incorrupte, mei et etiam diceret.
-
-## Charms
-
-Cu sit simul iracundia dissentias. Ex iusto expetendis per. Ex quo wisi neglegentur complectitur, ei mei nibh contentiones, eos no esse malis aperiri. Cum clita exerci ea, has ex mutat possim. Ex idque viderer principes pri, no eam vivendo propriae forensibus. Eam aliquam explicari delicatissimi ut, justo errem abhorreant eos cu.
-
-Eu vim dolores pertinacia repudiandae. Quo at enim mentitum, soleat delectus per no, per esse iusto instructior an. Ut forensibus adipiscing incorrupte pro, id usu saepe civibus intellegat, tation graeci virtute eu ius. Has at diam ceteros, qui amet quaeque eu, lorem deserunt consetetur eu ius.
+Every Supreme of every Coven has gone through the trial of The Seven Wonders and proven themselves to be the most powerful witch in their Coven; able to command all seven powers. Only one is chosen and other candidates are eliminated round by round. It is possible to die during the trials.
 
 ## Potions
 
@@ -85,7 +77,3 @@ Ei congue regione graecis his. Aperiri definitionem ea pri. At mea appetere cons
 ## Tarot
 
 Suas inani epicuri ei has. Ea oratio vocent labitur qui, ut mel ferri audiam dignissim. No numquam corrumpit sea, est ne sale latine deleniti. Tincidunt persecuti concludaturque eam at. Viris meliore quaestio ad sed, eu usu persecuti temporibus.
-
-## Crystals
-
-Pro sumo erat probo te, ut pro malis possit. Vel liber iisque aliquid ex. Blandit volutpat ex sea, dolor minimum accusata nam eu, mei primis splendide ei. Nec ne porro minim, prompta posidonium voluptatibus eu ius. Ius ne vitae munere disputationi, ignota scripta ne ius, an mea dicam everti. Mea iisque fierent ea, regione dolorum interesset ei pri, te tota habeo officiis eum.
