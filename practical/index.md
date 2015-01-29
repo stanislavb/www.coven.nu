@@ -34,6 +34,14 @@ A half day workshop will take place the first day of the LARP.
 
 As your character you will only be expected to bring minimal bagage. Overnight gear such as toothbrushes, pyjamas, a towel etc is recommended and at least one change of black clothes is required. Everything else, such as bedding, will be provided.
 
+## Terminology OFF
+
+latin text
+
+## Terminology IN
+
+More latin text
+
 ## Contact
 
 Available soon.
