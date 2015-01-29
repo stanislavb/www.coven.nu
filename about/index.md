@@ -20,17 +20,21 @@ image:
 
 ## Vision
 
-Coven is a LARP about witches, power, horror and the bonds which are formed and broken under extreme pressure. 
+Coven is a LARP about witches, powers, horror and the bonds which are formed and broken under extreme pressure. It is a three day LARP with a clear narrative for each day. The playing style is pressure cooker and meta-techniques will be used to represent the powers and magic which exists in the world of the LARP.
 
-It is a three day LARP with a clear narrative for each day. The playing style is pressure cooker and meta techniques will be used to represent the powers and magic at the LARP.
+This will not be a deep, brooding psychological LARP, designed to make you see yourself or the world in a new light. The only question the LARP might inadvertently explore is the concept of good and evil. However it is not exactly a feel good LARP either. This is a LARP about cool powers, the witches that wield them and the people trying to kill them.
+
+Things to learn will be kept to a minimum so that the players can focus on enjoying and exploring the LARP. There will however be some game-mechanics and meta-techniques which the players will be required to learn in order to participate. These will be drilled as much as possible at the preLARP workshop, but since the LARP is designed so that players have almost nothing else to learn or prepare, you will be expected to show up already reasonably proficient.
+
+Being confident with the techniques the LARP uses will allow the players to have fun with their powers and use them to create great moments for themselves and others. Invent rituals, tease each other, defend yourself and really immerse in the world.
 
 *[pressure cooker]: A playing style where conflicts and drama are not played openly for all to see. They are instead played out behind closed doors or in small groups.
 
 ## Background
 
-The LARP is an alternative ending to the series. Instead of the The Coven ‘winning’ and beating the Witch Hunters, in this world the Witch Hunters ‘won’ and continue to exterminate Coven after Coven. The few that remain are in hiding and many witches have renounced their powers and assimilated into the rest of society. The few Covens remaining are mostly resigned to their fate.
+The LARP is an alternative ending to the series on which the LARP is based; American Horror Story: Coven. Instead of The Coven ‘winning’ and beating the Witch Hunters, in this world the Witch Hunters ‘won’ and continue to exterminate Coven after Coven. The few that remain are in hiding and many witches have renounced their powers and assimilated into the rest of society. The few Covens remaining are mostly resigned to their fate.
 
-Even The Witches Council seemed to have given up. Then suddenly something changed. The Witch Hunters stopped focusing on Covens as their main target and started going after individual witches. First previous Coven members, but then they started targeting anyone with magical potential, sinisterly before many of them were even aware of their own legacy.The Witches Council was forced to step in, rescuing young witches and sending them to the few Covens still undiscovered by the Witch Hunters. 
+Even The Witches Council seemed to have given up. Then suddenly something changed. The Witch Hunters stopped focusing on Covens as their main target and started going after individual witches. First previous Coven members, but then they started targeting anyone with magical potential, sinisterly before many of them were even aware of their own legacy. The Witches Council was forced to step in, rescuing young witches and sending them to the few Covens still undiscovered by the Witch Hunters. 
 
 This is the premise for the LARP. 12-15 newly rescued witches arrive at a Swedish Coven to discover their powers, each other and the life threatening danger they all face.
 
@@ -47,3 +51,5 @@ Lindängens Riksinternat; a LARP about a private boarding school where hazing, b
 ## Too much information
 
 This LARP uses transparency with its players as much as possible to ensure that they can plan their own narrative accordingly. There will also be times where, depending on the players actions IN game, they will be required to go OFF with the organizers to plan scenes.
+
+## Safety
