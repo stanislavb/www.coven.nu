@@ -20,36 +20,40 @@ image:
 
 ## Vision
 
-Coven is a LARP about witches, powers, horror and the bonds which are formed and broken under extreme pressure. It is a three day LARP with a clear narrative for each day. The playing style is pressure cooker and meta-techniques will be used to represent the powers and magic which exists in the world of the LARP.
+Coven is a LARP about a newly, rather unwillingly, formed Coven of witches; set in the present day. The prefered playing style will be pressure cooker and meta-techniques will be used to represent the powers which will exist in the world of Coven. The idea is use the meta-techniques to create as believable looking powers as possible while still being simple to learn, use and play around with. 
 
-This will not be a deep, brooding psychological LARP, designed to make you see yourself or the world in a new light. The only question the LARP might inadvertently explore is the concept of good and evil. However it is not exactly a feel good LARP either. This is a LARP about cool powers, the witches that wield them and the people trying to kill them.
+The theme is a mixture of horror, drama and action. The LARP will be railroaded but the players will be informed of the pivotal plot points so that they can play towards them. Outside of these main happenings the players are given total character and plot freedom to create the story they want; with the meta-techniques as their tools and organizers close at hand both IN and OFF to help out in any way they can.
 
-Things to learn will be kept to a minimum so that the players can focus on enjoying and exploring the LARP. There will however be some game-mechanics and meta-techniques which the players will be required to learn in order to participate. These will be drilled as much as possible at the preLARP workshop, but since the LARP is designed so that players have almost nothing else to learn or prepare, you will be expected to show up already reasonably proficient.
+This is a LARP about cool powers, the witches that wield them and the people trying to kill them for it.
 
-Being confident with the techniques the LARP uses will allow the players to have fun with their powers and use them to create great moments for themselves and others. Invent rituals, tease each other, defend yourself and really immerse in the world.
+*[meta-technique]: A game mechnanic.
 
-*[pressure cooker]: A playing style where conflicts and drama are not played openly for all to see. They are instead played out behind closed doors or in small groups.
+*[pressure cooker]: A playing style where conflicts and drama are played out behind closed doors or in small groups.
 
-## Background
+*[railroaded]: A game design.
 
-The LARP is an alternative ending to the series on which the LARP is based; American Horror Story: Coven. Instead of The Coven ‘winning’ and beating the Witch Hunters, in this world the Witch Hunters ‘won’ and continue to exterminate Coven after Coven. The few that remain are in hiding and many witches have renounced their powers and assimilated into the rest of society. The few Covens remaining are mostly resigned to their fate.
+## Background Story
 
-Even The Witches Council seemed to have given up. Then suddenly something changed. The Witch Hunters stopped focusing on Covens as their main target and started going after individual witches. First previous Coven members, but then they started targeting anyone with magical potential, sinisterly before many of them were even aware of their own legacy. The Witches Council was forced to step in, rescuing young witches and sending them to the few Covens still undiscovered by the Witch Hunters. 
+Witches have always existed, but have kept to themselves and avoided discovery by the outside world. Covens have been their home, refuge and community. 
 
-This is the premise for the LARP. 12-15 newly rescued witches arrive at a Swedish Coven to discover their powers, each other and the life threatening danger they all face.
+There has always been Witch Hunters, under the cover of large organizations to petty street gangs they have tracked and killed Witches for generations. Over the last thirty years they have suceeded in exterminating Coven after Coven. The few that remain are in hiding and many witches have renounced their powers and assimilated into the rest of society long ago. The few Covens remaining are mostly resigned to their fate.
+
+Even The Witches' Council seemed to have given up. Then suddenly something changed. The Witch Hunters stopped focusing on Covens as their main target and started going after individual witches. First previous Coven members, but then they started targeting anyone with magical potential, sinisterly before many of them were even aware of their own legacy. The Witches Council was forced to step in, rescuing young witches and sending them to the few Covens still undiscovered by the Witch Hunters. 
+
+This is the premise for the LARP. The newly rescued witches arrive at a Swedish Coven to discover and learn to deal with their powers; each other and the life threatening danger they all face.
 
 ## Inspiration
 
-The LARP was inspired foremost by the television series American Horror Story: Coven. However much has been changed and adjusted so there is no need to have watched the series before the LARP.
+The LARP was inspired foremost by the television series American Horror Story: Coven. The LARP can be seen as an alternative ending to the series. However much has been changed and adjusted so there is no need to have watched the show before the LARP.
 
-Other sources of inspiration include Buffy the Vampire Slayer season 7; where a group of newly activated slayers must come to terms with their powers in the midst of a mystical war.
-
-X-Men or more specifically 'Xavier's School for Gifted Youngsters'; the Coven has primarily been a place of learning to handle your powers.
-
-Lindängens Riksinternat; a LARP about a private boarding school where hazing, bullying and abuse of power is common and encouraged under the cover of Tradition. Similarly Covens are not always the best institutions to be stuck in.
+Other sources of inspiration include Buffy the Vampire Slayer season 7; where a group of newly activated slayers must come to terms with their powers in the midst of a mystical war. X-Men or more specifically 'Xavier's School for Gifted Youngsters': the Covens have primarily been a place of teaching young witches to handle their powers. Lindängens Riksinternat: a LARP about a private boarding school where hazing, bullying and abuse of power was common, and encouraged under the cover of Tradition: similarly Covens are not always the best institutions to be stuck in.
 
 ## Too much information
 
 This LARP uses transparency with its players as much as possible to ensure that they can plan their own narrative accordingly. There will also be times where, depending on the players actions IN game, they will be required to go OFF with the organizers to plan scenes.
+
+Things to learn will be kept to a minimum so that the players can focus on enjoying and exploring the LARP. There will however be some game-mechanics and meta-techniques which the players will be required to learn in order to participate. These will be drilled as much as possible at the preLARP workshop, but since the LARP is designed so that players have almost nothing else to learn or prepare, you will be expected to show up already reasonably proficient. All the neccessary information will be availiable on this site.
+
+Being confident with the techniques the LARP uses will allow the players to have fun with their powers and use them to create great moments for themselves and others; invent rituals, tease each other, defend yourself and really immerse in the world.
 
 ## Safety
