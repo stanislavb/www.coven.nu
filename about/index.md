@@ -20,7 +20,7 @@ image:
 
 ## Vision
 
-Coven is a LARP about a newly, rather unwillingly, formed Coven of witches; set in the present day. The prefered playing style will be pressure cooker and meta-techniques will be used to represent the powers which will exist in the world of Coven. The idea is use the meta-techniques to create as believable looking powers as possible while still being simple to learn, use and play around with. 
+Coven is a LARP about a newly, rather unwillingly, formed Coven of witches; set in the present day. The prefered playing style will be pressure cooker and meta-techniques will be used to represent the powers which will exist in the world of Coven. The idea is to use the meta-techniques to create as believable looking powers as possible while still being simple to learn, use and play around with. 
 
 The theme is a mixture of horror, drama and action. The LARP will be railroaded but the players will be informed of the pivotal plot points so that they can play towards them. Outside of these main happenings the players are given total character and plot freedom to create the story they want; with the meta-techniques as their tools and organizers close at hand both IN and OFF to help out in any way they can.
 
