@@ -18,11 +18,34 @@ image:
 </div>
 </section><!-- /#table-of-contents -->
 
-## Meta techniques
+## Meta-techniques
 
 Sea no audiam temporibus, per paulo docendi oporteat an, in eam posse soluta veritus. In nam adhuc soluta, cu his inermis phaedrum. Ei mea intellegat liberavisse. Id soluta commune eum, cu lorem exerci lobortis mei, eirmod eripuit vocibus vis te. Ex commune deleniti has, omnes labores ne mei.
 
-Et prompta insolens ius, nec ea doctus minimum. Est dictas senserit no, an vim doming tritani. Ad tantas feugait eos. Cum eu eligendi lobortis consequuntur. Ei nam agam consequat, has nonumy omnesque eu.
+## Red, Green, Yellow
+
+Also known as the Stoplight System this meta-technique is used to gage the bounderies of the player in a scene before taking action. 
+
+Red: for stop this scene. It is not the same as break or cut. The players do not need to go out of character. They simply end the scene and do something else.
+
+Green: for yes or please escalate. 
+
+Yellow: here's fine but no further. Keep this level but do not escalate.
+
+An example of the system in use would be a bullying scene where one player is dominating the other: 
+The dominant player might get the idea that it would suit the scene to become more physical and can communicate this by for example pushing or grabbing the other player; thereby indicating the direction the dominant player is trying to take the scene. The dominant player can now ask if the other player is comfortable with this new direction by asking if it is: "Green?". 
+
+In reply the other player can say "Green" to mean 'yes I think this is a good idea and I'm ok with us escalating to controlled physical violence', "Red" to say 'no I think this scene should come to an end now' or "Yellow" to say 'I'm fine with what we were doing, I don't feel comfortable escalating it'.
+
+In this example the dominant player in the scene led, but it can just as easily be used by the other player in the scene. You also do not have to be asked in order to use the system. You can use Red, Green, Yellow to indicate how you feel in a scene even without being asked; to show your bounderies in the scene or to give your consent.
+
+## Ping-Pong
+
+This system is a quick but importat meta-technique to check the well being of your co-player. 
+
+It is not unusal to be confused over a co-players fantastic acting: I'm serious. As a player you might start to question wheter another player is actually acting or genuinly not feeling ok anymore. But since you're unsure, and you don't want to use cut to check in case you're wrong, there's the Ping-Pong system. 
+
+Discreetly whisper "Ping" into your co-players ear and wait for them to respond with "Pong". If you recieve a clear "Pong": you know they are fine and you can continue your play. If the player does not respond, you now know to use cut and to remove the player from the situation. Find organizers. However a response from your co-player is not automatically ok. Think carefully; did the response come quickly? clearly? did the person sound distressed when giving it? People can go into chock or simply be afraid to cause trouble despite feeling bad. If you are unsatisfied with the response you got we trust you to cut the scene and help your co-player. As organizers we will always prefer that you reacted extra caustiously to not at all.
 
 ## The Lottery System
 
