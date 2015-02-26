@@ -57,3 +57,11 @@ Things to learn will be kept to a minimum so that the players can focus on enjoy
 Being confident with the techniques the LARP uses will allow the players to have fun with their powers and use them to create great moments for themselves and others; invent rituals, tease each other, defend yourself and really immerse in the world.
 
 ## Safety
+
+There will be members of the Household moving about the area during the LARP. The Household is a mix of Helpers and Organizers and can always be pulled aside if you need to ask something or report a problem. 
+
+Any problems you bring to the Household will be taken seriously, and we will attempt to deal with any problems, questions or requests as swiftly as possible. Problems involving other players will always be dealt with as a team and no indiviual member of the Household will be taking major safety decisions alone. This however does not include cases where patricipants are in direct danger; such as fire or violence. 
+
+All players have signed a participant contract and any player who breaks this agreement will be asked to leave. To read the participant contract look under Practical.
+
+The LARP will use the Red, Green, Yellow system and the Ping-Pong system for safe play and a system for sex is being decided upon. To read more about these techniques go to Game Mechanics.
