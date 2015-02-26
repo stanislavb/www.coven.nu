@@ -24,7 +24,7 @@ Currently searching for location in the Stockholm region.
 
 ## Time & Dates
 
-To be confirmed.
+This autum. Exact dates to follow.
 
 ## Workshops
 
@@ -32,7 +32,7 @@ A half day workshop will take place the first day of the LARP.
 
 ## What to bring with you
 
-As your character you will only be expected to bring minimal bagage. Overnight gear such as toothbrushes, pyjamas, a towel etc is recommended and at least one change of black clothes is required. Everything else, such as bedding, will be provided.
+As your character you will only be expected to bring minimal bagage. Overnight gear such as toothbrushes, pyjamas, a towel etc is recommended and at least one change of black clothes is required. Beds with pillows and covers exist on sight but you will be required to bring your own bedsheets.
 
 ## Terminology OFF
 
@@ -41,6 +41,10 @@ latin text
 ## Terminology IN
 
 More latin text
+
+## Participant Contract
+
+Latin text
 
 ## Contact
 
