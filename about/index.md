@@ -20,17 +20,13 @@ image:
 
 ## Vision
 
-Coven is a LARP about a newly, rather unwillingly, formed Coven of witches; set in the present day. The prefered playing style will be pressure cooker and meta-techniques will be used to represent the powers which will exist in the world of Coven. The idea is to use the meta-techniques to create as believable looking powers as possible while still being simple to learn, use and play around with. 
+Coven takes place in a newly, rather unwillingly, formed Coven of witches: present day, Sweden. It's about cool powers; the witches that wield them, and the people trying to kill them for it. 
 
-The theme is a mixture of horror, drama and action. The LARP will be railroaded but the players will be informed of the pivotal plot points so that they can play towards them. Outside of these main happenings the players are given total character and plot freedom to create the story they want; with the meta-techniques as their tools and organizers close at hand both IN and OFF to help out in any way they can.
+A chance to: indulge in highschool clishés, make friends, be betrayed, fall in love, accidentaly kill someone and desperatly try to ressurected them before the Headmistress finds out...or simply cover your tracks. 
 
-This is a LARP about cool powers, the witches that wield them and the people trying to kill them for it.
+The mood is tense and electric. The future is unsure, and you have either way too little power or too much to be in control. You have to make friends. You have to trust. You have to help each other or you'll most probably die one day soon, far too soon for your taste. 
 
-*[meta-technique]: A game mechnanic.
-
-*[pressure cooker]: A playing style where conflicts and drama are played out behind closed doors or in small groups.
-
-*[railroaded]: A game design.
+But first you have to work out where the biggest threat lies: outside your Coven or within it?
 
 ## Background Story
 
