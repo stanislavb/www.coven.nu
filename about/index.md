@@ -32,7 +32,7 @@ But first you have to work out where the biggest threat lies: outside your Coven
 
 Witches have always existed, but they have mostly kept to themselves and avoided discovery by the outside world. Covens have been their home, refuge and community. 
 
-There has always existed Witch Hunters. Under the cover of large organizations they have tracked and killed Witches for generations. Over the last thirty years they have suceeded in exterminating Coven after Coven. The few Covens that remain are in hiding and many witches have renounced their powers and assimilated into the rest of society. The few Covens remaining are mostly resigned to their fate since they have no where else to go. Even their greatest authority the Witches' Council seemed to have given up. 
+There has always existed Witch Hunters. Under the cover of large organizations they have tracked and killed Witches for generations. Over the last thirty years they have suceeded in exterminating Coven after Coven. The few Covens that remain are in hiding and many witches have renounced their powers and assimilated into the rest of society. The few Covens remaining are mostly resigned to their fate since they have nowhere else to go. Even their greatest authority the Witches' Council seemed to have given up. 
 
 Then suddenly something changed. The Witch Hunters stopped focusing on Covens as their main target and started going after individual witches. At first previous Coven members, but then they started targeting anyone with magical potential, sinisterly before many of them were even aware of their own legacy. The Witches' Council was forced to step in; rescuing young witches and sending them to the few Covens still undiscovered by the Witch Hunters. 
 
