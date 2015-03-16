@@ -1,8 +1,7 @@
 ---
 layout: page
-title: Magic
-tags: [magic]
-modified: 2015-01-11
+title: Magi
+tags: [magi]
 comments: true
 image:
   feature: sample-image-1.jpg
@@ -10,19 +9,19 @@ image:
 
 <section id="table-of-contents" class="toc">
   <header>
-    <h3>Contents</h3>
+    <h3>Innehåll</h3>
   </header>
 <div id="drawer" markdown="1">
-*  Auto generated table of contents
+*  Autogenererad innehållsförteckning
 {:toc}
 </div>
 </section><!-- /#table-of-contents -->
 
-## The Five Powers
+## De Fem Krafterna
 
 As the Covens died out, and witches stopped using their gifts, the powers got weaker and many disappeared almost all together. Mortis, Vitalis, Concilium, Clairvoyance and Transferal are the most commonly seen of the remaining powers. There have through the generations existed several different variants and mutations but all the remaining powers can be traced back as originating from the seven main powers: The Seven Wonders. 
 
-### Mortis: Touch of Death
+### Mortis: Dödens Beröring
 
 The power to take life is the second most potent power and very hard to control. It originates from the Wonder: Descensum. 
 
@@ -30,7 +29,7 @@ Mortis requires skin to skin contact with the victim; the words "Alma, Mortis" a
 
 Mortis manifests differently depending on the witch casting it; some can only cast it when taken over by a strong emotion, some have no control at all and cast it without intention, some can cast it at will but require more skin contact to do so. 
 
-### Vitalis: Power of Resurrection
+### Vitalis: Återuppstå
 
 The power to return life to the dead is the most potent power remaining and can be difficult to perfect, often needing much practice. It originates from the Wonder: Vitalum Vitalis.
 
@@ -40,7 +39,7 @@ Mastering Vitalis successfully is no easy feat and the side effects of being rai
 
 The after effects of being raised back from the dead can give the victim a euphoric high comparable with some drugs; this has resulted in some witches using Mortis and Vitalis on each other to get a kick. There are of course many risks, the longer the victim is under the better the high, but the stronger the witch needs to be in order to resurrect correctly. Mortis from some witches can also result in a bad trip.
 
-### Concilium: Mind Control
+### Concilium: Kontrollera Person
 
 The power to control another’s mind and by extension often their body. It originates from the Wonder: Concilium.
 
@@ -48,7 +47,7 @@ Concilium varies slightly depending on the ability and strength of the caster. E
 
 A good indicator that Concilium has been used is the sharp but temporary headache that often follows a longer Concilium exposure. If the victim is being exposed to Concilium repeatedly or has been under Concilium for some time this can even lead to migraines, nausea and vomiting.
 
-### Clarvoyance: Mind Reading
+### Clarvoyance: Tankeläsning
 
 The power to read anothers thoughts. It originates from the Wonder: Clarvoyance.
 
@@ -56,7 +55,7 @@ Clarvoyance and Concilium have a lot of similarities; both vary slightly dependi
 
 As with Concilium the strength of the caster versus the strength of the victim is relevant; a stronger witch might be able to resist or break the Clarvoyance of a weaker witch. 
 
-### Transferal: Shifting injury to others
+### Transferal: Skicka vidare skada till andra
 
 The power to transfer pain and injury onto others. It originates from the Wonder: Transmutation.
 
@@ -64,15 +63,15 @@ Transferal requires that the caster has eye contact with their victim throughout
 
 It is harder for a weaker witch to break the Transferal by a stronger witch, but the Transferal can be broken by a third person breaking the eye contact between caster and victim.
 
-## The Seven Wonders
+## De Sju Undren
 
 Every Supreme of every Coven has gone through the trial of The Seven Wonders and proven themselves to be the most powerful witch in their Coven: able to command all seven powers. Only one is chosen and the other candidates are eliminated round by round. It is possible to die during the trials. You only enter the trial once in your life, if at all. Entering the trials can be a way to speed up the reveal of your powers but it can be a high price to pay; even if you survive the trials you cease to develop anymore powers afterwards. There is no known knowledge avaliable to explain why this happens. Nor to explain why every recorded attempt of a witch to retake the trials has ended in death. 
 
-## Rituals
+## Ritualer
 
 Zombie ipsum reversus ab viral inferno, nam rick grimes malum cerebro. De carne lumbering animata corpora quaeritis. Summus brains sit​​, morbo vel maleficia? De apocalypsi gorger omero undead survivor dictum mauris. Hi mindless mortuis soulless creaturas, imo evil stalking monstra adventus resi dentevil vultus comedat cerebella viventium. Qui animated corpse, cricket bat max brucks terribilem incessu zomby. The voodoo sacerdos flesh eater, suscitat mortuos comedere carnem virus. Zonbi tattered for solum oculi eorum defunctis go lum cerebro. Nescio brains an Undead zombies. Sicut malus putrid voodoo horror. Nigh tofth eliv ingdead.
 
-## Crystals
+## Kristaller
 
 Cum horribilem walking dead resurgere de crazed sepulcris creaturis, zombie sicut de grave feeding iride et serpens. Pestilentia, shaun ofthe dead scythe animated corpses ipsa screams. Pestilentia est plague haec decaying ambulabat mortuos. Sicut zeder apathetic malus voodoo. Aenean a dolor plan et terror soulless vulnerum contagium accedunt, mortui iam vivam unlife. Qui tardius moveri, brid eof reanimator sed in magna copia sint terribiles undeath legionis. Alii missing oculis aliorum sicut serpere crabs nostram. Putridi braindead odores kill and infect, aere implent left four dead.
 

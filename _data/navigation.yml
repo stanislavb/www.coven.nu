@@ -1,16 +1,16 @@
 # Site navigation links
 
-- title: About
-  url: /about/
+- title: Om lajvet
+  url: /om-lajvet/
 
-- title: Characters
-  url: /characters/
+- title: Roller
+  url: /roller/
 
-- title: Magic
-  url: /magic/
+- title: Magi
+  url: /magi/
 
-- title: Game Mechanics
-  url: /game-mechanics/
+- title: Spelteknik
+  url: /spelteknik/
 
-- title: Practical
-  url: /practical/
+- title: Praktiskt
+  url: /praktiskt/

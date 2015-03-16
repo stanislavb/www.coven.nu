@@ -1,8 +1,7 @@
 ---
 layout: page
-title: About
-tags: [about]
-modified: 2015-01-11
+title: Om lajvet
+tags: [om lajvet]
 comments: true
 image:
   feature: sample-image-1.jpg
@@ -10,10 +9,10 @@ image:
 
 <section id="table-of-contents" class="toc">
   <header>
-    <h3>Contents</h3>
+    <h3>Innehåll</h3>
   </header>
 <div id="drawer" markdown="1">
-*  Auto generated table of contents
+*  Autogenererad innehållsförteckning
 {:toc}
 </div>
 </section><!-- /#table-of-contents -->
@@ -28,7 +27,7 @@ The mood is tense. The future is unsure, and you have either way too little powe
 
 But first you have to work out where the biggest threat lies: outside your Coven or within it?
 
-## Background Story
+## Bakgrund
 
 Witches have always existed, but they have mostly kept to themselves and avoided discovery by the outside world. Covens have been their home, refuge and community. 
 
@@ -50,7 +49,7 @@ X-Men or more specifically "Xavier's School for Gifted Youngsters": the Covens h
 
 Lindängens Riksinternat: a LARP about a private boarding school where hazing, bullying and abuse of power was common, and encouraged under the cover of "tradition". Similarly Covens are not always the best institutions to be stuck in.
 
-## Too much information
+## Ytterligare information
 
 This LARP uses transparency with its players as much as possible to ensure that they can plan their own narrative accordingly. There will also be times where, depending on the players actions IN game, they will be required to go OFF with the organizers to plan scenes.
 
@@ -58,7 +57,7 @@ Things to learn will be kept to a minimum so that the players can focus on enjoy
 
 Being confident with the techniques the LARP uses will allow the players to have fun with their powers and use them to create great moments for themselves and others; invent rituals, tease each other, defend yourself and really immerse in the world.
 
-## Safety
+## Säkerhet
 
 There will be members of the Household moving about the area during the LARP. The Household is a mix of Helpers and Organizers and can always be pulled aside if you need to ask something or report a problem. 
 

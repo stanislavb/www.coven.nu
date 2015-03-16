@@ -1,7 +1,7 @@
 # Site wide configuration
 
 title:            Coven
-locale:           en_US
+locale:           sv
 url:              https://www.coven.nu
 
 
@@ -26,9 +26,9 @@ kramdown:
 # Event info
 event:
   name: Coven
-  tagline: Witch LARP
+  tagline: Häxlajv
   logo: skull.jpg
-  description: "A Live Action Roleplaying event taking place in Sweden 2015"
+  description: "Ett lajv nära Stockholm i september 2015"
   email: coven@example.com
 #  twitter: CovenLARP
 #  facebook: CovenLARP

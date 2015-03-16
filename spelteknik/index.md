@@ -1,8 +1,7 @@
 ---
 layout: page
-title: Game Mechanics
-tags: [game mechanics]
-modified: 2015-01-11
+title: Spelmekanik
+tags: [spelmekanik]
 comments: true
 image:
   feature: sample-image-1.jpg
@@ -10,15 +9,15 @@ image:
 
 <section id="table-of-contents" class="toc">
   <header>
-    <h3>Contents</h3>
+    <h3>Innehåll</h3>
   </header>
 <div id="drawer" markdown="1">
-*  Auto generated table of contents
+*  Autogenererad innehållsförteckning
 {:toc}
 </div>
 </section><!-- /#table-of-contents -->
 
-## The Lottery System
+## Lotteri
 
 Each player will begin with 1-3 out of the 5 powers. During the game the players can communicate with a member of ‘the household’ about receiving a new power. The lotto system consists of pulling a coloured bead out of a bag; each power is represented by a colour. Once a new power has been chosen the player receives an envelope in the colour of their new power containing a short note and a reminder of how the power works. 
 
@@ -28,17 +27,17 @@ The new power does not have to be played on straight away. The player can even c
 
 A player can choose to receive no new powers at all or all 5 powers, at any pace they choose. You must have at least three powers by the afternoon of the second day if you wish to enter into The Seven Wonders.
 
-## Cut or Break
+## Kutt och brems
 
 Both of these will mean the same thing: stop what you are doing something is wrong in this scene. This can be anything from a player being about to do something they are not allowed to do OFF, to a player being overwhelmed by a situation and needing help OFF. When you hear someone shout "Cut" or "Break" you do not need to rush over. It is much better to simply stop where you are and let the situation be resolved by those involved and the organizers if needed. Once the situation is resolved the play can continue.
 
-## Meta-techniques
+## Metateknik
 
 These are ways in which we can communicate between players in-game without having to stop the game completely and break character. As a player if you see or hear these techniques and they are not being directed to you personally, you most often ignore them, they do not exist in the in-game world.
 
 There are different interpretations of all meta-techniques depending on the country or even the community they are being used in. Because of this please read our interpretations carefully even if you feel you are already familiar with these techniques. These are the versions we will use at our LARP.
 
-## Red, Green, Yellow
+## Rött, grönt, gult
 
 Also known as the Stoplight System this meta-technique is used to gage the bounderies of the player in a scene before taking action. 
 

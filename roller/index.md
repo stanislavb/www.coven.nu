@@ -1,8 +1,7 @@
 ---
 layout: page
-title: Characters
-tags: [characters]
-modified: 2015-01-11
+title: Roller
+tags: [roller]
 comments: true
 image:
   feature: sample-image-1.jpg
@@ -10,10 +9,10 @@ image:
 
 <section id="table-of-contents" class="toc">
   <header>
-    <h3>Contents</h3>
+    <h3>Innehåll</h3>
   </header>
 <div id="drawer" markdown="1">
-*  Auto generated table of contents
+*  Autogenererad innehållsförteckning
 {:toc}
 </div>
 </section><!-- /#table-of-contents -->
@@ -34,7 +33,7 @@ The Maidens are the highest ranking witches under the Supreme. They were most of
 
 *There are two Maidens at the Dahlin Coven. These roles will have additional responsibilities during the larp and be responsible for holding some lessons.*
 
-## The Witches
+## Häxorna
 
 Witches develop their first power around puberty. Mishaps which foreshadow a later power have however been known to occur earlier; suggesting that the power is dormant in the body until puberty activates it. It is not unusual for it to be very weak in the beginning or to mutate into a more powerful form as the witch grows. So unless the power is particularly strong or traumatic, most witches only start to become aware of their own power in their late teens. At that point a second power might even have begun developing.
 
@@ -46,16 +45,16 @@ There exists a strict hierarchy within a Coven. Even though only the Supreme and
 
 *The majority of roles at this larp will be juniors, newly arrived. Some will be seniors and these roles will have some additional responsibilities.*
 
-## The Household
+## Hushållet
 
 The household includes the cooks and the staff. Most of them have been a part of the Dahlin household from the start. 
 
 *The household is made up of both players and NPCs.*
 
-## Friends & Family
+## Vänner och Familj
 
 In your character description you will find that some of the people in your characters life have been mentioned. We strongly encourage you to invite people to play either these roles or others which you feel would benefit your character. 
 
-## The Witch Hunters
+## Häxjägare
 
 *NPC group.*

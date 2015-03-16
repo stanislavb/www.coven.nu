@@ -1,11 +1,11 @@
 ---
 layout: page
-title: Website published
+title: Hemsida publicerad
 tags: [about, Jekyll, theme, responsive]
 comments: true
 image:
   feature: sample-image-1.jpg
 ---
 
-## Awesome
-Finally website is published. Celebration!
+## Äntligen
+Hemsidan publicerad. Hurra!
