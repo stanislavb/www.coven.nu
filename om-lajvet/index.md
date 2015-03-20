@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Om lajvet
-tags: [om lajvet]
+tags: [om lajvet, bakgrund, inspiration, säkerhet]
 comments: true
 image:
   feature: sample-image-1.jpg

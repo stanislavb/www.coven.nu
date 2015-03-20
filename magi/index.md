@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Magi
-tags: [magi]
+tags: [magi, krafter, ritualer, tarot, kristaller]
 comments: true
 image:
   feature: sample-image-1.jpg

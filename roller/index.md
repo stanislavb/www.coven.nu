@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Roller
-tags: [roller]
+tags: [roller, häxor, häxjägare, hushåll]
 comments: true
 image:
   feature: sample-image-1.jpg

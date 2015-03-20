@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Praktiskt
-tags: [praktiskt]
+tags: [praktiskt, stockholm, plats, tid, september, terminologi, deltagarkontrakt, kontakt]
 comments: true
 image:
   feature: sample-image-1.jpg
@@ -19,11 +19,11 @@ image:
 
 ## Plats
 
-Currently searching for location in the Stockholm region.
+Nära Stockholm.
 
 ## Datum och tid
 
-This autum. Exact dates to follow.
+18-20 september 2015.
 
 ## Workshops
 

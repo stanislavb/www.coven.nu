@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Spelmekanik
-tags: [spelmekanik]
+title: Metateknik
+tags: [metateknik, lotteri, kutt, brems, ping, pong]
 comments: true
 image:
   feature: sample-image-1.jpg

@@ -10,6 +10,7 @@
 <h3>{{ event.name }}</h3>
 <p>{{ event.tagline }}</p>
 <p>{{ event.description }}</p>
+{% include _link_to_english.html %}
 {% if event.email %}<a href="mailto:{{ event.email }}" class="event-social" target="_blank"><i class="fa fa-fw fa-envelope-square"></i> Email</a>{% endif %}
 {% if event.twitter %}<a href="http://twitter.com/{{ event.twitter }}" class="event-social" target="_blank"><i class="fa fa-fw fa-twitter-square"></i> Twitter</a>{% endif %}
 {% if event.facebook %}<a href="http://facebook.com/{{ event.facebook }}" class="event-social" target="_blank"><i class="fa fa-fw fa-facebook-square"></i> Facebook</a>{% endif %}

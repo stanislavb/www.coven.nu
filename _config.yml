@@ -1,8 +1,8 @@
 # Site wide configuration
 
-title:            Coven
+title:            Coven 18-20 September
 locale:           sv
-url:              https://www.coven.nu
+url:              http://127.0.0.1:4000
 
 
 # Jekyll configuration
@@ -28,15 +28,13 @@ event:
   name: Coven
   tagline: Häxlajv
   logo: skull.jpg
-  description: "Ett lajv nära Stockholm i september 2015"
+  description: "Ett lajv i Stockholmsområdet 18-20 september 2015"
   email: coven@example.com
 #  twitter: CovenLARP
 #  facebook: CovenLARP
   google:
     analytics: 
     verify: 
-    ad-client: 
-    ad-slot: 
 
 include: [".htaccess"]
 exclude: ["lib", "config.rb", "Capfile", "config", "log", "Rakefile", "Rakefile.rb", "tmp", "less", "*.sublime-project", "*.sublime-workspace", "test", "spec", "Gruntfile.js", "package.json", "node_modules", "Gemfile", "Gemfile.lock", "LICENSE", "README.md", "vendor"]
