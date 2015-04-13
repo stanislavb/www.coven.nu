@@ -23,7 +23,7 @@ Det finns många olika sätt att tolka och utföra metatekniker på, beroende p�
 
 ## Krafterna
 
-Nästan allt kring att få och att använda dina krafter är meta techniker. 
+Nästan allt kring att få och att använda dina krafter är metatekniker. 
 
 Det betyder att  pärlorna som symboliserar dina krafter är “osynliga” i spelets värld och det är även breven du får när du lottar en ny kraft. Dem finns som en påminelse för dig själv och för andra spelare om vilka krafter som finns och vem som har dem.
 
@@ -35,7 +35,7 @@ Det är även en indikation OFF att din karaktär medvetet använder sina krafte
 
 Varje spelare kommer att börja lajvet med 1-3 av de fem krafterna. Under spelets gång kan du som spelare prata med en medlem ur hushållet om att få fler kraft, en i taget. 
 
-Vilken ny kraft du får är utlottat. Detta går ut på att dra en pärla ur en påse: färgen på pärlan symboliserar en kraft. När en ny kraft blivit dragen får spelaren ett kuvert med samma färg som pärlan, innehållandes en kort beskrivning av kraften och en påminnelse om hur den ska användas. Pärlan är också en symbol IN till andra spelare om vilka krafter du har att använda. De kan sitta på ett halsband eller armband men ska alltid hållas synliga för andra spelare. 
+Det är utlottat vilka nya krafter du kan få. Detta går ut på att dra en pärla ur en påse: färgen på pärlan symboliserar en kraft. När en ny kraft blivit dragen får spelaren ett kuvert med samma färg som pärlan, innehållandes en kort beskrivning av kraften och en påminnelse om hur den ska användas. Pärlan är också en symbol IN till andra spelare om vilka krafter du har att använda. De kan sitta på ett halsband eller armband men ska alltid hållas synliga för andra spelare. 
 
 Den nya kraften behöver inte sättas i spel direkt, du som spelare kan välja att öppna kuvertat och sätta pärlan med dina andra vid ett senare tillfälle. Kuverten finns inte IN, men kan lämnas synliga för att ge andra spelare möjligheten att spela på misstankar om dina begynnande krafter, om du vill. Det är dock först när pärlan sitter på ditt halsband/armband som du och dina medspelare kan spela på din nya kraft fullt ut.
 
@@ -51,7 +51,7 @@ Också känt som trafikljus- eller stoppljussystemet. Den här tekniken används
 
 Användning av Grönt för att ändra riktning i spel, exempel:
 
-Kim och Sam har en scen tillsammas där de bråkar med varandra. Scenen går väl med högljudd bråkande och Kim får idén att den borde trappas upp och bli mer fysisk; Kim puttar lätt på Sam och frågar lågt “Grönt?”. Sam vet nu att Kim vill bli mer fysisk i scenen och om hen svarar med “Grönt” kommer Kim att börja eskalera i den riktningen. Om Sam svara “Gult” kommer Kim att slutta putta hen och återgå till det högljudda bråket. Och om Sam svarar “Rött” kommer Kim att back helt. 
+Kim och Sam har en scen tillsammas där de bråkar med varandra. Scenen går väl med högljutt bråkande och Kim får idén att den borde trappas upp och bli mer fysisk; Kim puttar lätt på Sam och frågar lågt “Grönt?”. Sam vet nu att Kim vill bli mer fysisk i scenen och om hen svarar med “Grönt” kommer Kim att börja eskalera i den riktningen. Om Sam svarar “Gult” kommer Kim att slutta putta hen och återgå till det högljudda bråket. Och om Sam svarar “Rött” kommer Kim att backa helt. 
 
 Användning av Grönt som trygghetskoll, exempel:
 

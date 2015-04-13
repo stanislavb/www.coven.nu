@@ -64,7 +64,7 @@ svg:not(:root) {
     color: $white;
   }
   &:hover {
-    background-color: $white;
+    background-color: $black;
     color: $primary;
   }
 }
@@ -76,7 +76,7 @@ svg:not(:root) {
     color: $white;
   }
   &:hover {
-    background-color: $white;
+    background-color: $black;
     color: $success;
   }
 }
@@ -88,7 +88,7 @@ svg:not(:root) {
     color: $white;
   }
   &:hover {
-    background-color: $white;
+    background-color: $black;
     color: $warning;
   }
 }
@@ -100,7 +100,7 @@ svg:not(:root) {
     color: $white;
   }
   &:hover {
-    background-color: $white;
+    background-color: $black;
     color: $danger;
   }
 }
@@ -112,7 +112,7 @@ svg:not(:root) {
     color: $white;
   }
   &:hover {
-    background-color: $white;
+    background-color: $black;
     color: $info;
   }
 }

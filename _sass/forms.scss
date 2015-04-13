@@ -62,8 +62,9 @@ select {
 	width: 100%;
 	padding: 4px;
 	margin-bottom: 5px / 4;
-	background-color: $white;
-	border: 1px solid lighten($black, 80);
+	background-color: $black;
+	border: 0px;
+	#border: 1px solid lighten($black, 80);
 	color: $textcolor; 
 	&:hover {
 		border-color: lighten($accentcolor, 50); 
@@ -111,6 +112,7 @@ input[type="file"] {
 input[type="button"],
 input[type="reset"],
 input[type="submit"] {
+        display: none;
 	width : auto;
 	height : auto;
 	cursor : pointer;
@@ -122,7 +124,7 @@ input[type="file"] {
 }
 select {
 	width : auto;
-	background-color : $white;
+	background-color : $black;
 }
 select[multiple],
 select[size] {
