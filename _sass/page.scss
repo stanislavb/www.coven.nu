@@ -30,6 +30,12 @@ body {
 		@include prefix(12,2);
 	}
 }
+.language-link {
+    @include font-rem(22);
+    @media #{$small} {
+        @include font-rem(12);
+    }
+}
 .top-navigation {
 	@include grid(12,10);
 	@include prefix(12,1);
