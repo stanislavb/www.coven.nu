@@ -17,6 +17,10 @@ image:
 </div>
 </section><!-- /#table-of-contents -->
 
+Vi använder metatekniker på lajv för att förmedla en önskad handling av våra medspelare medan vi är IN. Ett exempel är användningen av magi på lajvet som förmedlas med kodord och handrörelser; dessa är metatekniker. Som spelare ska du alltid lyssna/titta på dessa instruktioner utan att avbryta för att förstå vad som förväntas av dig. Beroende på situation kan det även vara passande för din karaktär (inte dig) att ignorera att de kan höra/se dessa instruktioner och att sedan bara spela på resulatet.
+
+Det finns många olika sätt att tolka och utföra metatekniker på, beroende på vana och lajvkultur. Läs därför genom informationen noggrant även om du har använt metatekniker förut. Vi kommer att gå genom de relevanta metateknikerna för detta lajv under workshoppen. Du förväntas att ha läst och lärt dig dem som står med här på hemsidan innan vi övar på dem tillsammans.
+
 ## Lotteri
 
 Varje spelare kommer att börja lajvet med 1-3 av de fem krafterna. Under spelets gång kan du som spelare prata med en medlem ur hushållet om att få fler kraft, en i taget. 
@@ -27,35 +31,28 @@ Den nya kraften behöver inte sättas i spel direkt, du som spelare kan välja a
 
 Du som spelare väljer själv om du vill få alla fem krafterna under lajvets gång eller inte få några nya alls. Om du vill delta i De Sju Proven som sker på andra dagen, så behöver du ha minst tre krafter före den eftermiddagen.
 
-## Metateknik
-
-Vi använder metatekniker för att förmedla en önskad handling av våra medspelare medan vi är IN. Ett exempel är användningen av magi på lajvet som förmedlas med kodord och handrörelser; dessa är metatekniker. Som spelare ska du alltid lyssna/titta på dessa instruktioner utan att avbryta för att förstå vad som förväntas av dig. Beroende på situation kan det även vara passande för din karaktär (inte dig) att ignorera att de kan höra/se dessa instruktioner och att sedan bara spela på resulatet.
-
-Det finns många olika sätt att tolka och utföra metatekniker på, beroende på vana och lajvkultur. Läs därför genom informationen noggrant även om du har använt metatekniker förut. Vi kommer att gå genom de relevanta metateknikerna för detta lajv under workshoppen. Du förväntas att ha läst och lärt dig dem som står med här på hemsidan innan vi övar på dem tillsammans.
-
 ## Rött, grönt, gult
 
-Also known as the Stoplight System this meta-technique is used to gage the bounderies of the player in a scene before taking action. 
+Också känt som trafikljus- eller stoppljussystemet. Den här tekniken används för att låta spelare sätta och kommunicera kring sina personliga gränser under pågående spel. Vi ger dig först betydelserna i korthet och presenterar sedan några exempel på hur användningen kan gå till.
 
-Red: for stop this scene. It is not the same as break or cut. The players do not need to go out of character. They simply end the scene and do something else.
+- Grönt: Eskalera spelet eller fråga om en spelare mår bra OFF.
+- Gult:	Hit men inte längre, jag har nått min gräns men vi behöver inte sluta spela.
+- Rött: Avsluta omedelbart, kolla att spelaren är ok.
 
-Green: for yes or please escalate. 
+Användning av Grönt för att ändra riktning i spel, exempel:
 
-Yellow: here's fine but no further. Keep this level but do not escalate.
+Kim och Sam har en scen tillsammas där de bråkar med varandra. Scenen går väl med högljudd bråkande och Kim får idén att den borde trappas upp och bli mer fysisk; Kim puttar lätt på Sam och frågar lågt “Grönt?”. Sam vet nu att Kim vill bli mer fysisk i scenen och om hen svarar med “Grönt” kommer Kim att börja eskalera i den riktningen. Om Sam svara “Gult” kommer Kim att slutta putta hen och återgå till det högljudda bråket. Och om Sam svarar “Rött” kommer Kim att back helt. 
 
-An example of the system in use would be a bullying scene where one player is dominating the other: 
-The dominant player might get the idea that it would suit the scene to become more physical and can communicate this by for example pushing or grabbing the other player; thereby indicating the direction the dominant player is trying to take the scene. The dominant player can now ask if the other player is comfortable with this new direction by asking if it is: "Green?". 
+Användning av Grönt som trygghetskoll, exempel:
 
-In reply the other player can say "Green" to mean 'yes I think this is a good idea and I'm ok with us escalating to controlled physical violence', "Red" to say 'no I think this scene should come to an end now' or "Yellow" to say 'I'm fine with what we were doing, I don't feel comfortable escalating it'.
+Som fortsättning på första exemplet. Sam har valt att svara “Rött” på Kim’s fråga om upptrappning av spel. Kim har omedelbart upphört båda att putta på Sam och att bråka. Nu vill Kim veta om Sam är ok OFF; så hen frågar lågt “Grönt” igen, Sam vet att detta är för att kolla hens välmående och väljer nu antigen att svara “Grönt”, så att Kim vet att hen kan lämna scenen. Eller så säger Sam “OFF”: detta bryter spelet helt. Kim och Sam kan nu samtala om vad som skett, Kim kan fråga vad Sam behöver och ta hen till en trygghetsvärd om nödvändigt.
 
-In this example the dominant player in the scene led, but it can just as easily be used by the other player in the scene. You also do not have to be asked in order to use the system. You can use Red, Green, Yellow to indicate how you feel in a scene even without being asked; to show your bounderies in the scene or to give your consent.
+Sam behöver dock inte vänta på Kims fråga för att säga OFF. Spelare bör alltid bryta spelet om något sker som får dem att känna sig rädda/otrygga OFF. 
 
-## Ping-Pong
+Grönt för att be om upptrappning, exempel:
 
-This system is a quick but importat meta-technique to check the well being of your co-player. 
+I båda de förra exemplen har Kim varit den initiativtagande spelaren och Sam den passiva. Men Grönt kan även användas för att be om spel mot en:
 
-It is not unusal to be confused over a co-players fantastic acting: I'm serious. As a player you might start to question wheter another player is actually acting or genuinly not feeling ok anymore. But since you're unsure, and you don't want to use cut to check in case you're wrong, there's the Ping-Pong system. 
+Sam och Kim har nu en scen där stämningen är romantisk, detta har skett spontant och utan att spelarna har diskuterat det på förhand. Kim vill nu signalera att vad som sker är ok och att Sam får eskalera om hen vill. Kim säger “Grönt”. Sam har nu tillåtelse att eskalera spelet, eller om detta är nivån som Sam är bekväm med kan hen svara “Gult”, och om hen vill avsluta scenen här “Rött”.
 
-Discreetly whisper "Ping" into your co-players ear and wait for them to respond with "Pong". If you recieve a clear "Pong": you know they are fine and you can continue your play. If the player does not respond, you now know to use cut and to remove the player from the situation. Find organizers. However a response from your co-player is not automatically ok. Think carefully; did the response come quickly? clearly? did the person sound distressed when giving it? People can go into chock or simply be afraid to cause trouble despite feeling bad. If you are unsatisfied with the response you got we trust you to cut the scene and help your co-player. As organizers we will always prefer that you reacted extra caustiously to not at all.
-
-
+Om en spelare väljer att använda “Rött” och sen när du ställer påföljar frågan svara de “Grönt”, föreslår vi ändå att du vid snaraste möjliga tillfälle tar spelaren OFF och kollar läget. Detta system kommer att övas på under workshoppen.
