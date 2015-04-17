@@ -23,8 +23,8 @@ Frustunaby. 20 minuters promenad från Gnesta station dit pendeltåg går regelb
 
 ## Datum och tid
 
-Svenska rundan: 	18-20 september
-Engelska rundan:	 2-4 oktober
+* Svenska rundan: 	18-20 september
+* Engelska rundan:	 2-4 oktober
 
 ## Workshops
 
