@@ -33,20 +33,10 @@ Fiktionen och ramverket är mestadels inspirerad av den amerikanska tv-serien �
 
 En annan inspirationskälla är boken “Cirkeln”. Läs den eller se filmen om du vill ha en inblick i de arketyper vi kommer att använda oss av i vårt skapande av karaktärerna. Cirkeln är också mer likt den stämning vi vill komma åt på lajvet.
 
-## Ytterligare information
+## Innehållsförteckning
 
-This LARP uses transparency with its players as much as possible to ensure that they can plan their own narrative accordingly. There will also be times where, depending on the players actions IN game, they will be required to go OFF with the organizers to plan scenes.
+Det här lajvet innehåller spår av: skräck, grupp tryck, möjlig mobbning, våld och möjligtvis blood och äckel.
 
-Things to learn will be kept to a minimum so that the players can focus on enjoying and exploring the LARP. There will however be some game-mechanics and meta-techniques which the players will be required to learn in order to participate. These will be drilled as much as possible at the preLARP workshop, but since the LARP is designed so that players have almost nothing else to learn or prepare, you will be expected to show up already reasonably proficient. All the neccessary information will be availiable on this site.
+Det här lajvet innehåller inte: riktig alkohol, sex eller droger.
 
-Being confident with the techniques the LARP uses will allow the players to have fun with their powers and use them to create great moments for themselves and others; invent rituals, tease each other, defend yourself and really immerse in the world.
-
-## Säkerhet
-
-There will be members of the Household moving about the area during the LARP. The Household is a mix of Helpers and Organizers and can always be pulled aside if you need to ask something or report a problem. 
-
-Any problems you bring to the Household will be taken seriously, and we will attempt to deal with any problems, questions or requests as swiftly as possible. Problems involving other players will always be dealt with as a team and no indiviual member of the Household will be taking major safety decisions alone. This however does not include cases where patricipants are in direct danger; such as fire or violence. 
-
-All players have signed a participant contract and any player who breaks this agreement will be asked to leave. To read the participant contract look under Practical.
-
-The LARP will use the Red, Green, Yellow system and the Ping-Pong system for safe play and a system for sex is being decided upon. To read more about these techniques go to Game Mechanics.
+För mer information om säkerhet och välmående under lajvet, se vårt deltagarkontrakt och trygghetsdokument under fliken [praktiskt](praktiskt/).
