@@ -27,15 +27,11 @@ Den nya kraften behöver inte sättas i spel direkt, du som spelare kan välja a
 
 Du som spelare väljer själv om du vill få alla fem krafterna under lajvets gång eller inte få några nya alls. Om du vill delta i De Sju Proven som sker på andra dagen, så behöver du ha minst tre krafter före den eftermiddagen.
 
-## Kutt och brems
-
-Both of these will mean the same thing: stop what you are doing something is wrong in this scene. This can be anything from a player being about to do something they are not allowed to do OFF, to a player being overwhelmed by a situation and needing help OFF. When you hear someone shout "Cut" or "Break" you do not need to rush over. It is much better to simply stop where you are and let the situation be resolved by those involved and the organizers if needed. Once the situation is resolved the play can continue.
-
 ## Metateknik
 
-These are ways in which we can communicate between players in-game without having to stop the game completely and break character. As a player if you see or hear these techniques and they are not being directed to you personally, you most often ignore them, they do not exist in the in-game world.
+Vi använder metatekniker för att förmedla en önskad handling av våra medspelare medan vi är IN. Ett exempel är användningen av magi på lajvet som förmedlas med kodord och handrörelser; dessa är metatekniker. Som spelare ska du alltid lyssna/titta på dessa instruktioner utan att avbryta för att förstå vad som förväntas av dig. Beroende på situation kan det även vara passande för din karaktär (inte dig) att ignorera att de kan höra/se dessa instruktioner och att sedan bara spela på resulatet.
 
-There are different interpretations of all meta-techniques depending on the country or even the community they are being used in. Because of this please read our interpretations carefully even if you feel you are already familiar with these techniques. These are the versions we will use at our LARP.
+Det finns många olika sätt att tolka och utföra metatekniker på, beroende på vana och lajvkultur. Läs därför genom informationen noggrant även om du har använt metatekniker förut. Vi kommer att gå genom de relevanta metateknikerna för detta lajv under workshoppen. Du förväntas att ha läst och lärt dig dem som står med här på hemsidan innan vi övar på dem tillsammans.
 
 ## Rött, grönt, gult
 
