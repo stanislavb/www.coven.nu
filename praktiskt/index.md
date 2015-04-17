@@ -19,45 +19,55 @@ image:
 
 ## Plats
 
-Nära Stockholm.
+Frustunaby. 20 minuters promenad från Gnesta station dit pendeltåg går regelbundet. En timmes bilkörning från Stockholm. 
 
 ## Datum och tid
 
-18-20 september 2015.
+Svenska rundan: 	18-20 september
+Engelska rundan:	 2-4 oktober
 
 ## Workshops
 
-A half day workshop will take place the first day of the LARP.
+En halv dags obligatorisk workshop finns schemalagd den första lajvdagen.
 
 ## Att ta med
 
-As your character you will only be expected to bring minimal bagage. Overnight gear such as toothbrushes, pyjamas, a towel etc is recommended and at least one change of black clothes is required. Beds with pillows and covers exist on sight but you will be required to bring your own bedsheets.
+Din karaktär förväntas enbart ta med sig en liten packning med det allra nödvändigaste, du får självklart ta med dig mer om du vill. Tänk övernattningspackning med tandborste, pyjamas, en handduk och åtminstone ett ombyte svarta kläder. Det kan bli kyligt trots att vi eldar, en extra tröja och varma strumpor rekommenderas. Sängkläder eller sovsäck behöver också packas ned, det kommer att finnas sängar med kuddar och täcken. Öronproppar rekommenderas om du vill ha din sömn ostörd.
 
 ## Terminologi OFF
 
 Cum horribilem walking dead resurgere de crazed sepulcris creaturis, zombie sicut de grave feeding iride et serpens. Pestilentia, shaun ofthe dead scythe animated corpses ipsa screams. Pestilentia est plague haec decaying ambulabat mortuos. Sicut zeder apathetic malus voodoo. Aenean a dolor plan et terror soulless vulnerum contagium accedunt, mortui iam vivam unlife. Qui tardius moveri, brid eof reanimator sed in magna copia sint terribiles undeath legionis. Alii missing oculis aliorum sicut serpere crabs nostram. Putridi braindead odores kill and infect, aere implent left four dead.
 
-Lucio fulci tremor est dark vivos magna. Expansis creepy arm yof darkness ulnis witchcraft missing carnem armis Kirkman Moore and Adlard caeruleum in locis. Romero morbo Congress amarus in auras. Nihil horum sagittis tincidunt, zombie slack-jawed gelida survival portenta. The unleashed virus est, et iam zombie mortui ambulabunt super terram. Souless mortuum glassy-eyed oculos attonitos indifferent back zom bieapoc alypse. An hoc dead snow braaaiiiins sociopathic incipere Clairvius Narcisse, an ante? Is bello mundi z?
-
-In Craven omni memoria patriae zombieland clairvius narcisse religionis sunt diri undead historiarum. Golums, zombies unrelenting et Raimi fascinati beheading. Maleficia! Vel cemetery man a modern bursting eyeballs perhsaps morbi. A terrenti flesh contagium. Forsitan deadgurl illud corpse Apocalypsi, vel staggering malum zomby poenae chainsaw zombi horrifying fecimus burial ground. Indeflexus shotgun coup de poudre monstra per plateas currere. Fit de decay nostra carne undead. Poenitentiam violent zom biehig hway agite RE:dead pœnitentiam! Vivens mortua sunt apud nos night of the living dead.
-
 ## Terminologi IN
 
-Cum horribilem walking dead resurgere de crazed sepulcris creaturis, zombie sicut de grave feeding iride et serpens. Pestilentia, shaun ofthe dead scythe animated corpses ipsa screams. Pestilentia est plague haec decaying ambulabat mortuos. Sicut zeder apathetic malus voodoo. Aenean a dolor plan et terror soulless vulnerum contagium accedunt, mortui iam vivam unlife. Qui tardius moveri, brid eof reanimator sed in magna copia sint terribiles undeath legionis. Alii missing oculis aliorum sicut serpere crabs nostram. Putridi braindead odores kill and infect, aere implent left four dead.
-
-Lucio fulci tremor est dark vivos magna. Expansis creepy arm yof darkness ulnis witchcraft missing carnem armis Kirkman Moore and Adlard caeruleum in locis. Romero morbo Congress amarus in auras. Nihil horum sagittis tincidunt, zombie slack-jawed gelida survival portenta. The unleashed virus est, et iam zombie mortui ambulabunt super terram. Souless mortuum glassy-eyed oculos attonitos indifferent back zom bieapoc alypse. An hoc dead snow braaaiiiins sociopathic incipere Clairvius Narcisse, an ante? Is bello mundi z?
-
-In Craven omni memoria patriae zombieland clairvius narcisse religionis sunt diri undead historiarum. Golums, zombies unrelenting et Raimi fascinati beheading. Maleficia! Vel cemetery man a modern bursting eyeballs perhsaps morbi. A terrenti flesh contagium. Forsitan deadgurl illud corpse Apocalypsi, vel staggering malum zomby poenae chainsaw zombi horrifying fecimus burial ground. Indeflexus shotgun coup de poudre monstra per plateas currere. Fit de decay nostra carne undead. Poenitentiam violent zom biehig hway agite RE:dead pœnitentiam! Vivens mortua sunt apud nos night of the living dead.
+-Suprema / Kårchef
+-Sekonder / biträdande kårchefer
+-Gröngölingar
+-Vad heter “seniorerna”?
 
 ## Deltagarkontrakt
 
-Cum horribilem walking dead resurgere de crazed sepulcris creaturis, zombie sicut de grave feeding iride et serpens. Pestilentia, shaun ofthe dead scythe animated corpses ipsa screams. Pestilentia est plague haec decaying ambulabat mortuos. Sicut zeder apathetic malus voodoo. Aenean a dolor plan et terror soulless vulnerum contagium accedunt, mortui iam vivam unlife. Qui tardius moveri, brid eof reanimator sed in magna copia sint terribiles undeath legionis. Alii missing oculis aliorum sicut serpere crabs nostram. Putridi braindead odores kill and infect, aere implent left four dead.
+Det här lovar vi arrangörer dig:
 
-Lucio fulci tremor est dark vivos magna. Expansis creepy arm yof darkness ulnis witchcraft missing carnem armis Kirkman Moore and Adlard caeruleum in locis. Romero morbo Congress amarus in auras. Nihil horum sagittis tincidunt, zombie slack-jawed gelida survival portenta. The unleashed virus est, et iam zombie mortui ambulabunt super terram. Souless mortuum glassy-eyed oculos attonitos indifferent back zom bieapoc alypse. An hoc dead snow braaaiiiins sociopathic incipere Clairvius Narcisse, an ante? Is bello mundi z?
+-Att den information som finns på hemsidan när anmälan öppnar kommer att gälla.
+-Områden på lajvet där du kan gå helt off vid behov, känna dig trygg och vila.
+-Ett spännande lajv med inslag av skräck och action.
+-Facebookgrupper för social interaktion.
+-En workshop i rollarbete, metatekniker och stoppord.
+-En stationär trygghetsvärd som alltid går att få tag på under lajvet.
+-En sovplats i sovsal inomhus och tre mål varm mat om dagen.
+ 
+Det här förväntar vi oss av dig som deltagare:
 
-In Craven omni memoria patriae zombieland clairvius narcisse religionis sunt diri undead historiarum. Golums, zombies unrelenting et Raimi fascinati beheading. Maleficia! Vel cemetery man a modern bursting eyeballs perhsaps morbi. A terrenti flesh contagium. Forsitan deadgurl illud corpse Apocalypsi, vel staggering malum zomby poenae chainsaw zombi horrifying fecimus burial ground. Indeflexus shotgun coup de poudre monstra per plateas currere. Fit de decay nostra carne undead. Poenitentiam violent zom biehig hway agite RE:dead pœnitentiam! Vivens mortua sunt apud nos night of the living dead.
+-Att du bidrar till en inkluderande och bejakande stämning.
+-Att du noga läser informationen på hemsidan.
+-Att du håller dig uppdaterad om ny information som kommer upp på facebook. Om du inte har ett facebook-konto behöver du skapa ett, alternativt ha regelbunden kontakt med en vän som har ett.
+-Att du ställer frågor om det är något som känns det minsta otydligt. Ju tidigare du frågar, desto större chans att vi kan göra något åt din undran.
+-Att du dyker upp den tid vi satt upp för incheckning.
+-Att du respekterar och följer regler och instruktioner.
+-Att du tar till dig detta faktum: att lajva är som att spela i en orkester, inte som att gå på teater. När du väl är anmäld och betald räknar vi med dig: du behövs i spelet och är inte spontant utbytbar tiden just innan lajvet. (vid akutfall: kontakta arr snarast).
+
 
 ## Kontakt
 
 Available soon.
-
