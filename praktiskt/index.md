@@ -70,10 +70,17 @@ Det här förväntar vi oss av dig som deltagare:
 ## Trygghetsdokument
 
 Stopp- och bromsord på detta lajv är Grönt (för upptrappning av spel), Gult, Rött. Det går också att ropa Off. Vi uppmuntrar dig som deltagare att använda orden regelbundet som du känner att de behövs under spelets gång.
+
 Stopp- och bromsord ska respekteras utan tvekan.
+
 Sexuellt baserat spel mellan roller ska vara överenskommet (med uttalat samtycke) innan det spelas på. Du är alltid välkommen att tala med trygghetsvärden om du känner dig osäker.
+
 På detta lajv kan det komma att förekomma knuffar med öppen hand och enkel fasthållning (hand över handled/arm/fot). Replikor av vapen kan komma att användas som visuellt stimuli (kommer ej användas för att faktiskt skjutas med). Du är alltid välkommen att tala med trygghetsvärden om du känner dig osäker.
+
 Annat våldsbaserat spel ska vara överenskommet (med uttalat samtycke) innan det spelas på. Du är alltid välkommen att tala med trygghetsvärden om du känner dig osäker.
+
 Spel baserat på sexism, rasism, hbtq-fobi och funkofobi är strängt förbjudet. 
+
 Deltagare som bryter mot trygghetsdokumentets regler kan komma att bli avhysta från lajvområdet med omedelbar verkan eller få sina spelmöjligheter hämmade, beroende på regelbrottets allvarlighetsgrad. Beslutet tas av arrangörerna.
+
 Om en medspelare tar upp en händelse med dig där hen känt sig obehaglig till mods/kränkt, lyssna. Erbjud en kram (fråga först, vänta på jakande svar), varm dryck eller att hen får vara ifred. Hjälp hen att ta sig till trygghetsvärden.
