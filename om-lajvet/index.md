@@ -29,15 +29,9 @@ Men först måste du ta reda på var det största hotet ligger; utanför er saml
 
 ## Inspiration
 
-The LARP was inspired foremost by the American tv-series "American Horror Story: Coven". A series about a Coven of witches in New Orleans, present day. Since then "Cirkeln", a swedish film based on a book about witches in present day Sweden, has come out. We see many parallels with our vision there too and have decided to draw inspiration from both.
+Fiktionen och ramverket är mestadels inspirerad av den amerikanska tv-serien “American Horror Story: Coven”. Du kan titta på den om du vill, men det är inte nödvändigt för att vara med på lajvet. Den sexism, rasism och appropriation av minoritetskulturer som finns i serier har blivit borttaget så noggrant som vi kunnat.
 
-Other sources of inspiration include: 
-
-Buffy the Vampire Slayer season 7: where a group of newly activated slayers must come to terms with their powers and each other, in the midst of a mystical war. 
-
-X-Men or more specifically "Xavier's School for Gifted Youngsters": the Covens have primarily been a place of teaching young witches to handle their powers. 
-
-Lindängens Riksinternat: a LARP about a private boarding school where hazing, bullying and abuse of power was common, and encouraged under the cover of "tradition". Similarly Covens are not always the best institutions to be stuck in.
+En annan inspirationskälla är boken “Cirkeln”. Läs den eller se filmen om du vill ha en inblick i de arketyper vi kommer att använda oss av i vårt skapande av karaktärerna. Cirkeln är också mer likt den stämning vi vill komma åt på lajvet.
 
 ## Ytterligare information
 
