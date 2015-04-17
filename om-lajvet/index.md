@@ -19,13 +19,13 @@ image:
 
 ## Vision
 
-Coven takes place in a newly, rather unwillingly, formed Coven of witches: present day, Sweden. It's about cool powers; the witches that wield them, and the people trying to kill them for it. 
+Coven utspelar sig i en, rätt ofrivilligt, nyformad samling häxor i nutidens Sverige. 
 
-A chance to: indulge in highschool clichés, make friends, be betrayed, fall in love, accidentaly kill someone and desperately try to ressurect them before the Surpreme Witch finds out...or simply cover your tracks. 
+Lajvet handlar om coola krafter, häxorna som innehar dem, och de personer som försöker döda dem för att de innehar dem. Du får en chans att uppleva klassiska känslor och karaktärer från gymnasietiden, skaffa nya vänner, bli sviken, bli kär, råka döda någon och desperat försöka återuppliva dem innan kårchefen får reda på det...eller bara försöka täcka dina spår.
 
-The mood is tense. The future is unsure, and you have either way too little power or too much to be in control. You have to make friends. You have to trust. You have to help each other or you'll most probably die one day soon, far too soon for your taste. 
+Stämningen är spänd, framtiden är osäker och du har antingen alldeles för lite eller alldeles för mycket kraft att hantera läget. Du måste skaffa vänner. Du måste ha tillit. Ni måste hjälpa varandra eller så kommer ni antagligen att dö i en alldeles för snar framtid. 
 
-But first you have to work out where the biggest threat lies: outside your Coven or within it?
+Men först måste du ta reda på var det största hotet ligger; utanför er samling eller i dess mitt?
 
 ## Inspiration
 
