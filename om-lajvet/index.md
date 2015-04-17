@@ -39,4 +39,4 @@ Det här lajvet innehåller spår av: skräck, grupp tryck, möjlig mobbning, v�
 
 Det här lajvet innehåller inte: riktig alkohol, sex eller droger.
 
-För mer information om säkerhet och välmående under lajvet, se vårt deltagarkontrakt och trygghetsdokument under fliken [praktiskt](praktiskt/).
+För mer information om säkerhet och välmående under lajvet, se vårt deltagarkontrakt och trygghetsdokument under fliken [praktiskt](/praktiskt/).
