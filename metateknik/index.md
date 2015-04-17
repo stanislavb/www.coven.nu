@@ -19,13 +19,13 @@ image:
 
 ## Lotteri
 
-Each player will begin with 1-3 out of the 5 powers. During the game the players can communicate with a member of ‘the household’ about receiving a new power. The lotto system consists of pulling a coloured bead out of a bag; each power is represented by a colour. Once a new power has been chosen the player receives an envelope in the colour of their new power containing a short note and a reminder of how the power works. 
+Varje spelare kommer att börja lajvet med 1-3 av de fem krafterna. Under spelets gång kan du som spelare prata med en medlem ur hushållet om att få fler kraft, en i taget. 
 
-The bead is an IN symbol to other players of what powers you have. They can be either a necklace or a bracelet but should be visible to other players at all times.
+Vilken ny kraft du får är utlottat. Detta går ut på att dra en pärla ur en påse: färgen på pärlan symboliserar en kraft. När en ny kraft blivit dragen får spelaren ett kuvert med samma färg som pärlan, innehållandes en kort beskrivning av kraften och en påminnelse om hur den ska användas. Pärlan är också en symbol IN till andra spelare om vilka krafter du har att använda. De kan sitta på ett halsband eller armband men ska alltid hållas synliga för andra spelare. 
 
-The new power does not have to be played on straight away. The player can even choose to open the letter at a later time. The letters are a meta-technique and are not visible to other players. They can however be left out openly to allow other players to ‘sense’ or ‘suspect’ a new power is developing or to simply remind others of what powers you have. The power should not be played on however by other players, whether the letter is opened or not. It is not until the bead is placed on the necklace or bracelet that the player had put their new power into play.
+Den nya kraften behöver inte sättas i spel direkt, du som spelare kan välja att öppna kuvertat och sätta pärlan med dina andra vid ett senare tillfälle. Kuverten finns inte IN, men kan lämnas synliga för att ge andra spelare möjligheten att spela på misstankar om dina begynnande krafter, om du vill. Det är dock först när pärlan sitter på ditt halsband/armband som du och dina medspelare kan spela på din nya kraft fullt ut.
 
-A player can choose to receive no new powers at all or all 5 powers, at any pace they choose. You must have at least three powers by the afternoon of the second day if you wish to enter into The Seven Wonders.
+Du som spelare väljer själv om du vill få alla fem krafterna under lajvets gång eller inte få några nya alls. Om du vill delta i De Sju Proven som sker på andra dagen, så behöver du ha minst tre krafter före den eftermiddagen.
 
 ## Kutt och brems
 
