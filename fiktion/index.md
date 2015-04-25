@@ -21,7 +21,7 @@ image:
 
 Översättning pågår.
 
-## Dahlin Coven
+## Dahlins Samling
 
 Översättning pågår.
 
