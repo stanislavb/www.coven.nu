@@ -34,17 +34,6 @@ En halv dags obligatorisk workshop finns schemalagd den första lajvdagen.
 
 Din karaktär förväntas enbart ta med sig en liten packning med det allra nödvändigaste, du får självklart ta med dig mer om du vill. Tänk övernattningspackning med tandborste, pyjamas, en handduk och åtminstone ett ombyte svarta kläder. Det kan bli kyligt trots att vi eldar, en extra tröja och varma strumpor rekommenderas. Sängkläder eller sovsäck behöver också packas ned, det kommer att finnas sängar med kuddar och täcken. Öronproppar rekommenderas om du vill ha din sömn ostörd.
 
-## Terminologi OFF
-
-OFF och IN är orden vi använder för att prata om lajvetsvärld: IN, och den verkliga världen: OFF.
-
-## Terminologi IN
-
-- Suprema / Kårchef
-- Sekonder / biträdande kårchefer
-- Gröngölingar
-- Vad heter “seniorerna”?
-
 ## Deltagarkontrakt
 
 Det här lovar vi arrangörer dig:
