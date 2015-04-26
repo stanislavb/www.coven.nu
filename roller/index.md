@@ -44,12 +44,18 @@ Det finns en strikt hierarki inom en samling. Även om endast Supreman och Sekun
 
 ## Hushållet
 
-Översättning pågår.
+Dahlinsamlingen har ett hushåll bestående av kockar och personal. De flesta av dem har tjänat samlingen i många år.
+
+*Hushållet kommer bestå av arrangörerna och deras hjälpredor.*
 
 ## Vänner och Familj
 
-Översättning pågår.
+I din rollbeskrivning kommer du att hitta några av personerna i din rolls liv nämda. Eftersom lajvet ligger i nutid kommer du att kunna ringa dessa roller, om du vill, under lajvet. Vi uppmuntrar dig att bjuda in människor som kan gestalta dessa roller åt dig, eller andra som du känner skulle gynna din karaktär. Vi kommer också förhoppningsvis kunna stå till tjänst med en lista på spelare som vill telefonlajva under eventet.
+
+*Vänner och familj spelas av människor du själv bjuder in, eller som vi har ordnat efter dina önskemål.*
 
 ## Häxjägare
 
-Översättning pågår.
+Detta är en grupp som samlats och skickats av den svenska grenen häxjägare. Flesta av dem har arbetat tillsammans tidigare och de är alla relaterade. Kallelsen att jaga och utrota häxor hör till familjen.
+
+*NPC grupp.*
