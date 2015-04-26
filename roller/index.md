@@ -17,11 +17,11 @@ image:
 </div>
 </section><!-- /#table-of-contents -->
 
-## The Supreme
+## Supreman
 
 Översättning pågår.
 
-## The Maidens
+## Sekonderna
 
 Översättning pågår.
 
