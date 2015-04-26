@@ -19,15 +19,28 @@ image:
 
 ## Supreman
 
-Översättning pågår.
+Supreman är ledare för samlingen; varje samling har sin egen Suprema.
+
+För att bli Suprema av en samling, måste du gå igenom De Sju Undrens prövningar. Detta innebär att en Suprema har visat sig kunna använda alla sju krafter. Endast en Suprema finns i  samlingen per generation och du kan bara delta i prövningarna en gång i ditt liv, om alls. Prövningen av en potentiell Suprema förekommer endast i samlingar bestående av tretton eller fler personer; vilket innebär att en samling med färre häxor inte kommer att få en ny Suprema och sakta dör ut. Detta är fallet för Dahlinsamlingen, som bara har en tillförordnad Suprema, som tjänstgör i rollen i hopp om att samlingen växer igen.
+Supreman är inte bara samlingens ledare; deras inställning, moral och etik påverkar hela samlingen, och kan göra den starkare eller svagare, rättvisa eller kriminella. Supreman svarar endast till Häxrådet.
+
+*Det kommer att finnas en tillförordnad Supreme i Dahlinsamlingen. Denna roll kommer att ha ytterligare ansvar under lajvet och ansvara för att hålla i några lektioner. Denna roll kommer att bli castad.*
 
 ## Sekonderna
 
-Översättning pågår.
+Sekunderna är de högst rankade häxorna efter Supreman. De är oftast de andra toppkandidaterna från prövningarna, där den regerade Supreman valdes. De hjälper Supreman och är hennes högra hand i alla sätt som rör samlingen. Liksom Supreman, har Sekunderna ett stort inflytande på samlingen; eftersom de oftast håller de andra häxornas undervisningen. De ser till att traditioner följs, och att Supreman efterlevs. På egen risk kan de även försöka få igenom sin egen agenda.
 
-## Häxorna
+*Det finns två sekunder på Dahlinsamlingen. Dessa roller kommer att ha ytterligare ansvar under lajvet och ansvara för att hålla i några lektioner. Dessa roller kommer att vara castade.*
 
-Översättning pågår.
+## Seniorer och Juniorer
+
+Häxor utvecklar sin första kraft kring puberteten. Olyckor som förebådar en senare kraft kan inträffa tidigare; vilket tyder på att kraften är vilande i kroppen tills puberteten aktiverar den. Det är inte ovanligt att kraften är mycket svag i början, eller att den muterar till en mer kraftfull form i takt med att häxan växer. Detta betyder att om kraften inte är särskilt stark eller traumatisk, börjar de flesta häxor inte bli medvetna om sina egna krafter för en de senare tonåren. Vid det laget kan en andra kraft även ha börjat utvecklats.
+De flesta häxor utvecklar bara en till tre krafter; vanligtvis är varje ny kraft svagare än den föregående. En bra samling hjälper en ung häxa att styra, förstärka och även utveckla nya krafter. Utan en samlingen, kan krafterna vara svåra att kontrollera eller att förstå överhuvudtaget
+När en är invigd i en samling, tillhör du den tills du dör, även om du lämnar samlingen, förblir du bunden till din Suprema. Det enda undantaget är om din Suprema har dött och din samling har upphört att existera. I dessa tider är det inte ovanligt att häxor, som inte velat integrera sig in i samhället efter att deras samling har upphört, går samman och försöka bilda en ny samling; eller går med i en döende samling i ett försök att återställa den.
+
+Det finns en strikt hierarki inom en samling. Även om endast Supreman och Sekunderna får en officiell titel, återspeglas tidpunkten som du kom in i samlingen, i din status. Nyanlända kallas ofta juniorer och de äldre medlemmarna är deras seniorer. Att bryta hierarkin kan få allvarliga konsekvenser. Sekunder lämnar oftast bestraffning av juniorer upp till seniorerna.
+
+*Majoriteten av rollerna på detta lajv är nyanlända juniorer. Vissa kommer att vara seniorer och dessa roller kommer att ha några ytterligare ansvar. Några av dessa seniorer kommer att bli castade, alla juniorer kommer att bli lottade.*
 
 ## Hushållet
 
