@@ -65,7 +65,13 @@ Biverkningarna av att bli återuppväckt från de döda ger en euforisk rus, jä
 
 ### Concilium: Kontrollera Person
 
-Översättning pågår.
+Makten att styra en annan människas sinne och därmed även deras kropp. Härstammar från underverket Concilium.
+
+Concilium varierar något beroende på hur skicklig dess användare är. God ögonkontakt med offret krävs alltid. Orden "Alma, Concilium" följs av instruktioner i.e. "Alma, Concilium. Ge dig själv en smäll"; eller en mer komplex variant, eftersom den måste hålla längre, skulle kunna vara "Alma, Concilium: Gå fixa en kopp te åt mig". 
+
+Styrkan av häxan kontra styrkan av den som blir förhäxad, spelar roll när man använder Concilium. En starkare häxa i.e. en senior skulle kunna motstå en Concilium av en svagare häxa i.e. en junior. Men även en svagare häxa kan komma att bryta förhäxningen mitt i te-bryggningen. Concilium kan lämna offret förvirrad och desorienterad, eller få dem att känna sig instängda i sina egna kroppar; fullt medveten om sina handlingar, men oförmögna att stoppa dem.
+
+En bra indikator på att Concilium har använts är en skarp, men tillfällig, huvudvärk som biverkning. Om offret exponeras för Concilium flera gånger, eller har varit under en längre tid Concilium, kan detta t.o.m leda till migrän, illamående och kräkningar. Långvarig användning av Concilium kommer också att ha en fysisk effekt på häxans som använder den, denna effekt varierar från häxa till häxa och kan inkluderar; näsblod, huvudvärk eller extreme trötthet.
 
 ### Clarvoyance: Tankeläsning
 
