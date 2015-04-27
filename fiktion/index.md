@@ -93,7 +93,14 @@ Det är svårare för en svagare häxa att bryta Transfero av en starkare häxa,
 
 ## De Sju Undren
 
-Översättning pågår.
+Varje Suprema i varje samling, har gått igenom De Sju Proven och visat sig vara den mest kraftfulla häxan i sin samling: mäktig nog att styra alla sju av de ursprungliga krafterna. Endast en Suprema väljs per prövning och de övriga kandidaterna elimineras prov efter prov. Det är möjligt och sker att kandidater dör under provens gång. 
+
+En häxa går bara igenom De Sju Proven en gång i sitt liv, om någonsin. Att delta i proven kan vara ett sätt att skynda på utvecklingen av dina krafter, men det kan vara ett högt pris att betala; även om du överlever proven, upphör dina krafter att utvecklas efteråt. Det finns ingen kunskap som förklarar varför detta sker. Eller som kan förklara varför alla dokumenterade häxor, som har försökt att återta proven en gång till, har omkommit under försöket. 
+
+
+Det har varit traditionellt att Supreman själv väljer ut och sedan bjuder häxor i sin samling att ta De Sju Proven när de är redo att avstiga sin position. Men numera är det inte ovanligt att proven utförs av häxor som erbjuder själva eller blir tvingade av samlingen. 
+
+När en ny Suprema börjar träda fram i en generation drar de kraften från den befintliga Supreman som försvagas. Det är så en Suprema känner på sig när tiden kommit för en ny provning och en ny starkare eftertagare. Det har skett att en Suprema, benägen att hålla fast vid sin position, har hittat och dödat de potentiella nya Supremorna före provet kan utföras. Denna taktik kan även förekomma mellan kandidaterna inför en prövning.
 
 ## Ritualer och Kristaller
 
