@@ -83,7 +83,13 @@ Som med Concilium, handlar det om häxans styrka kontra offrets styrka; en stark
 
 ### Transferal: Skicka vidare skada till andra
 
-Översättning pågår.
+Makten att överföra smärta och skada på andra. Härstammar från ursprungskraften Transmutation.
+
+Transfero kräver att häxan har ögonkontakt med sitt offer i hela Transfero-processen, bryts ögonkontakten bryts Transfero, men all skada som redan överförts förblir. Det är mycket svårt att själv bryta ögonkontakt, när en väl påverkas av Transfero. 
+
+Häxan etablerar ögonkontakt, säger orden "Alma, Transfero" och sedan skadar de sin egen kropp på något sätt till exempel genom att slå sig själv eller sticka en gaffel i sin hand. Offret känner smärta i häxans plats och kan också få skador på sin kropp.
+
+Det är svårare för en svagare häxa att bryta Transfero av en starkare häxa, men Transfero kan brytas av en tredje person, som med flit kommer mellan ögonkontakten av häxan och deras offer.
 
 ## De Sju Undren
 
