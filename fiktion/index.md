@@ -43,7 +43,7 @@ När samlingarna började dö ut, och häxorna slutade använda sina gåvor, ble
 
 Legender finns om häxor som kunde bränna ner hela skogar med en blick och böja hela byar till deras vilja. Om det är sant eller ej är omöjligt att veta nu, men att häxor en gång varit mycket, mycket mäktigare än de som finns idag är onekligen sant. 
 
-*Spelarna har väldigt mycket styr över hur de gestaltar sina egna krafter och hur mäktiga de själva vill spela. Detta är en tillit vi ger våra spelare.*
+*Spelarna har väldigt mycket styr över hur de gestaltar sina egna krafter och hur mäktiga de själva vill spela. Detta är en tillit vi ger våra spelare. Vi ser helst att spelarna alltid bejakar sina medspelare när de kan. Men det är alltid möjligt att undvika att bli förhäxad och skylla på svaga krafter eller ett plötsligt starkt försvar. Det finns inskrivet så att spelare inte ska behöva ta sig an spel de är obekväma med OFF.*
 
 ### Mortis: Dödens Beröring
 
