@@ -14,4 +14,4 @@ deploy:
   local-dir: _site
   endpoint: www.coven.nu.s3-website-eu-central-1.amazonaws.com
   region: eu-central-1
-  skip_cleanup: true
+#  skip_cleanup: true
