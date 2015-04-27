@@ -53,7 +53,7 @@ Mortis kräver hud kontakt medan orden "Alma, Mortis" uttalas, offret kommer ome
 
 Mortis manifesterar sig på olika sätt beroende på häxan. Vissa kan bara aktivera kraften när de upplever starka känslor, en del har ingen kontroll alls och aktiverar kraften utan avsikt, vissa kan kasta den när de verkligen vill men kräver då mycket mer hudkontakt o.s.v.
 
-### Vitalis: Återuppstå
+### Vitalis: Återuppliva de döda
 
 Kraften att återuppväcka de döda är, liksom Mortis, en svår kraft att lära sig hantera och kräver övning. Härstammar från ursprungskraften: Vitalum Vitalis.
 
@@ -63,7 +63,7 @@ Att mästra Vitalis väl är ingen enkel uppgift och biverkningar av att bli åt
 
 Biverkningarna av att bli återuppväckt från de döda ger en euforisk rus, jämförbar med vissa droger. Detta har resulterat i att vissa häxor använder Mortis och Vitalis på varandra, för rusets skull. Det finns naturligtvis många risker; ju längre personen är under desto bättre rus, men en stark häxa behövs för att undvika riskerna när det är dags att återuppliva.
 
-### Concilium: Kontrollera Person
+### Concilium: Sinneskontroll
 
 Makten att styra en annan människas sinne och därmed även deras kropp. Härstammar från underverket Concilium.
 
@@ -81,22 +81,20 @@ Clairvoyance och Concilium har en hel del likheter: både varierar något beroen
 
 Som med Concilium, handlar det om häxans styrka kontra offrets styrka; en starkare häxa skulle kunna motstå eller bryta Clairvoyance av en svagare häxa.
 
-### Transferal: Skicka vidare skada till andra
+### Transferal: Överför skador till andra
 
 Makten att överföra smärta och skada på andra. Härstammar från ursprungskraften Transmutation.
 
 Transfero kräver att häxan har ögonkontakt med sitt offer i hela Transfero-processen, bryts ögonkontakten bryts Transfero, men all skada som redan överförts förblir. Det är mycket svårt att själv bryta ögonkontakt, när en väl påverkas av Transfero. 
-
 Häxan etablerar ögonkontakt, säger orden "Alma, Transfero" och sedan skadar de sin egen kropp på något sätt till exempel genom att slå sig själv eller sticka en gaffel i sin hand. Offret känner smärta i häxans plats och kan också få skador på sin kropp.
 
 Det är svårare för en svagare häxa att bryta Transfero av en starkare häxa, men Transfero kan brytas av en tredje person, som med flit kommer mellan ögonkontakten av häxan och deras offer.
 
-## De Sju Undren
+## De Sju Proven
 
 Varje Suprema i varje samling, har gått igenom De Sju Proven och visat sig vara den mest kraftfulla häxan i sin samling: mäktig nog att styra alla sju av de ursprungliga krafterna. Endast en Suprema väljs per prövning och de övriga kandidaterna elimineras prov efter prov. Det är möjligt och sker att kandidater dör under provens gång. 
 
 En häxa går bara igenom De Sju Proven en gång i sitt liv, om någonsin. Att delta i proven kan vara ett sätt att skynda på utvecklingen av dina krafter, men det kan vara ett högt pris att betala; även om du överlever proven, upphör dina krafter att utvecklas efteråt. Det finns ingen kunskap som förklarar varför detta sker. Eller som kan förklara varför alla dokumenterade häxor, som har försökt att återta proven en gång till, har omkommit under försöket. 
-
 
 Det har varit traditionellt att Supreman själv väljer ut och sedan bjuder häxor i sin samling att ta De Sju Proven när de är redo att avstiga sin position. Men numera är det inte ovanligt att proven utförs av häxor som erbjuder själva eller blir tvingade av samlingen. 
 
