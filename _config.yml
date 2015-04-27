@@ -26,12 +26,12 @@ kramdown:
 # Event info
 event:
   name: Coven
-  tagline: Häxlajv
+  tagline: a witch LARP
   logo: skull.jpg
   description: "Ett lajv i Stockholmsområdet 18-20 september 2015"
   email: coven@example.com
 #  twitter: CovenLARP
-#  facebook: CovenLARP
+  facebook: CovenLARP
   google:
     analytics: 
     verify: 
