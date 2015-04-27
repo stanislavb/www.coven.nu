@@ -75,7 +75,11 @@ En bra indikator på att Concilium har använts är en skarp, men tillfällig, h
 
 ### Clarvoyance: Tankeläsning
 
-Översättning pågår.
+Kraften att läsa andras tankar och även få dem att säga dem högt. Härstammar från ursprungskraften: Clairvoyance.
+
+Clairvoyance och Concilium har en hel del likheter: både varierar något beroende på styrkan av häxan, och båda kräver ögonkontakt med offret. Clairvoyance är dock mycket svårare att bryta om det även finns hudkontakt mellan häxan och offret. Orden "Alma, Clairvoyance" uttalas och offret kommer att börja babbla sina tankar högt; ibland märker offret inte själv att dem gör detta, ibland gör dem det men kan inte stoppa sig själva. 
+
+Som med Concilium, handlar det om häxans styrka kontra offrets styrka; en starkare häxa skulle kunna motstå eller bryta Clairvoyance av en svagare häxa.
 
 ### Transferal: Skicka vidare skada till andra
 
