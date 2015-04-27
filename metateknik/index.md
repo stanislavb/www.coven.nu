@@ -21,6 +21,16 @@ Vi använder metatekniker på lajv för att förmedla en önskad handling av vå
 
 Det finns många olika sätt att tolka och utföra metatekniker på, beroende på vana och lajvkultur. Läs därför genom informationen noggrant även om du har använt metatekniker förut. Vi kommer att gå genom de relevanta metateknikerna för detta lajv under workshoppen. Du förväntas att ha läst och lärt dig dem som står med här på hemsidan innan vi övar på dem tillsammans.
 
+## Krafterna
+
+Nästan allt kring att få och att använda dina krafter är meta techniker. 
+
+Det betyder att  pärlorna som symboliserar dina krafter är “osynliga” i spelets värld och det är även breven du får när du lottar en ny kraft. Dem finns som en påminelse för dig själv och för andra spelare om vilka krafter som finns och vem som har dem.
+
+Även när du använder krafterna, Mortis till exempel, måste du använda orden “Alma, Mortis” för att den andra spelaren ska vet vad det är du vill ha från dem. Denna fras finns inte IN, din karaktär uttalar den alltså inte, bara spelaren. Alma är ett nyckelord för att få andra spelare uppmärksamma på vad som kommer att ske och att dem måste lyssna för att höra instruktionerna. 
+
+Det är även en indikation OFF att din karaktär medvetet använder sina krafter. Det går nämligen att spela på att du använder dem av misstag och även att du vill misslyckas med att använda dem. Säger du enbart “Mortis” är det den andra spelarens val om det har något effect alls eller om det är ett helt misslyckat försök, de får även välja att spela på om deras karaktär märkte att du försökte eller inte. 
+
 ## Lotteri
 
 Varje spelare kommer att börja lajvet med 1-3 av de fem krafterna. Under spelets gång kan du som spelare prata med en medlem ur hushållet om att få fler kraft, en i taget. 
