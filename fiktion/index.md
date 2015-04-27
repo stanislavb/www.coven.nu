@@ -43,9 +43,11 @@ När samlingarna började dö ut, och häxorna slutade använda sina gåvor, ble
 
 Legender finns om häxor som kunde bränna ner hela skogar med en blick och böja hela byar till deras vilja. Om det är sant eller ej är omöjligt att veta nu, men att häxor en gång varit mycket, mycket mäktigare än de som finns idag är onekligen sant. 
 
+*Spelarna har väldigt mycket styr över hur de gestaltar sina egna krafter och hur mäktiga de själva vill spela. Detta är en tillit vi ger våra spelare.*
+
 ### Mortis: Dödens Beröring
 
-Kraften att ta ett  liv är en mycket instabil kraft och svår kontrollerad Den härstammar från ursprungskraften: Descensum.
+Kraften att ta ett  liv är en mycket instabil kraft och svår kontrollerad. Härstammar från ursprungskraften: Descensum.
 
 Mortis kräver hud kontakt medan orden "Alma, Mortis" uttalas, offret kommer omedelbart att känna sin kropp börja stänga ner och sakta dö.
 
@@ -53,7 +55,7 @@ Mortis manifesterar sig på olika sätt beroende på häxan. Vissa kan bara akti
 
 ### Vitalis: Återuppstå
 
-Kraften att återuppväcka de döda är, liksom Mortis, en svår kraft att lära sig hantera och kräver övning. Det härstammar från ursprungskraften: Vitalum Vitalis.
+Kraften att återuppväcka de döda är, liksom Mortis, en svår kraft att lära sig hantera och kräver övning. Härstammar från ursprungskraften: Vitalum Vitalis.
 
 Vitalis kräver inte hudkontakt, men vissa häxor upplever att det ger dem bättre resultat. Orden "Alma, Vitalis" uttalas innan häxan försiktigt blåser på den dödas ansikte. Det kan ta lite olika lång tid för någon som varit död att återfå full funktion av deras kropp beroende på hur länge de varit “under”.
 
