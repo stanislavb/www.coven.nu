@@ -45,11 +45,21 @@ Legender finns om häxor som kunde bränna ner hela skogar med en blick och böj
 
 ### Mortis: Dödens Beröring
 
-Översättning pågår.
+Kraften att ta ett  liv är en mycket instabil kraft och svår kontrollerad Den härstammar från ursprungskraften: Descensum.
+
+Mortis kräver hud kontakt medan orden "Alma, Mortis" uttalas, offret kommer omedelbart att känna sin kropp börja stänga ner och sakta dö.
+
+Mortis manifesterar sig på olika sätt beroende på häxan. Vissa kan bara aktivera kraften när de upplever starka känslor, en del har ingen kontroll alls och aktiverar kraften utan avsikt, vissa kan kasta den när de verkligen vill men kräver då mycket mer hudkontakt o.s.v.
 
 ### Vitalis: Återuppstå
 
-Översättning pågår.
+Kraften att återuppväcka de döda är, liksom Mortis, en svår kraft att lära sig hantera och kräver övning. Det härstammar från ursprungskraften: Vitalum Vitalis.
+
+Vitalis kräver inte hudkontakt, men vissa häxor upplever att det ger dem bättre resultat. Orden "Alma, Vitalis" uttalas innan häxan försiktigt blåser på den dödas ansikte. Det kan ta lite olika lång tid för någon som varit död att återfå full funktion av deras kropp beroende på hur länge de varit “under”.
+
+Att mästra Vitalis väl är ingen enkel uppgift och biverkningar av att bli återuppväckt från de döda kan vara allvarliga, om det inte görs på rätt sätt. Personen riskerar att bli svårt hjärnskadad eller helt hjärndöd, att mista sin syn eller talförmåga är inte heller ovanligt från en oavslutad eller för svag Vitalis. Lyckligtvis kan detta ofta korrigeras genom applikationen av en kraftfullare häxas Vitalis.
+
+Biverkningarna av att bli återuppväckt från de döda ger en euforisk rus, jämförbar med vissa droger. Detta har resulterat i att vissa häxor använder Mortis och Vitalis på varandra, för rusets skull. Det finns naturligtvis många risker; ju längre personen är under desto bättre rus, men en stark häxa behövs för att undvika riskerna när det är dags att återuppliva.
 
 ### Concilium: Kontrollera Person
 
