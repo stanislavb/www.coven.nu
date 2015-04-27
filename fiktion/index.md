@@ -104,4 +104,8 @@ När en ny Suprema börjar träda fram i en generation drar de kraften från den
 
 ## Ritualer och Kristaller
 
-Översättning pågår.
+Det finns flera olika ritualer inom samlingen, vissa av dessa behöver krystaler för att utföras och andra behöver det inte.
+
+Dessa ritualer kan användas för att temporärt förstärka en häxas kraft, för att skapa skyddande barriärer kring en plats, eller för att fixa sig ett rus från att leka Mortis och Vitalis.
+
+Varje kraft representeras av en krystal.
