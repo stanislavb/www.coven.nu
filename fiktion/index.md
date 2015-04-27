@@ -19,15 +19,29 @@ image:
 
 ## Bakgrund
 
-Översättning pågår.
+Häxor har alltid funnits, men har oftast hållit sig för sig själva och undvikit att bli upptäckt av omvärlden. Dem fanns i samlingar, en grupp häxor bundna på en specifik plats. Dessa samlingar har varit deras hem, tillflyktställe och gemenskap.
+
+Häxjägare har alltid funnits lika länge som häxor. I skydd av stora organisationer har de spårat och dödat häxor i generationer. Under de senaste trettio åren har de lyckats utrota samling efter samling. De få samlingar som finns kvar är gömda, men många häxor har valt att dölja sina krafter och flytt in i det övriga samhället. De samlingar som finns kvar väntar in sitt öde, de har ingen annanstans att gå. Även deras största auktoritet: Häxrådet, tycks ha gett upp.
+
+Plötsligt förändrades något. Häxjägarna slutade fokusera på samlingar som sitt huvudsakliga mål och började gå efter individuella häxor. I början var det enbart före detta samlingsmedlemmar, men snart därpå började häxjägarna att rikta sig mot vem som helst med magisk potential, även innan många av dem var medvetna om sina egna krafter. Häxrådet tvingades kliva in och rädda de unga häxorna, som sedan skickades till de få samlingar som fortfarande är oupptäckta av häxjägare.
+
+Detta är den nuvarande situationen. En grupp räddade häxor anländer till en svensk samling för att upptäcka och lära sig att hantera sina krafter, varandra, och den livshotande fara de alla står inför.
 
 ## Dahlins Samling
 
-Översättning pågår.
+Alma Dahlin byggde det första huset i Frustunaby nära slutet av sjuttonhundratalet. Hon kom med hennes hushåll och flera unga kvinnliga förmyndare, till stor spänning för det lilla samhället. Men sedan Dahlin-familjen och deras församling hållte sig mestadels till sig själva, började ryktena snart att sprida sig om att Frustunaby var en plats för gravida unga kvinnor att föda sina oönskade barn. Det var den lokala kyrkan som klev in och vederläggade ryktena. Därefter var Dahlin-familjen, deras församlingar, och hela deras hushåll närvaronde vid kyrkan varje söndag och fick flera predikningar tillägnade dem. Generösa donationer hade också börjat tagits emot av kyrkan runt denna tid. Den varma relationen mellan Frustunaby och kyrkan fortsatte även efter döden av Alma och hennes man.
+
+samlingen ställdes till som många olika typer av tillflyktsorter; även som ett barnhem genom dess historia. Men det var i 1925 när grevinnan Ebba von Eckermann, en tidigare medlem av Frustunaby Flickors Utomhus Klubb, donerade Frustunaby till Scouterna, därmed skapandes en permanent täckmantel som förblev.
+
+Det var dock inte förrän sammanslagningen av flickscouterna och Svenska Scoutförbundet i 1960 som även pojkar började tillåtas att ansluta sig till Dahlinsamlingen.
+
+Dahlins var som de flesta samlingar idag, på gränsen till utrotning. Deras medlemmar hade minskats dramatisk under de senaste trettio åren och nya häxor blivit allt mer sällsynta. Med döden av den senaste Supreman fyra år tillbaka, blev det genast uppenbart att ingen ny Suprema skulle tillkallas. Den plötsliga tillströmningen av häxor från andra utrotade samlingar under det senaste året var lovande, och proven hölls. Men det upptäcktes snabbt att ingen ny Suprema skulle uppstå och att proven inte ansågs giltig; samlingen var helt enkelt inte stark nog.
 
 ## De Fem Krafterna
 
-Översättning pågår.
+När samlingarna började dö ut, och häxorna slutade använda sina gåvor, blev krafterna svagare. De två redan mest sällsynta krafterna; Pyrokinesis och Telekinesis försvann helt och hållet. Mortis, Vitalis, Concilium, Clairvoyance och Tranfero är de ursprungskrafter som finns kvar idag. Dock är det enbart svagare versioner av dessa som uppstår bland dagens häxor.
+
+Legender finns om häxor som kunde bränna ner hela skogar med en blick och böja hela byar till deras vilja. Om det är sant eller ej är omöjligt att veta nu, men att häxor en gång varit mycket, mycket mäktigare än de som finns idag är onekligen sant. 
 
 ### Mortis: Dödens Beröring
 
