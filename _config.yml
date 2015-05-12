@@ -30,9 +30,9 @@ event:
   tagline: a witch LARP
   logo: skull.jpg
   description: "Ett häxlajv i Stockholmsområdet 18-20 september 2015"
-  email: coven@example.com
+  email: svenska@coven.nu
 #  twitter: CovenLARP
-  facebook: CovenLARP
+#  facebook: CovenLARP
   google:
     analytics: 
     verify: 
