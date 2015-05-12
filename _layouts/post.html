@@ -44,6 +44,9 @@
       {{ content }}
       <hr />
       <footer role="contentinfo">
+        <div class="article-author-bottom">
+          {% include _sidebar.html %}
+        </div>
         <p class="byline"><strong>{{ page.title }}</strong> var publicerat <time datetime="{{ page.date | date_to_xmlschema }}">{{ page.date | date: "%B %d, %Y" }}</time>{% if page.modified %} och senast ändrat <time datetime="{{ page.modified | date: "%Y-%m-%d" }}">{{ page.modified | date: "%B %d, %Y" }}</time>{% endif %}.</p>
       </footer>
     </div><!-- /.article-wrap -->
