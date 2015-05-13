@@ -63,8 +63,7 @@ select {
 	padding: 4px;
 	margin-bottom: 5px / 4;
 	background-color: $black;
-	border: 0px;
-	#border: 1px solid lighten($black, 80);
+	border: 1px solid lighten($black, 10);
 	color: $textcolor; 
 	@include rounded(3px);
 	&:hover {
