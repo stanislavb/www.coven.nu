@@ -17,9 +17,7 @@ image:
 </div>
 </section><!-- /#table-of-contents -->
 
-## Vision
-
-Coven utspelar sig i en, rätt ofrivilligt, nyformad samling häxor i nutidens Sverige. 
+Coven utspelar sig i en rätt ofrivilligt nyformad samling häxor i nutidens Sverige. 
 
 Lajvet handlar om coola krafter, häxorna som innehar dem, och de personer som försöker döda dem för att de innehar dem. Du får en chans att uppleva klassiska känslor och karaktärer från gymnasietiden, skaffa nya vänner, bli sviken, bli kär, råka döda någon och desperat försöka återuppliva dem innan kårchefen får reda på det...eller bara försöka täcka dina spår.
 
@@ -27,9 +25,11 @@ Stämningen är spänd, framtiden är osäker och du har antingen alldeles för 
 
 Men först måste du ta reda på var det största hotet ligger; utanför er samling eller i dess mitt?
 
+## Vision
+
 ## Inspiration
 
-Fiktionen och ramverket är mestadels inspirerad av den amerikanska tv-serien “American Horror Story: Coven”. Du kan titta på den om du vill, men det är inte nödvändigt för att vara med på lajvet. Den sexism, rasism och appropriation av minoritetskulturer som finns i serier har blivit borttaget så noggrant som vi kunnat.
+Fiktionen och ramverket är mestadels inspirerad av den amerikanska tv-serien “American Horror Story: Coven”. Du kan titta på den om du vill, men det är inte nödvändigt för att vara med på lajvet. Vi har plockat ut det som är kärnan i serien: skräck, tonårsångest, magiska krafter och spända relationer.
 
 En annan inspirationskälla är boken “Cirkeln”. Läs den eller se filmen om du vill ha en inblick i de arketyper vi kommer att använda oss av i vårt skapande av karaktärerna. Cirkeln är också mer likt den stämning vi vill komma åt på lajvet.
 
