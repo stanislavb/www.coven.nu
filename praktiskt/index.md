@@ -19,20 +19,45 @@ image:
 
 ## Plats
 
-Frustunaby. 20 minuters promenad från Gnesta station dit pendeltåg går regelbundet. En timmes bilkörning från Stockholm. 
+Frustunaby, 20 minuters promenad från Gnesta station.  
+Pendeltåg går regelbundet.  
+En timmes bilkörning från Stockholm. 
 
 ## Datum och tid
 
 * Svenska rundan: 	18-20 september
 * Engelska rundan:	 2-4 oktober
 
+Spelet börjar kl 10:00 den 18e september.  
+Spelet slutar efter kl 13.00 den 20e september.
+
+## Biljetter och priser
+
+- Sponsor: 
+- Baspris: 
+- Student/arbetslös: 
+
 ## Workshops
 
-En halv dags obligatorisk workshop finns schemalagd den första lajvdagen.
+En halv dags obligatorisk workshop finns schemalagd den första lajvdagen.  
+Du förväntas ha lärt dig de fem krafterna innan workshopen.
+
+Workshopen kommer att innehålla:
+
+ - Utveckla roller
+ - Bygga förhållanden
+ - Säkerhet och nyckelord
+ - Metatekniker och spelsätt
+ - Dramatiska kurvan och tidsplan
+ - Komma in i rollen
 
 ## Att ta med
 
-Din karaktär förväntas enbart ta med sig en liten packning med det allra nödvändigaste, du får självklart ta med dig mer om du vill. Tänk övernattningspackning med tandborste, pyjamas, en handduk och åtminstone ett ombyte svarta kläder. Det kan bli kyligt trots att vi eldar, en extra tröja och varma strumpor rekommenderas. Sängkläder eller sovsäck behöver också packas ned, det kommer att finnas sängar med kuddar och täcken. Öronproppar rekommenderas om du vill ha din sömn ostörd.
+Juniorer: Era roller har nyligen anlänt till samlingen, så ni förväntas enbart ha med er en liten packning med det allra nödvändigaste. Tänk övernattningspackning med tandborste, pyjamas, en handduk och åtminstone ett ombyte svarta kläder. Det kan bli kyligt trots att vi eldar, en extra tröja och varma strumpor rekommenderas. Det kommer att finnas sängar med kuddar och täcken, men sängkläder tar ni med själva.
+
+Öronproppar rekommenderas om du vill ha din sömn ostörd.
+
+Tillförordnad suprema, sekonder och seniorer: Era roller har bott i Dahlinsamlingen i minst ett år. Ni förväntas ha samma utrustning som juniorerna men kan också välja att ta med mer, dekorera era rum, osv.
 
 ## Deltagarkontrakt
 
@@ -44,25 +69,27 @@ Det här lovar vi arrangörer dig:
 - Facebookgrupper för social interaktion.
 - En workshop i rollarbete, metatekniker och stoppord.
 - En stationär trygghetsvärd som alltid går att få tag på under lajvet.
-- En sovplats i sovsal inomhus och tre mål varm mat om dagen.
+- En sovplats i sovsal inomhus och tre mål mat om dagen.
+- Att vi tar vårt arrangörsansvar seriöst och strävar efter att ge spelare det stöd, säkerhet och hjälp de behöver, till vår bästa förmåga.
  
 Det här förväntar vi oss av dig som deltagare:
 
 - Att du bidrar till en inkluderande och bejakande stämning.
--  Att du noga läser informationen på hemsidan.
--Att du håller dig uppdaterad om ny information som kommer upp på facebook. Om du inte har ett facebook-konto behöver du skapa ett, alternativt ha regelbunden kontakt med en vän som har ett.
+- Att du noga läser informationen på hemsidan.
+- Att du håller dig uppdaterad om ny information som kommer upp på facebook. Om du inte har ett facebook-konto behöver du skapa ett, alternativt ha regelbunden kontakt med en vän som har ett.
 - Att du ställer frågor om det är något som känns det minsta otydligt. Ju tidigare du frågar, desto större chans att vi kan göra något åt din undran.
-- Att du dyker upp den tid vi satt upp för incheckning.
-- Att du respekterar och följer regler och instruktioner.
+- Att du dyker upp den tid vi satt upp för incheckning och generellt håller tiderna.
+- Att du respekterar och följer regler och instruktioner från arrangörer.
 - Att du tar till dig detta faktum: att lajva är som att spela i en orkester, inte som att gå på teater. När du väl är anmäld och betald räknar vi med dig: du behövs i spelet och är inte spontant utbytbar tiden just innan lajvet. (vid akutfall: kontakta arr snarast).
 
 ## Trygghetsdokument
 
-- Stopp- och bromsord på detta lajv är Grönt (för upptrappning av spel eller att kolla om spelaren är ok), Gult (för att bromsa eller neka upptrappning av spel utan att bryta) och Rött (för att avsluta scenen omedelbart). Vi använder även ordet OFF för att bryta spel helt. Vi uppmuntrar dig som deltagare att använda orden regelbundet som du känner att de behövs under spelets gång. Vi kommer att öva på detta under workshoppen.
+- Säkerhetsteknikerna på detta lajv är Fuck, Easy och Tap out. Detta är förklarat under [Metateknik](/metateknik/).
+- Ordet OFF avbryter spel helt. Vi uppmuntrar dig som deltagare att använda orden regelbundet som du känner att de behövs under spelets gång. Vi kommer att öva på detta under workshoppen.
 - Stopp- och bromsord ska respekteras utan tvekan.
 - Sexuellt baserat spel mellan roller ska vara överenskommet (med uttalat samtycke från all involverade spelare) innan det spelas på. Kontakta gärna trygghetsvärden, som är på plats under lajvet, om du känner dig osäker eller har frågor om detta.
 - På detta lajv kan det förekomma knuffar med öppen hand och enkel fasthållning (hand över handled/arm/fot). Replikor av vapen kan komma att användas som visuellt stimuli (inga av dessa är fungerande OFF). Kontakta arr om du har frågor om detta.
 - Annat våldsbaserat spel ska vara överenskommet (med uttalat samtycke från alla involverade spelare) innan det spelas på. Kontakta gärna trygghetsvärden om du känner dig osäker eller har frågor.
 - Spel baserat på sexism, rasism, hbtq-fobi och funkofobi är strängt förbjudet. 
 - Deltagare som bryter mot trygghetsdokumentets regler kan komma att bli avhysta från lajvområdet med omedelbar verkan eller få sina spelmöjligheter hämmade, beroende på regelbrottets allvarlighetsgrad. Beslutet tas av arrangörerna.
-- Om en medspelare tar upp en händelse med dig där hen känt sig obehaglig till mods, kränkt, eller på något annat sätt utsatt: lyssna. Fråga främst vad spelaren behöver av dig. Erbjud gärna en kram (fråga först, vänta på bejakande svar). Hjälp hen att ta sig till trygghetsvärden.
+- Om en medspelare tar upp en händelse med dig där hen känt sig obehaglig till mods, kränkt, eller på något annat sätt utsatt: lyssna. Fråga främst vad spelaren behöver av dig. Erbjud gärna en kram (fråga först, vänta på bejakande svar). Hjälp dem att ta sig till trygghetsvärden.

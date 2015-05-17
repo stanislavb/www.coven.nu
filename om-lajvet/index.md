@@ -19,13 +19,27 @@ image:
 
 Coven utspelar sig i en rätt ofrivilligt nyformad samling häxor i nutidens Sverige. 
 
-Lajvet handlar om coola krafter, häxorna som innehar dem, och de personer som försöker döda dem för att de innehar dem. Du får en chans att uppleva klassiska känslor och karaktärer från gymnasietiden, skaffa nya vänner, bli sviken, bli kär, råka döda någon och desperat försöka återuppliva dem innan kårchefen får reda på det...eller bara försöka täcka dina spår.
+Lajvet handlar om coola krafter, häxorna som innehar dem, och de personer som försöker döda dem.
 
-Stämningen är spänd, framtiden är osäker och du har antingen alldeles för lite eller alldeles för mycket kraft att hantera läget. Du måste skaffa vänner. Du måste ha tillit. Ni måste hjälpa varandra eller så kommer ni antagligen att dö i en alldeles för snar framtid. 
+Du får en chans att uppleva klassiska känslor och karaktärer från gymnasietiden, skaffa nya vänner, bli sviken, bli kär, råka döda någon och desperat försöka återuppliva dem innan kårchefen får reda på det... eller bara försöka täcka dina spår.
+
+Stämningen är spänd, framtiden är osäker och du har antingen alldeles för lite eller alldeles för mycket kraft för att hantera läget. Du måste skaffa vänner. Du måste ha tillit. Ni måste hjälpa varandra eller så kommer ni antagligen att dö i en alldeles för snar framtid. 
 
 Men först måste du ta reda på var det största hotet ligger; utanför er samling eller i dess mitt?
 
 ## Vision
+
+Detta lajv är inte bara för kvinnor; vi använder order "häxa" som könsneutralt. Människor av alla kön kallas för häxor.
+
+Detta är ett "Nordic LARP". Lajvet kommer att fokusera på förhållanden mellan roller, använda metatekniker och försöka få saker att se så realistiska ut som möjligt.
+
+Det är ett lajv fyllt av motsägelser för att skapa inre och yttre konflikter för rollpersonerna:
+
+* Kraft och hjälplöshet
+* Vänskap och hierarkier
+* Tonårsångest och stort ansvar
+
+Vi vill skapa ett lajv tillgängligt både för nya och för erfarna spelare. Vi gör spelmekanikerna enkla och flexibla så att spelare kan ha så episkt, kul eller tragiskt lajv de vill, i deras eget tempo. Tidigare erfarenhet av Nordic LARP oh metatekniker är en fördel, men vi strävar efter att ge all information, stöd och hålla workshops för att inkludera alla.
 
 ## Inspiration
 
