@@ -59,6 +59,14 @@ Detta är säkerhetstekniken vi använder på lajvet. Den liknar "Rött, gult, g
 
 ### Eskalering
 
+Ordet man använder för att be medspelare att eskalera en scen är "Bloody".
+
+Det kan användas för sig eller i en mening. Till exempel "Nej, jag går inte med dig. Bloody hell!" vore en inbjudan till andra spelare att fortsätta släpa iväg dig eller agera våldsamt.
+
+Det är alltid en bra idé att försöka visa vilken sorts eskalering man har i åtanke när man gör inbjudan. Till exempel om du och en annan spelare bråkar och detta har bara involverat rop och skrik men du vill eskalera scenen till mer fysiskt bråk kan du vidröra eller lätt putta spelaren och säga eskaleringsordet. Vänta på svar innan du fortsätter.
+
+Medspelaren kan informera dig att de godkänner eskaleringen genom att svara med "Bloody".
+
 ### Nertrappning
 
 Ordet för att få dina medspelare att lugna ner scenen är "Easy".
