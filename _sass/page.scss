@@ -429,7 +429,7 @@ $button-size: 1.5rem;
 	position: absolute;
 	top: 7em;
 	left: 0em;
-	background-color: #000;
+	background-color: $bodycolor;
 	@media #{$small} {
 		display: block;
 		@include grid(12,3);
@@ -662,7 +662,7 @@ $button-size: 1.5rem;
 // Browser Upgrade
 // --------------------------------------------------
 .browser-upgrade {
-	background: #000;
+	background: $bodycolor;
 	text-align: center;
 	margin: 0 0 2em 0;
 	padding: 10px;
