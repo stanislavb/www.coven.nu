@@ -27,7 +27,7 @@ kramdown:
 # Event info
 event:
   name: Coven
-  tagline: a witch LARP
+  tagline: 'A Witch <a href="/nordic-larp/">LARP</a>'
   logo: skull.jpg
   description: "Ett häxlajv i Stockholmsområdet 18-20 september 2015"
   email: svenska@coven.nu

@@ -31,38 +31,59 @@ Det betyder att  pärlorna som symboliserar dina krafter är “osynliga” i sp
 
 Det är även en indikation OFF att din karaktär medvetet använder sina krafter. Det går nämligen att spela på att du använder dem av misstag och även att du vill misslyckas med att använda dem. Säger du enbart “Mortis” är det den andra spelarens val om det har något effekt alls eller om det är ett helt misslyckat försök, de får även välja att spela på om deras karaktär märkte att du försökte eller inte. 
 
+Meta-orden för krafterna är:
+
+"Alma, Mortis": dödens beröring.  
+"Alma, Vitalis": återuppliva de döda eller hela de levande.  
+"Alma, Concilium": sinneskontroll.  
+"Alma, Clarvoyance": tankeläsning.  
+"Alma, Transfero": överför skador till andra.  
+
+Mer information om de fem krafterna hittas under [Fiktion](/fiktion/).
+
 ## Lotteri
 
-Varje spelare kommer att börja lajvet med 1-3 av de fem krafterna. Under spelets gång kan du som spelare prata med en medlem ur hushållet om att få fler kraft, en i taget. 
+Varje spelare kommer att börja lajvet med 1-3 av de fem krafterna. Under spelets gång kan du som spelare prata med en medlem ur hushållet om att få fler krafter, en i taget. 
 
-Det är utlottat vilka nya krafter du kan få. Detta går ut på att dra en pärla ur en påse: färgen på pärlan symboliserar en kraft. När en ny kraft blivit dragen får spelaren ett kuvert med samma färg som pärlan, innehållandes en kort beskrivning av kraften och en påminnelse om hur den ska användas. Pärlan är också en symbol IN till andra spelare om vilka krafter du har att använda. De kan sitta på ett halsband eller armband men ska alltid hållas synliga för andra spelare. 
+Det är utlottat vilka nya krafter du kan få. Detta går ut på att dra en pärla ur en påse: färgen på pärlan symboliserar en kraft. Pärlan är också en symbol IN till andra spelare om vilka krafter du har att använda. Den kan sitta på ett halsband eller armband men ska alltid hållas synlig för andra spelare. Den nya kraften behöver inte sättas i spel direkt, du som spelare kan välja att sätta pärlan med dina andra vid ett senare tillfälle.
 
-Den nya kraften behöver inte sättas i spel direkt, du som spelare kan välja att öppna kuvertat och sätta pärlan med dina andra vid ett senare tillfälle. Kuverten finns inte IN, men kan lämnas synliga för att ge andra spelare möjligheten att spela på misstankar om dina begynnande krafter, om du vill. Det är dock först när pärlan sitter på ditt halsband/armband som du och dina medspelare kan spela på din nya kraft fullt ut.
+När en ny kraft blivit dragen får spelaren ett kuvert med samma färg som pärlan, innehållandes en kort beskrivning av kraften och en påminnelse om hur den ska användas. Kuvertet finns inte IN, men kan lämnas synligt för att ge andra spelare möjligheten att spela på misstankar om dina begynnande krafter. Det är dock först när pärlan sitter på ditt halsband/armband som du och dina medspelare kan spela på din nya kraft fullt ut.
 
-Du som spelare väljer själv om du vill få alla fem krafterna under lajvets gång eller inte få några nya alls. Om du vill delta i De Sju Proven som sker på andra dagen, så behöver du ha minst tre krafter före den eftermiddagen.
+Du som spelare väljer själv om du vill få alla fem krafterna under lajvets gång eller inte få några nya alls.
 
-## Rött, grönt, gult
+Om du vill delta i De Sju Proven som sker på andra dagen behöver du ha minst fyra krafter före den eftermiddagen.
 
-Också känt som trafikljus- eller stoppljussystemet. Den här tekniken används för att låta spelare sätta och kommunicera kring sina personliga gränser under pågående spel. Vi ger dig först betydelserna i korthet och presenterar sedan några exempel på hur användningen kan gå till.
+## Bloody, Easy och Tap Out
 
-- Grönt: Eskalera spelet eller fråga om en spelare mår bra OFF.
-- Gult:	Hit men inte längre, jag har nått min gräns men vi behöver inte sluta spela.
-- Rött: Avsluta omedelbart, kolla att spelaren är ok.
+Detta är säkerhetstekniken vi använder på lajvet. Den liknar "Rött, gult, grönt".
 
-Användning av Grönt för att ändra riktning i spel, exempel:
+### Eskalering
 
-Kim och Sam har en scen tillsammas där de bråkar med varandra. Scenen går väl med högljutt bråkande och Kim får idén att den borde trappas upp och bli mer fysisk; Kim puttar lätt på Sam och frågar lågt “Grönt?”. Sam vet nu att Kim vill bli mer fysisk i scenen och om hen svarar med “Grönt” kommer Kim att börja eskalera i den riktningen. Om Sam svarar “Gult” kommer Kim att slutta putta hen och återgå till det högljudda bråket. Och om Sam svarar “Rött” kommer Kim att backa helt. 
+### Nertrappning
 
-Användning av Grönt som trygghetskoll, exempel:
+Ordet för att få dina medspelare att lugna ner scenen är "Easy".
 
-Som fortsättning på första exemplet. Sam har valt att svara “Rött” på Kim’s fråga om upptrappning av spel. Kim har omedelbart upphört båda att putta på Sam och att bråka. Nu vill Kim veta om Sam är ok OFF; så hen frågar lågt “Grönt” igen, Sam vet att detta är för att kolla hens välmående och väljer nu antigen att svara “Grönt”, så att Kim vet att hen kan lämna scenen. Eller så säger Sam “OFF”: detta bryter spelet helt. Kim och Sam kan nu samtala om vad som skett, Kim kan fråga vad Sam behöver och ta hen till en trygghetsvärd om nödvändigt.
+On du får ett inbjudande att eskalera en scen men du vill inte och föredrar att scenen fortsätter på nuvarande nivå: använd ordet "Easy". Till exempel: "Easy, lugna ner dig!". Detta nekar inbjudandet att eskalera, men avslutar inte scenen.
 
-Sam behöver dock inte vänta på Kims fråga för att säga OFF. Spelare bör alltid bryta spelet om något sker som får dem att känna sig rädda/otrygga OFF. 
+Nertrappningsordet används inte bara som ett svar - om en spelare vill lugna ner en scen, men inte avsluta den, kan de informera medspelare om detta genom att använda "Easy" när som helst.
 
-Grönt för att be om upptrappning, exempel:
+### Tap Out
+Ibland vill vi inte ha en viss typ av spel eller en scen blir plötsligt för mycket och vi vill avbryta den fort. Detta betyder inte alltid att vi vill eller behöver gå OFF.
 
-I båda de förra exemplen har Kim varit den initiativtagande spelaren och Sam den passiva. Men Grönt kan även användas för att be om spel mot en:
+"Tap Out" är att klappa en spelare två gånger på en lämplig kroppsdel, t.ex. axeln. Man kan också säga "Tap tap" till en spelare. Det betyder att man ska sluta med det man håller på med och låta spelaren lämna scenen nu.
 
-Sam och Kim har nu en scen där stämningen är romantisk, detta har skett spontant och utan att spelarna har diskuterat det på förhand. Kim vill nu signalera att vad som sker är ok och att Sam får eskalera om hen vill. Kim säger “Grönt”. Sam har nu tillåtelse att eskalera spelet, eller om detta är nivån som Sam är bekväm med kan hen svara “Gult”, och om hen vill avsluta scenen här “Rött”.
+Det kan sägas diskret eller högt, mjukt eller hårt: tills medspelaren märker det och slutar.
 
-Om en spelare väljer att använda “Rött” och sen när du ställer påföljar frågan svara de “Grönt”, föreslår vi ändå att du vid snaraste möjliga tillfälle tar spelaren OFF och kollar läget. Detta system kommer att övas på under workshoppen.
+Om en spelare använder "Tap tap" på dig, först av allt sluta med det du gör.
+
+Därefter kommer sunt förnuft. Har ni just haft en intensiv scen tillsammans eller vet du att spelaren just kommit ur en intensiv scen? Mår de dåligt? Trött? Hungrig? Även fast en spelare använt "Tap tap" och inte "OFF": om du inte är säker på deras välmående, ta en minut för att gå OFF. Fråga dem om de är ok och om de behöver någonting från dig. Vi vill mycket hellre att ni bryter inlevelsen för att kolla om en person är ok än att ignorera tecken för att undvika att paja inlevelsen för andra.
+
+Vi kommer alltid att stödja ditt val att gå OFF. Om situationen känns oklar eller du är obekväm på något sätt, hitta trygghetsvärden och vi fixar det tillsammans.
+
+Om sunt förnuft säger dig att det inte är nödvändigt att gå OFF vid detta tillfälle: Avsluta scenen och lämna spelaren. Du kan välja att kolla om spelaren är ok vid ett senare tillfälle.
+
+### OFF
+
+"OFF" är alltid OFF: ni avslutar spelet eller scenen omedelbart. Om en spelare använder "OFF", lyssna på vad de har att säga. Fråga dem vad de behöver utav dig. Hjälp dem till trygghetsvärd om det behövs.
+
+Vi kommer alltid att stödja en spelares val att bryta inlevelse när ens eget eller andras välmående står på spel. Om du känner att det går emot din vision/önskan/inlevelse är detta inte rätt lajv för dig.
