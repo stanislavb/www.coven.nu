@@ -23,6 +23,8 @@ Frustunaby, 20 minuters promenad från Gnesta station.
 Pendeltåg går regelbundet.  
 En timmes bilkörning från Stockholm. 
 
+Fyra större stugor från ca 1800-tal med sjö och grillplats nedanför. En av stugorna är fullt rullstolsanpassad (med tillhörande stor toalett i samma hus) och det finns en ramp att lägga över alla utomhustrappor.
+
 ## Datum, tid & spelare
 
 Svenska rundan: 	18-20 september
