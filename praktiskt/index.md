@@ -48,7 +48,7 @@ Workshopen kommer att innehålla:
  - Bygga förhållanden
  - Säkerhet och nyckelord
  - Metatekniker och spelsätt
- - Dramatiska kurvan och tidsplan
+ - Dramatisk kurva och tidsplan
  - Komma in i rollen
 
 ## Att ta med
@@ -84,7 +84,7 @@ Det här förväntar vi oss av dig som deltagare:
 
 ## Trygghetsdokument
 
-- Säkerhetsteknikerna på detta lajv är Fuck, Easy och Tap out. Detta är förklarat under [Metateknik](/metateknik/).
+- Säkerhetsteknikerna på detta lajv är Bloody, Easy och Tap Out. Detta är förklarat under [Metateknik](/metateknik/).
 - Ordet OFF avbryter spel helt. Vi uppmuntrar dig som deltagare att använda orden regelbundet som du känner att de behövs under spelets gång. Vi kommer att öva på detta under workshoppen.
 - Stopp- och bromsord ska respekteras utan tvekan.
 - Sexuellt baserat spel mellan roller ska vara överenskommet (med uttalat samtycke från all involverade spelare) innan det spelas på. Kontakta gärna trygghetsvärden, som är på plats under lajvet, om du känner dig osäker eller har frågor om detta.
