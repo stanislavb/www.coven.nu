@@ -56,6 +56,6 @@ I din rollbeskrivning kommer du att hitta några av personerna i din rolls liv n
 
 ## Häxjägare
 
-Detta är en grupp som samlats och skickats av den svenska grenen häxjägare. Flesta av dem har arbetat tillsammans tidigare och de är alla relaterade. Kallelsen att jaga och utrota häxor hör till familjen.
+Detta är en grupp som samlats och skickats av den svenska grenen häxjägare. Flesta av dem har arbetat tillsammans tidigare och de är alla släkt. Kallelsen att jaga och utrota häxor hör till familjen.
 
 *NPC grupp.*
