@@ -83,7 +83,7 @@ Ibland vill vi inte ha en viss typ av spel eller en scen blir plötsligt för my
 
 "Tap Out" är att klappa en spelare två gånger på en lämplig kroppsdel, t.ex. axeln. Man kan också säga "Tap tap" till en spelare. Det betyder att man ska sluta med det man håller på med och låta spelaren lämna scenen nu.
 
-Det kan sägas diskret eller högt, mjukt eller hårt: tills medspelaren märker det och slutar.
+Detta kan sägas/göras diskret eller högt, mjukt eller hårt: tills medspelaren märker det och slutar.
 
 Om en spelare använder "Tap tap" på dig, först av allt sluta med det du gör.
 
