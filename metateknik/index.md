@@ -69,15 +69,16 @@ Det är alltid en bra idé att försöka visa vilken sorts eskalering man har i 
 
 Medspelaren kan informera dig att de godkänner eskaleringen genom att svara med "Bloody". Till exempel "Börja inte nu igen, bloody idiot!".
 
-### Nertrappning
+### Nedtrappning
 
 Ordet för att få dina medspelare att lugna ner scenen är "Easy".
 
 On du får ett inbjudande att eskalera en scen men du vill inte och föredrar att scenen fortsätter på nuvarande nivå: använd ordet "Easy". Till exempel: "Easy, lugna ner dig!". Detta nekar inbjudandet att eskalera, men avslutar inte scenen.
 
-Nertrappningsordet används inte bara som ett svar - om en spelare vill lugna ner en scen, men inte avsluta den, kan de informera medspelare om detta genom att använda "Easy" när som helst.
+Nedtrappningsordet används inte bara som ett svar - om en spelare vill lugna ner en scen, men inte avsluta den, kan de informera medspelare om detta genom att använda "Easy" när som helst.
 
 ### Tap Out
+
 Ibland vill vi inte ha en viss typ av spel eller en scen blir plötsligt för mycket och vi vill avbryta den fort. Detta betyder inte alltid att vi vill eller behöver gå OFF.
 
 "Tap Out" är att klappa en spelare två gånger på en lämplig kroppsdel, t.ex. axeln. Man kan också säga "Tap tap" till en spelare. Det betyder att man ska sluta med det man håller på med och låta spelaren lämna scenen nu.
@@ -90,10 +91,10 @@ Därefter kommer sunt förnuft. Har ni just haft en intensiv scen tillsammans el
 
 Vi kommer alltid att stödja ditt val att gå OFF. Om situationen känns oklar eller du är obekväm på något sätt, hitta trygghetsvärden och vi fixar det tillsammans.
 
-Om sunt förnuft säger dig att det inte är nödvändigt att gå OFF vid detta tillfälle: Avsluta scenen och lämna spelaren. Du kan välja att kolla om spelaren är ok vid ett senare tillfälle.
+Om sunt förnuft säger dig att det inte är nödvändigt att gå OFF vid detta tillfälle: avsluta scenen och lämna spelaren ifred. Du kan alltid välja att kolla om spelaren är ok vid ett senare tillfälle.
 
 ### OFF
 
-"OFF" är alltid OFF: ni avslutar spelet eller scenen omedelbart. Om en spelare använder "OFF", lyssna på vad de har att säga. Fråga dem vad de behöver utav dig. Hjälp dem till trygghetsvärd om det behövs.
+"OFF" är alltid OFF: ni avslutar spelet eller scenen omedelbart. Om en spelare använder "OFF", lyssna på vad de har att säga. Fråga dem vad de behöver utav dig. Hjälp dem till en trygghetsvärd om det behövs.
 
-Vi kommer alltid att stödja en spelares val att bryta inlevelse när ens eget eller andras välmående står på spel. Om du känner att det går emot din vision/önskan/inlevelse är detta inte rätt lajv för dig.
+Vi kommer alltid att stödja en spelares val att avbryta spelet när ens eget eller andras välmående står på spel. Om du känner att det går emot din vision/önskan/inlevelse är detta inte rätt lajv för dig.
