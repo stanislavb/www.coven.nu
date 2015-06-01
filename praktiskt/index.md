@@ -31,7 +31,9 @@ Fyra större stugor från ca 1800-tal med sjö och grillplats nedanför. En av s
 
 Svenska rundan: 	18-20 september
 
-25 spelare
+Anmälningen öppnar 7:e juni.
+
+25 spelare (16 års åldersgräns).
 
 Spelet börjar kl 10:00 den 18e september.  
 Spelet slutar efter kl 13.00 den 20e september.
