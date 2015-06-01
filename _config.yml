@@ -32,7 +32,7 @@ event:
   description: "Ett häxlajv i Stockholmsområdet 18-20 september 2015"
   email: svenska@coven.nu
 #  twitter: CovenLARP
-#  facebook: CovenLARP
+  facebook: CovenLARP
   google:
     analytics: 
     verify: 
