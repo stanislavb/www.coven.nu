@@ -21,7 +21,7 @@ Coven utspelar sig i en rätt ofrivilligt nyformad samling häxor i nutidens Sve
 
 Lajvet handlar om coola krafter, häxorna som har dem, och de personer som försöker döda häxorna.
 
-Du får en chans att uppleva klassiska känslor och karaktärer från gymnasietiden, skaffa nya vänner, bli sviken, bli kär, råka döda någon och desperat försöka återuppliva dem innan kårchefen får reda på det... eller bara försöka täcka dina spår.
+Du får en chans att uppleva klassiska känslor och karaktärer från gymnasietiden, skaffa nya vänner, bli sviken, bli kär, råka döda någon och desperat försöka återuppliva dem innan någon får reda på det... eller bara försöka täcka dina spår.
 
 Stämningen är spänd, framtiden är osäker och du har antingen alldeles för lite eller alldeles för mycket kraft för att hantera läget. Du måste skaffa vänner. Du måste ha tillit. Ni måste hjälpa varandra eller så kommer ni antagligen att dö i en alldeles för snar framtid. 
 
