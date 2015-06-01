@@ -12,7 +12,7 @@
 <p>{{ event.description }}</p>
 {% include _mail_subscribe.html %}
 {% include _link_to_english.html %}
-{% if event.email %}<a href="mailto:{{ event.email }}" class="event-social" target="_blank"><i class="fa fa-fw fa-envelope-square"></i> Maila oss</a>{% endif %}
+{% if event.email %}<a href="mailto:{{ event.email }}" class="event-social" target="_blank"><i class="fa fa-fw fa-envelope-square"></i> {{ event.email }}</a>{% endif %}
 {% if event.twitter %}<a href="http://twitter.com/{{ event.twitter }}" class="event-social" target="_blank"><i class="fa fa-fw fa-twitter-square"></i> Twitter</a>{% endif %}
 {% if event.facebook %}<a href="http://facebook.com/groups/{{ event.facebook }}" class="event-social" target="_blank"><i class="fa fa-fw fa-facebook-square"></i> Facebook</a>{% endif %}
 {% if event.google.plus %}<a href="http://plus.google.com/+{{ event.google.plus }}" class="event-social" target="_blank"><i class="fa fa-fw fa-google-plus-square"></i> Google+</a>{% endif %}
