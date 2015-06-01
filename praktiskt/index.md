@@ -23,17 +23,18 @@ Frustunaby, 20 minuters promenad från Gnesta station.
 Pendeltåg går regelbundet.  
 En timmes bilkörning från Stockholm. 
 
-## Datum och tid
+## Datum, tid & spelare
 
-* Svenska rundan: 	18-20 september
-* Engelska rundan:	 2-4 oktober
+Svenska rundan: 	18-20 september
+
+25 spelare
 
 Spelet börjar kl 10:00 den 18e september.  
 Spelet slutar efter kl 13.00 den 20e september.
 
-## Biljetter och priser
+## Biljetter
 
-- Sponsor: 
+Sponsor: 
 - Baspris: 
 - Student/arbetslös: 
 
