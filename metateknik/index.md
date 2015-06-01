@@ -25,7 +25,7 @@ Det finns många olika sätt att tolka och utföra metatekniker på, beroende p�
 
 Nästan allt kring att få och att använda dina krafter är metatekniker. 
 
-Det betyder att  pärlorna som symboliserar dina krafter är “osynliga” i spelets värld och det är även breven du får när du lottar en ny kraft. De finns som en påminnelse för dig själv och för andra spelare om vilka krafter som finns och vem som har dem.
+Det betyder att pärlorna som symboliserar dina krafter är “osynliga” i spelets värld och det är även breven du får när du lottar en ny kraft. De finns som en påminnelse för dig själv och för andra spelare om vilka krafter som finns och vem som har dem.
 
 Även när du använder krafterna, Mortis till exempel, måste du använda orden “Alma, Mortis” för att den andra spelaren ska vet vad det är du vill ha från dem. Denna fras finns inte IN, din karaktär uttalar den alltså inte, bara spelaren. Alma är ett meta nyckelord för att få andra spelare uppmärksamma på vad som kommer att ske och att dem måste lyssna för att höra instruktionerna. 
 
