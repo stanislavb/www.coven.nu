@@ -19,7 +19,7 @@ image:
 
 Coven utspelar sig i en rätt ofrivilligt nyformad samling häxor i nutidens Sverige. 
 
-Lajvet handlar om coola krafter, häxorna som innehar dem, och de personer som försöker döda dem.
+Lajvet handlar om coola krafter, häxorna som har dem, och de personer som försöker döda häxorna.
 
 Du får en chans att uppleva klassiska känslor och karaktärer från gymnasietiden, skaffa nya vänner, bli sviken, bli kär, råka döda någon och desperat försöka återuppliva dem innan kårchefen får reda på det... eller bara försöka täcka dina spår.
 
@@ -31,7 +31,7 @@ Men först måste du ta reda på var det största hotet ligger; utanför er saml
 
 Detta lajv är inte bara för kvinnor; vi använder order "häxa" som könsneutralt. Människor av alla kön kallas för häxor.
 
-Detta är ett "Nordic LARP". Lajvet kommer att fokusera på förhållanden mellan roller, använda metatekniker och försöka få saker att se så realistiska ut som möjligt.
+Detta är ett "Nordic LARP". Lajvet kommer att fokusera på förhållanden mellan roller, att använda metatekniker och att försöka få saker att se så realistiska ut som möjligt.
 
 Det är ett lajv fyllt av motsägelser för att skapa inre och yttre konflikter för rollpersonerna:
 
@@ -39,7 +39,7 @@ Det är ett lajv fyllt av motsägelser för att skapa inre och yttre konflikter 
 * Vänskap och hierarkier
 * Tonårsångest och stort ansvar
 
-Vi vill skapa ett lajv tillgängligt både för nya och för erfarna spelare. Vi gör spelmekanikerna enkla och flexibla så att spelare kan ha så episkt, kul eller tragiskt lajv de vill, i deras eget tempo. Tidigare erfarenhet av Nordic LARP oh metatekniker är en fördel, men vi strävar efter att ge all information, stöd och hålla workshops för att inkludera alla.
+Vi vill skapa ett lajv tillgängligt både för nya och för erfarna spelare. Vi gör spelmekanikerna enkla och flexibla så att spelare kan ha så episkt, kul eller tragiskt lajv de vill, i sitt eget tempo. Tidigare erfarenhet av Nordic LARP och metatekniker är en fördel, men vi strävar efter att ge all information och stöd som behövs, och att hålla workshops för att inkludera alla.
 
 ## Inspiration
 
@@ -49,8 +49,8 @@ En annan inspirationskälla är boken “Cirkeln”. Läs den eller se filmen om
 
 ## Innehållsförteckning
 
-Det här lajvet innehåller spår av: skräck, grupp tryck, möjlig mobbning, våld och möjligtvis blood och äckel.
+Det här lajvet innehåller spår av: skräck, grupptryck, möjlig mobbning, våld och möjligtvis blood och äckel.
 
-Det här lajvet innehåller inte: riktig alkohol, sex eller droger.
+Det här lajvet innehåller inte: riktig alkohol, riktig sex eller riktiga droger.
 
 För mer information om säkerhet och välmående under lajvet, se vårt deltagarkontrakt och trygghetsdokument under fliken [praktiskt](/praktiskt/).
