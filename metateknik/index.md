@@ -17,6 +17,8 @@ image:
 </div>
 </section><!-- /#table-of-contents -->
 
+## Metatekniker
+
 Vi använder metatekniker på lajv för att förmedla en önskad handling av våra medspelare medan vi är IN. Ett exempel är användningen av magi på lajvet som förmedlas med kodord och handrörelser; dessa är metatekniker. Som spelare ska du alltid lyssna/titta på dessa instruktioner utan att avbryta för att förstå vad som förväntas av dig. Beroende på situation kan det även vara passande för din karaktär (inte dig) att ignorera att de kan höra/se dessa instruktioner och att sedan bara spela på resulatet.
 
 Det finns många olika sätt att tolka och utföra metatekniker på, beroende på vana och lajvkultur. Läs därför genom informationen noggrant även om du har använt metatekniker förut. Vi kommer att gå genom de relevanta metateknikerna för detta lajv under workshoppen. Du förväntas att ha läst och lärt dig dem som står med här på hemsidan innan vi övar på dem tillsammans.
