@@ -34,9 +34,11 @@ Spelet slutar efter kl 13.00 den 20e september.
 
 ## Biljetter
 
-Sponsor: 
-- Baspris: 
-- Student/arbetslös: 
+Sponsor: 1000kr   
+Baspris: 850kr  
+Reducerat pris: 550kr  
+
+*Vi hoppas kunna erbjuda fem 550kr biljetter, men kan inte garantera detta ännu.*
 
 ## Workshops
 
