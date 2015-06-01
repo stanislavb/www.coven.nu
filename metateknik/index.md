@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Metateknik
+title: Speltekniker
 tags: [metateknik, lotteri, kutt, brems, ping, pong]
 comments: true
 image:
