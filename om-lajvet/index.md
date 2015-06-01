@@ -29,7 +29,7 @@ Men först måste du ta reda på var det största hotet ligger; utanför er saml
 
 ## Vision
 
-Detta lajv är inte bara för kvinnor; vi använder order "häxa" som könsneutralt. Människor av alla kön kallas för häxor.
+Vi använder order "häxa" som könsneutralt. Alla som visar sig ha krafter kallas för häxor.
 
 Detta är ett "Nordic LARP". Lajvet kommer att fokusera på förhållanden mellan roller, att använda metatekniker och att försöka få saker att se så realistiska ut som möjligt.
 
