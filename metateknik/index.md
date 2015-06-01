@@ -21,7 +21,7 @@ Det finns olika definitioner av skillnaden mellan en spelteknik och en metatekni
 
 ## Metatekniker
 
-
+Detta är sätt på vilka du som spelare kan kommunicera med dina medspelare under spelets gång utan att bryta spelet. Som spelare, om du ser eller hör att en teknik blir använd och den inte är riktad specifikt mot dig ska du oftast ignorera den då det ej blivit sagt något IN-lajv. Orden som uttalas när en Kraft används är exempel på en metateknik, liksom pärlorna du har på dig för att visa dina medspelare vilka Krafter din karaktär har.
 
 ## Krafterna
 
