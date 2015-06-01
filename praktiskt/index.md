@@ -66,7 +66,6 @@ Tillförordnad suprema, sekonder och seniorer: Era roller har bott i Dahlinsamli
 
 Det här lovar vi arrangörer dig:
 
-- Att den information som finns på hemsidan när anmälan öppnar kommer att gälla.
 - Områden på lajvet där du kan gå helt off vid behov, känna dig trygg och vila.
 - Ett spännande lajv med inslag av skräck och action.
 - Facebookgrupper för social interaktion.
