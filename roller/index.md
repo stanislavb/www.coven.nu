@@ -42,6 +42,8 @@ Det finns en strikt hierarki inom en samling. Även om Supreman och hennes sekun
 
 *Majoriteten av rollerna på detta lajv är nyanlända juniorer. Vissa kommer att vara seniorer och dessa roller kommer att ha några ytterligare ansvar. Några av dessa seniorer kommer att bli castade, alla juniorer kommer att bli lottade.*
 
+*Alla seniorer och juniorer kommer att skrivas som mellan 17-21 i ålder, oavsett spelares verkliga ålder.*
+
 ## Hushållet
 
 Dahlinsamlingen har ett hushåll bestående av kockar och personal. De flesta av dem har tjänat samlingen i många år.
