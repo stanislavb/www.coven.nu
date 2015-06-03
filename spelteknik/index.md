@@ -55,41 +55,41 @@ Du som spelare väljer själv om du vill få alla fem krafterna under lajvets g�
 
 Om du vill delta i De Sju Proven som sker på andra dagen behöver du ha minst fyra krafter före den eftermiddagen.
 
-## Bloody, Easy och Tap Out
+## Satan, Chilla och Tap Out
 
 Detta är säkerhetstekniken vi använder på lajvet. Den liknar "Rött, gult, grönt".
 
 ### Eskalering
 
-Ordet man använder för att be medspelare att eskalera en scen är "Bloody".
+Ordet man använder för att be medspelare att eskalera en scen är "Satan".
 
-Det kan användas för sig eller i en mening. Till exempel "Nej, jag går inte med dig. Bloody hell!" vore en inbjudan till andra spelare att fortsätta släpa iväg dig eller agera våldsamt.
+Det kan användas för sig eller i en mening. Till exempel "Nej, jag går inte med dig. Satan heller!" vore en inbjudan till andra spelare att fortsätta släpa iväg dig eller agera våldsamare.
 
 Det är alltid en bra idé att försöka visa vilken sorts eskalering man har i åtanke när man gör inbjudan. Till exempel om du och en annan spelare bråkar och detta har bara involverat rop och skrik men du vill eskalera scenen till mer fysiskt bråk kan du vidröra eller lätt putta spelaren och säga eskaleringsordet. Vänta på svar innan du fortsätter.
 
-Medspelaren kan informera dig att de godkänner eskaleringen genom att svara med "Bloody". Till exempel "Börja inte nu igen, bloody idiot!".
+Medspelaren kan informera dig att de godkänner eskaleringen genom att svara med "Satan". Till exempel "Börja inte nu igen, satan också!".
 
 ### Nedtrappning
 
-Ordet för att få dina medspelare att lugna ner scenen är "Easy".
+Ordet för att få dina medspelare att lugna ner scenen är "Chilla".
 
-On du får ett inbjudande att eskalera en scen men du vill inte och föredrar att scenen fortsätter på nuvarande nivå: använd ordet "Easy". Till exempel: "Easy, lugna ner dig!". Detta nekar inbjudandet att eskalera, men avslutar inte scenen.
+Om du får ett inbjudande att eskalera en scen men du vill inte och föredrar att scenen fortsätter på nuvarande nivå: använd ordet "Chilla". Till exempel: "Alltså Chilla, lugna ner dig!". Detta nekar inbjudandet att eskalera, men avslutar inte scenen.
 
-Nedtrappningsordet används inte bara som ett svar - om en spelare vill lugna ner en scen, men inte avsluta den, kan de informera medspelare om detta genom att använda "Easy" när som helst.
+Nedtrappningsordet används inte bara som ett svar - om en spelare vill lugna ner en scen, men inte avsluta den, kan de informera medspelare om detta genom att använda "Chilla" när som helst.
 
 ### Tap Out
 
 Ibland vill vi inte ha en viss typ av spel eller en scen blir plötsligt för mycket och vi vill avbryta den fort. Detta betyder inte alltid att vi vill eller behöver gå OFF.
 
-"Tap Out" är att klappa en spelare två gånger på en lämplig kroppsdel, t.ex. axeln. Man kan också säga "Tap tap" till en spelare. Det betyder att man ska sluta med det man håller på med och låta spelaren lämna scenen nu.
+"Tap Out" är att klappa en spelare två gånger på en lämplig kroppsdel, t.ex. axeln. Man kan också säga "Tap tap" till spelaren. Det betyder att man ska sluta med det man håller på med och låta spelaren som använder "tap out" lämna scenen nu.
 
 Detta kan sägas/göras diskret eller högt, mjukt eller hårt: tills medspelaren märker det och slutar.
 
 Om en spelare använder "Tap tap" på dig, först av allt sluta med det du gör.
 
-Därefter kommer sunt förnuft. Har ni just haft en intensiv scen tillsammans eller vet du att spelaren just kommit ur en intensiv scen? Mår de dåligt? Trött? Hungrig? Även fast en spelare använt "Tap tap" och inte "OFF": om du inte är säker på deras välmående, ta en minut för att gå OFF. Fråga dem om de är ok och om de behöver någonting från dig. Vi vill mycket hellre att ni bryter inlevelsen för att kolla om en person är ok än att ignorera tecken för att undvika att paja inlevelsen för andra.
+Därefter kommer sunt förnuft. Har ni just haft en intensiv scen tillsammans eller vet du att spelaren just kommit ur en intensiv scen? Ser de ut att må dåligt? Ser de trötta ut? Hungriga? Även fast en spelare använt "Tap out" och inte "OFF": om du inte är säker på deras välmående, ta en minut att gå OFF. Fråga dem om de är ok och om de behöver någonting från dig. Vi vill mycket hellre att ni bryter inlevelsen för att kolla om en person är ok, än att ignorera potentiella varningssignaler för att undvika att paja inlevelsen för andra.
 
-Vi kommer alltid att stödja ditt val att gå OFF. Om situationen känns oklar eller du är obekväm på något sätt, hitta trygghetsvärden och vi fixar det tillsammans.
+Vi kommer alltid att stödja ditt val att gå OFF. Om situationen känns oklar eller du är obekväm på något sätt, hitta trygghetsvärden, så vi fixar det tillsammans.
 
 Om sunt förnuft säger dig att det inte är nödvändigt att gå OFF vid detta tillfälle: avsluta scenen och lämna spelaren ifred. Du kan alltid välja att kolla om spelaren är ok vid ett senare tillfälle.
 
