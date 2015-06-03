@@ -122,4 +122,4 @@ I den här tekniken representerar dina armar, upp till armbågen, din kropps sex
 Använd dina händer för att vidröra din medspelares ansikte. Som de två andra teknikerna kan tekniken också användas för att visa vilken form av hångel/kyssar det handlar om.
 
 
-*Förhandla alltid intima scener med din medspelare off först. Vi kan inte vara nog tydliga. Om NÅGON pussar, kysser eller rör vid en medspelare på ett sätt som bedöms olämpligt (av mottagaren) utan uttalat samtycke från medspelare kommer denna person att uteslutas från lajvet omedelbart. Det här är ett lajv, vi ser ingen anledning till att inte prata med sina medspelare om intima scener som en vill spela med dem innan de spelas ut.*
+*Förhandla alltid intima scener med din medspelare OFF först. Vi kan inte vara nog tydliga. Om NÅGON pussar, kysser eller rör vid en medspelare på ett sätt som bedöms olämpligt (av mottagaren) utan uttalat samtycke från medspelare kommer denna person att uteslutas från lajvet omedelbart. Det här är ett lajv, vi ser ingen anledning till att inte prata med sina medspelare om intima scener som en vill spela med dem innan de spelas ut.*
