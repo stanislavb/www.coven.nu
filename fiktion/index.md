@@ -29,7 +29,9 @@ Detta är den nuvarande situationen. En grupp räddade häxor anländer till en 
 
 ## Dahlins Samling
 
-Alma Dahlin byggde det första huset i Frustunaby nära slutet av sjuttonhundratalet. Hon kom med sitt hushåll och flera unga kvinnliga skyddslingar, till stor spänning för det lilla samhället. Senare när Dahlin-familjen och deras församling höll sig för sig själva började ryktena snart att sprida sig om att Frustunaby var en plats för gravida unga kvinnor att föda sina oönskade barn. Det var den lokala kyrkan som klev in och vederlade ryktena. Därefter var Dahlin-familjen, deras församlingar, och hela deras hushåll närvaronde vid kyrkan varje söndag och fick flera predikningar tillägnade sig. Generösa donationer hade också tagits emot av kyrkan runt denna tid. Den varma relationen mellan Frustunaby och kyrkan fortsatte även efter att Alma och hennes man hade gått bort.
+Alma Dahlin byggde det första huset i Frustunaby nära slutet av sjuttonhundratalet. Hon kom med sitt hushåll och flera unga kvinnliga skyddslingar, till stor spänning för det lilla samhället. Senare när Dahlin-familjen och deras församling höll sig för sig själva började ryktena snart att sprida sig om att Frustunaby var en plats för gravida unga kvinnor att föda sina oönskade barn. 
+
+Det var den lokala kyrkan som klev in och vederlade ryktena. Därefter var Dahlin-familjen, deras skyddslingar, och hela deras hushåll närvaronde vid kyrkan varje söndag och fick flera predikningar tillägnade sig. Generösa donationer hade också tagits emot av kyrkan runt denna tid. Den varma relationen mellan Frustunaby och kyrkan fortsatte även efter att Alma och hennes man hade gått bort.
 
 Samlingen förställdes som många olika typer av tillflyktsorter genom tiderna, en gång även som ett barnhem. Men det var 1925 när grevinnan Ebba von Eckermann, en tidigare medlem av Frustunaby Flickors Utomhus Klubb, donerade Frustunaby till Scouterna, som det skapades en permanent täckmantel som håller än idag. Det var dock inte förrän sammanslagningen av flickscouterna och Svenska Scoutförbundet 1960 som pojkar tilläts att ansluta sig till Dahlinsamlingen.
 
