@@ -45,7 +45,7 @@ Vi vill skapa ett lajv tillgängligt både för nya och för erfarna spelare. Vi
 
 Fiktionen och ramverket är mestadels inspirerad av den amerikanska tv-serien “American Horror Story: Coven”. Du kan titta på den om du vill, men det är inte nödvändigt för att vara med på lajvet. Vi har plockat ut det som är kärnan i serien: skräck, tonårsångest, magiska krafter och spända relationer.
 
-En annan inspirationskälla är boken “Cirkeln”. Läs den eller se filmen om du vill ha en inblick i de arketyper vi kommer att använda oss av i vårt skapande av karaktärerna. Cirkeln är också mer likt den stämning vi vill komma åt på lajvet.
+En annan inspirationskälla är boken “Cirkeln”, boken finns översatt till engelska och 24 andra språk. Läs den eller se filmen om du vill ha en inblick i de arketyper vi kommer att använda oss av i vårt skapande av karaktärerna. Cirkeln är också mer likt den stämning vi vill komma åt på lajvet.
 
 ## Innehållsförteckning
 
