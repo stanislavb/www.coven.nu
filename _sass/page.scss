@@ -224,12 +224,12 @@ $button-size: 1.5rem;
 		@include suffix(12,1);
 		margin-bottom: 2em;
 		@media #{$small} {
-			@include grid(12,6);
+			@include grid(12,7);
 			@include prefix(12,0);
 			@include suffix(12,0);
 		}
 		@media #{$x-large} {
-			@include grid(12,4.5);
+			@include grid(12,6);
 		}
 	}
 }
@@ -701,4 +701,10 @@ $button-size: 1.5rem;
         @include prefix(12,0.5);
         @include grid(12,2.5);
     }
+}
+
+// Sign-up iframe
+iframe#signup {
+    width: 100%;
+    height: 3000px;
 }
