@@ -40,9 +40,9 @@ Spelet slutar efter kl 13.00 den 20e september.
 
 ## Biljetter
 
-Sponsor: 1000kr   
+Sponsor: 1100kr   
 Baspris: 850kr  
-Reducerat pris: 550kr  
+Reducerat pris: 600kr  
 
 *Vi hoppas kunna erbjuda fem 550kr biljetter, men kan inte garantera detta ännu.*
 
