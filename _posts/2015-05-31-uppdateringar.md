@@ -18,7 +18,3 @@ Du får en chans att uppleva klassiska känslor och karaktärer från gymnasieti
 Stämningen är spänd, framtiden är osäker och du har antingen alldeles för lite eller alldeles för mycket kraft för att hantera läget. Du måste skaffa vänner. Du måste ha tillit. Ni måste hjälpa varandra eller så kommer ni antagligen att dö i en alldeles för snar framtid. 
 
 Men först måste du ta reda på var det största hotet ligger; utanför er samling eller i dess mitt?
-
-## Uppdateringar från arrangörer
-
-På denna sida kommer uppdateringar från arrangörerna att dyka upp.
