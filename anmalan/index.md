@@ -8,6 +8,4 @@ image:
   feature: sample-image-1.jpg
 ---
 
-[Direktlänk till formuläret](https://docs.google.com/forms/d/1m182dnP5zduRdNdzVsa6Rme0vX8o49K8DYt_b77I0Ss/viewform) funkar bättre på mobiltelefoner.
-
-<iframe src="https://docs.google.com/forms/d/1m182dnP5zduRdNdzVsa6Rme0vX8o49K8DYt_b77I0Ss/viewform?embedded=true" frameborder="0" marginheight="0" marginwidth="0" id="signup">Laddar anmälningsförmulär...</iframe>
+Anmälan är stängd :)

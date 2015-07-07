@@ -7,6 +7,8 @@ image:
   feature: sample-image-1.jpg
 ---
 
+## Anmälan är stängd
+
 {% vimeo 129453603 %}
 
 Coven utspelar sig i en rätt ofrivilligt nyformad samling häxor i nutidens Sverige. 
