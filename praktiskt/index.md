@@ -18,7 +18,7 @@ image:
 </section><!-- /#table-of-contents -->
 
 ## Plats
-<iframe src="https://www.google.com/maps/embed/v1/place?q=frustuna+by&key=AIzaSyClEWLh20lxrQBFR7omuuVESviszPxONyk" width="100%" height="100%" frameborder="0" style="border:0"></iframe>
+<iframe src="https://www.google.com/maps/embed/v1/place?q=frustuna&key=AIzaSyClEWLh20lxrQBFR7omuuVESviszPxONyk" width="100%" height="100%" frameborder="0" style="border:0"></iframe>
 
 Frustunaby, 20 minuters promenad från Gnesta station.  
 Pendeltåg går regelbundet.  
