@@ -101,10 +101,12 @@ Det har varit traditionellt att Supreman själv väljer ut och sedan bjuder häx
 
 När en ny Suprema börjar träda fram i en generation drar de kraften från den befintliga Supreman som försvagas. Det är så en Suprema känner på sig när tiden kommit för en ny provning och en ny starkare efterträdare. Det har skett att en Suprema, benägen att hålla fast vid sin position, har hittat och dödat de potentiella nya Supremorna innan provet kan utföras. Denna taktik kan även förekomma mellan kandidaterna inför en prövning.
 
-## Ritualer och Kristaller
+## Magi
 
-Det finns flera olika ritualer inom samlingen, vissa av dessa behöver krystaler för att utföras och andra behöver det inte.
+All magi i lajvets universum är direkt länkat till de sju krafterna: Mortis, Vitalis, Concilium, Clairvoyance, Transfero, Telekinesis och Pyrokinesis. Detta betyder att om det kan länkas till en av krafterna så går det göra: t.ex. en ritual som laddar en amulett med kraften Vitalis för att hela någon eller skydda dem från skada. Eller en “förbannelse” som använder Transfero för att ladda ett objekt så att den första som rör vid det fylls av sorg eller hat.
 
-Dessa ritualer kan användas för att temporärt förstärka en häxas kraft, för att skapa skyddande barriärer kring en plats, eller för att fixa sig ett rus från att leka Mortis och Vitalis.
+Tarotkort, krystaler, amuletter, ritualer osv kan användas för att lagra, rikta, öka eller försvara mot magi. Men ju större effekt man vill att det ska ha, desto mer energi, tid och ork tar det att skapa eller använda: mycket förberedelse, tålamod eller magisk styrka. (Om du gör till exempel ett förbannat objekt, glöm inte att antingen informera den du vill använda det på i förväg eller skriva en liten lapp med instruktioner, så att spelaren som hittar den vet vad den ska göra).
 
-Varje kraft representeras av en kristall.
+Du kan även låna av din energi till andra häxor med hjälp av t.ex. en ritual: en häxa med Vitalis har inte nog styrka att hela en svårt skadad person, andra häxor ökar hens Vitaliskraft genom att låna ut sin energi. Du kan inte “ge” någon en kraft som du har men inte de: en häxa med Mortis kan inte ge kraften Mortis till en annan häxa som inte har den. Detta innebär även att en t.ex. helande ritual inte kan genomföras om ingen som är med och genomför den har Vitalis.
+
+Lajvet siktar på att behålla diskbänksrealismen så gott som det går på ett magilajv. Försök att inte använda fantasimagi som påminner om Harry Potter för mycket: inga trollspön, inget abrakadabra, inga magiska djur eller trolldrycker som får människor att byta kroppar med varandra. Tänk er istället primala ritualer, chants, blod och lite äckel. Kom även ihåg att all magi har ett pris, om det så är en huvudvärk, ett näsblod eller din själ.
