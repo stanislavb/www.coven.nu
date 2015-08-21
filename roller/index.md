@@ -21,9 +21,9 @@ image:
 
 Supreman är ledare för samlingen, och varje samling har sin egen Suprema.
 
-För att bli Suprema av en samling, måste du gå igenom De Sju Prövningarna. Detta innebär att en Suprema har visat sig kunna använda alla sju krafter. Endast en Suprema finns i  samlingen per generation och du kan bara delta i prövningarna en gång i ditt liv, om alls. Prövningen av en potentiell Suprema förekommer endast i samlingar bestående av tretton eller fler personer, vilket innebär att en samling med färre häxor inte kommer att få en ny Suprema och sakta dö ut. Detta är fallet för Dahlinsamlingen som bara har en tillförordnad Suprema, som tjänstgör i rollen i hopp om att samlingen växer igen.
+För att bli Suprema av en samling, måste du gå igenom De Sju Prövningarna. Detta innebär att en Suprema har visat sig kunna använda alla sju krafter. Endast en Suprema finns i samlingen per generation och du kan bara delta i prövningarna en gång i ditt liv, om alls. Prövningen av en potentiell Suprema förekommer endast i samlingar bestående av tretton eller fler personer, vilket innebär att en samling med färre häxor inte kommer att få en ny Suprema och sakta dö ut. Detta är fallet för Dahlinsamlingen som bara har en tillförordnad Suprema, som tjänstgör i rollen i hopp om att samlingen växer igen.
 
-Supreman är inte bara samlingens ledare; deras inställning, moral och etik påverkar hela samlingen, och kan göra den starkare eller svagare, rättvisa eller kriminella. Supreman svarar endast till Häxrådet.
+Supreman är inte bara samlingens ledare; deras inställning, moral och etik påverkar hela samlingen, och kan göra den starkare eller svagare, rättvisa eller kriminella. 
 
 *Det kommer att finnas en tillförordnad Suprema i Dahlinsamlingen. Denna roll kommer att ha ytterligare ansvar under lajvet och ansvara för att hålla i några lektioner. Denna roll kommer att bli castad.*
 
