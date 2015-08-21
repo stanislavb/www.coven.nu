@@ -33,13 +33,11 @@ Sekonderna är de högst rankade häxorna efter Supreman. De är oftast de andra
 
 *Det finns två sekunder på Dahlinsamlingen. Dessa roller kommer att ha ytterligare ansvar under lajvet och ansvara för att hålla i några lektioner. Dessa roller kommer att vara castade.*
 
-## Seniorer och Juniorer
+## Häxorna
 
-Häxor utvecklar sin första kraft kring puberteten. Olyckor som förebådar en senare kraft kan inträffa tidigare, vilket tyder på att kraften är vilande i kroppen tills puberteten aktiverar den. Det är inte ovanligt att kraften är mycket svag i början, eller att den muterar till en mer kraftfull form i takt med att häxan växer. Detta betyder att om kraften inte är särskilt stark eller traumatisk börjar de flesta häxor inte bli medvetna om sina egna krafter förrän de senare tonåren. Vid det laget kan en andra kraft även ha börjat utvecklats.
+Häxor utvecklar sin första kraft kring puberteten. Det är inte ovanligt att kraften är mycket svag i början, eller att den muterar till en mer kraftfull form i takt med att häxan växer. Detta betyder att om kraften inte är särskilt stark eller traumatisk börjar de flesta häxor inte bli medvetna om sina egna krafter förrän de senare tonåren. Vid det laget kan en andra kraft även ha börjat utvecklats.
 
 De flesta häxor utvecklar bara en till tre krafter; vanligtvis är varje ny kraft blir svagare än den föregående. En bra samling hjälper en ung häxa att styra, förstärka och även utveckla nya krafter. Utan en samlingen kan krafterna vara svåra att kontrollera eller att förstå överhuvudtaget.
-
-När en är invigd i en samling tillhör du den tills du dör. Även om du lämnar samlingen förblir du bunden till din Suprema. Det enda undantaget är om din Suprema har dött och din samling har upphört att existera. I dessa tider är det inte ovanligt att häxor, som inte velat integrera sig in i samhället efter att deras samling har upphört, går samman och försöka bilda en ny samling eller går med i en döende samling i ett försök att återställa den.
 
 Det finns en strikt hierarki inom en samling. Även om Supreman och hennes sekundor är de enda med titlar så spelar tiden du gick med i samlingen en stor roll. Nya medlemmar kallas oftast för juniorer och äldre medlemmar är deras seniorer. Att bryta hierarkin kan få allvarliga konsekvenser. Sekunder lämnar oftast bestraffning av juniorer upp till seniorerna.
 
