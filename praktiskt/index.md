@@ -30,14 +30,12 @@ Fyra större stugor från ca 1800-tal med sjö och grillplats nedanför. En av s
 
 ## Datum, tid & spelare
 
-Svenska rundan: 	18-20 september
+Svenska rundan:	18-20 september
 
-Anmälningen öppnar 7:e juni.
+29 spelare (16 års åldersgräns).
 
-25 spelare (16 års åldersgräns).
-
-Spelet börjar kl 10:00 den 18e september.  
-Spelet slutar efter kl 13.00 den 20e september.
+Lajvet börjar med en fem timmars workshop kl 10:00 på fredagen.  
+Lajvet slutar kl 13.00 på söndagen.
 
 ## Biljetter
 
@@ -49,7 +47,7 @@ Reducerat pris: 600kr
 
 ## Workshops
 
-En halv dags obligatorisk workshop finns schemalagd den första lajvdagen.  
+En fem timmars obligatorisk workshop finns schemalagd den första lajvdagen.  
 Du förväntas ha lärt dig de fem krafterna innan workshopen.
 
 Workshopen kommer att innehålla:
@@ -65,7 +63,7 @@ Workshopen kommer att innehålla:
 
 Juniorer: Era roller har nyligen anlänt till samlingen, så ni förväntas enbart ha med er en liten packning med det allra nödvändigaste. Tänk övernattningspackning med tandborste, pyjamas, en handduk och åtminstone ett ombyte svarta kläder. Det kan bli kyligt trots att vi eldar, en extra tröja och varma strumpor rekommenderas. Det kommer att finnas sängar med kuddar och täcken, men sängkläder tar ni med själva.
 
-Öronproppar rekommenderas om du vill ha din sömn ostörd.
+Öronproppar rekommenderas om du vill ha din sömn ostörd. Ta med ett armbandsur. Du kommer att behöva hålla tider ibland och lokalen är stor nog att inte märka att alla har försvunnit någonstans.
 
 Tillförordnad suprema, sekonder och seniorer: Era roller har bott i Dahlinsamlingen i minst ett år. Ni förväntas ha samma utrustning som juniorerna men kan också välja att ta med mer, dekorera era rum, osv.
 
