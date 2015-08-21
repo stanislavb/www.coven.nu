@@ -49,7 +49,7 @@ En annan inspirationskälla är boken “Cirkeln”, boken finns översatt till 
 
 ## Innehållsförteckning
 
-Det här lajvet innehåller spår av: skräck, grupptryck, möjlig mobbning, våld och möjligtvis blood och äckel.
+Det här lajvet innehåller spår av: skräck, grupptryck, möjlig mobbning, våld och möjligtvis blod och äckel.
 
 Det här lajvet innehåller inte: riktig alkohol, riktig sex eller riktiga droger.
 
