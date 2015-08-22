@@ -43,7 +43,7 @@ Sponsor: 1100kr
 Baspris: 850kr  
 Reducerat pris: 650kr  
 
-*Tack vare LARPFUND har vi kunnat erbjuda fyra 650kr biljetter.*
+*Tack vare http://larpfund.org/ har vi kunnat erbjuda fyra 650kr biljetter.*
 
 ## Workshops
 
