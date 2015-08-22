@@ -34,16 +34,16 @@ Svenska rundan:	18-20 september
 
 29 spelare (16 års åldersgräns).
 
-Lajvet börjar med en fem timmars workshop kl 10:00 på fredagen.  
+Lajvet börjar med en workshop kl 10:00 på fredagen. 
 Lajvet slutar kl 13.00 på söndagen.
 
 ## Biljetter
 
 Sponsor: 1100kr   
 Baspris: 850kr  
-Reducerat pris: 600kr  
+Reducerat pris: 650kr  
 
-*Vi hoppas kunna erbjuda fem 550kr biljetter, men kan inte garantera detta ännu.*
+*Tack vare LARPFUND har vi kunnat erbjuda fyra 650kr biljetter.*
 
 ## Workshops
 
