@@ -36,7 +36,7 @@ Svenska rundan:	18-20 september
 **Lajvet börjar med en workshop kl 10:00 på fredagen.**   
 *Incheckningen öppnar 09:00. Var redo att börja 10:00 skarpt.*    
 **Lajvet slutar kl 13.00 på söndagen.**  
-*Efter lajvslutet kommer det serveras lunch, sen en debrief. Vi ber er sen med hjälp att ställa i ordning lokalen igen. Vi förväntar oss vara klara med allt vid fyra tiden.*  
+*Efter lajvslutet kommer det serveras lunch, sen en debrief. Vi ber er sen med hjälp att ställa i ordning lokalen igen. Vi förväntar oss vara klara med allt vid 16:00 tiden.*  
 
 ## Biljetter
 
@@ -46,9 +46,11 @@ Reducerat pris: 650kr
 
 *Tack vare http://larpfund.org/ har vi kunnat erbjuda fyra 650kr biljetter.*
 
-## Workshops
+## Workshop
 
-En fem timmars obligatorisk workshop finns schemalagd den första lajvdagen.  
+**Workshopen är obligatorisk.**  
+Den kommer att börja prick 10:00 och sluta 16:00, med en timmas lunch (som vi står för).
+Du har sedan en timme att förbereda dig OFF före vi går IN lajv 17:00. 
 Du förväntas ha lärt dig de fem krafterna innan workshopen.
 
 Workshopen kommer att innehålla:
