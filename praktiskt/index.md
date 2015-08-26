@@ -62,13 +62,20 @@ Workshopen kommer att innehålla:
  - Dramatisk kurva och tidsplan
  - Komma in i rollen
 
-## Att ta med
+## Vad ni behöver ha med er
 
-Juniorer: Era roller har nyligen anlänt till samlingen, så ni förväntas enbart ha med er en liten packning med det allra nödvändigaste. Tänk övernattningspackning med tandborste, pyjamas, en handduk och åtminstone ett ombyte svarta kläder. Det kan bli kyligt trots att vi eldar, en extra tröja och varma strumpor rekommenderas. Det kommer att finnas sängar med kuddar och täcken, men sängkläder tar ni med själva.
+1. Åtminstone ett ombytte helsvarta kläder (som du INTE är rädd om).
+2. Sängkläder (kuddar och täcken finns på plats).
+3. Tandborste.
+4. Handduk.
+5. Pyjamas.
+6. Inneskor (frivilligt, men inga uteskor är tillåtna innomhus).
+7. Öronproppar (frivilligt, men rekommenderas för en god natts sömn).
+8. ETT ARMBANDSUR (Du kommer att behöva den. Området är inte stort, men det är stort nog att inte märka när alla har försvunnit iväg någonstans. Det finns några tider som vi kommer förvänta oss att ni håller även OFF).
 
-Öronproppar rekommenderas om du vill ha din sömn ostörd. Ta med ett armbandsur. Du kommer att behöva hålla tider ibland och lokalen är stor nog att inte märka att alla har försvunnit någonstans.
+**Juniorer:** Era roller har nyligen anlänt till samlingen, så ni behöver inte ha med er mer än detta.
 
-Tillförordnad suprema, sekonder och seniorer: Era roller har bott i Dahlinsamlingen i minst ett år. Ni förväntas ha samma utrustning som juniorerna men kan också välja att ta med mer, dekorera era rum, osv.
+**Tillförordnad Suprema, Sekonder och Seniorer:** Era roller har bott i Dahlinsamlingen i minst ett år, några av er flera år. Ni förväntas ha allt på listan, men kan också välja att ta med er mer för att dekorera era rum, osv.
 
 ## Deltagarkontrakt
 
