@@ -20,13 +20,12 @@ image:
 ## Plats
 <iframe src="https://www.google.com/maps/embed/v1/place?q=frustuna&key=AIzaSyClEWLh20lxrQBFR7omuuVESviszPxONyk" width="100%" height="100%" frameborder="0" style="border:0"></iframe>
 
-Frustunaby, 20 minuters promenad från Gnesta station.  
-Pendeltåg går regelbundet.  
-En timmes bilkörning från Stockholm. 
+**Frustunaby, 20 minuters promenad från Gnesta station. Pendeltåg går regelbundet från T-Centralen.**    
+**En timmes bilkörning från Stockholm. Det finns en liten parkering bredvid området.**  
 
-Fyra större stugor från ca 1800-tal med sjö och grillplats nedanför. En av stugorna är fullt rullstolsanpassad (med tillhörande stor toalett i samma hus) och det finns en ramp att lägga över alla utomhustrappor.
+Fyra större stugor från ca 1800-tal med sjö och grillplats nedanför. En av stugorna är fullt rullstolsanpassad (med tillhörande stor toalett i samma hus) och det finns en ramp att lägga över alla utomhustrappor. *Informera oss så snart som möjligt om du behöver detta.*
 
-[Bilder på Frustunaby](http://old.scoutkansliet.se/frus/frusbild.htm)
+Klicka här för [Bilder på Frustunaby](http://old.scoutkansliet.se/frus/frusbild.htm)
 
 ## Datum, tid & spelare
 
