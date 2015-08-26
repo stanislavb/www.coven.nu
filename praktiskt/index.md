@@ -33,9 +33,9 @@ Svenska rundan:	18-20 september
 
 29 spelare (16 års åldersgräns).
 
-*Lajvet börjar med en workshop kl 10:00 på fredagen.*   
-**Incheckningen öppnar 09:00. Var redo att börja 10:00 skarpt.**    
-*Lajvet slutar kl 13.00 på söndagen.*  
+**Lajvet börjar med en workshop kl 10:00 på fredagen.**   
+*Incheckningen öppnar 09:00. Var redo att börja 10:00 skarpt.*    
+**Lajvet slutar kl 13.00 på söndagen.**  
 *Efter lajvslutet kommer det serveras lunch, sen en debrief. Vi ber er sen med hjälp att ställa i ordning lokalen igen. Vi förväntar oss vara klara med allt vid fyra tiden.*  
 
 ## Biljetter
