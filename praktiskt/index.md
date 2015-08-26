@@ -77,7 +77,15 @@ Workshopen kommer att innehålla:
 
 **Tillförordnad Suprema, Sekonder och Seniorer:** Era roller har bott i Dahlinsamlingen i minst ett år, några av er flera år. Ni förväntas ha allt på listan, men kan också välja att ta med er mer för att dekorera era rum, osv.
 
+## Sovplatserna
 
+Supreman sover i sitt eget rum i Lillstugan. *Ingen egen toalett eller dusch.*  
+Sekondorna sover i sina egna rum i Backstugan. *Stugan har en toalett med dusch.*
+Seniorerna sover i två rum, med två våningsängar i varje, också i Backstugan.
+Juniorerna sover i två sovsalar i Logementet. *Tre toaletter och två duschar.*
+
+Vi kommer inte att dela upp rummen efter kön.  
+Kom ihåg att det finns fler än två kön bland våra spelare.
 
 ## Deltagarkontrakt
 
