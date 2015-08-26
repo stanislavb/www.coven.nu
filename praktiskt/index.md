@@ -49,8 +49,8 @@ Reducerat pris: 650kr
 ## Workshop
 
 **Workshopen är obligatorisk.**  
-Den kommer att börja prick 10:00 och sluta 16:00, med en timmas lunch (som vi står för).
-Du har sedan en timme att förbereda dig OFF före vi går IN lajv 17:00. 
+Den kommer att börja prick 10:00 och sluta 16:00, med en timmas lunch (som vi står för).  
+Du har sedan en timme att förbereda dig OFF före vi går IN lajv 17:00.  
 Du förväntas ha lärt dig de fem krafterna innan workshopen.
 
 Workshopen kommer att innehålla:
