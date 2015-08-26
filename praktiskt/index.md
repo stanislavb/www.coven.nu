@@ -77,6 +77,8 @@ Workshopen kommer att innehålla:
 
 **Tillförordnad Suprema, Sekonder och Seniorer:** Era roller har bott i Dahlinsamlingen i minst ett år, några av er flera år. Ni förväntas ha allt på listan, men kan också välja att ta med er mer för att dekorera era rum, osv.
 
+
+
 ## Deltagarkontrakt
 
 Det här lovar vi arrangörer dig:
@@ -102,6 +104,7 @@ Det här förväntar vi oss av dig som deltagare:
 ## Trygghetsdokument
 
 - Säkerhetsteknikerna på detta lajv är Bloody, Easy och Tap Out. Detta är förklarat under [Spelteknik](/spelteknik/).
+- Det kommer att förekomma blod, ben och även delar av djur under lajvet. Du kommer aldrig tvingas ta del av dessa och en opt-out kommer alltid att finnas.
 - Ordet OFF avbryter spel helt. Vi uppmuntrar dig som deltagare att använda orden regelbundet som du känner att de behövs under spelets gång. Vi kommer att öva på detta under workshoppen.
 - Stopp- och bromsord ska respekteras utan tvekan.
 - Sexuellt baserat spel mellan roller ska vara överenskommet (med uttalat samtycke från all involverade spelare) innan det spelas på. Kontakta gärna trygghetsvärden, som är på plats under lajvet, om du känner dig osäker eller har frågor om detta.
