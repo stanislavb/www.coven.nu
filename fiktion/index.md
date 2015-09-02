@@ -114,36 +114,49 @@ Krafternas effekter inträffar olika beroende på häxan som utför: vissa kan b
 ## Mortis : Dödens beröring.
 Mortis är makten att ta ett liv. När du dödar med Mortis så sjunker ditt offer sakta ner till Descensum : en helvetesdimension där deras värsta mardrömmar och rädslor upprepas i all evighet. 
 
-Om det är din Primära Kraft: Du behöver inte hudkontakt för att använda den men du måste vara synlig för den eller de person/er du ska använda den emot. 
+**Om det är din Primära Kraft:** Du behöver inte hudkontakt för att använda den men du måste vara synlig för den eller de person/er du ska använda den emot. 
 
-Om det inte är din primära kraft: Du behöver ha hudkontakt för att kunna använda den. 
+**Om det inte är din primära kraft:** Du behöver ha hudkontakt för att kunna använda den. 
 
-Det är allmänt känt: att en Mortishäxa kan ingå en pakt med Portvakten till Descensum och byta oskyldiga själar emot ett längre liv. På grund av detta är Mortishäxorna de häxor som hålls för troligast att en gång bli onda. Det är en orättvis skröna eftersom endast en extremt mäktig Mortis ens skulle kunna drömma om en sådan paktmöjlighet. 
+**Det är allmänt känt:** 'att en Mortishäxa kan ingå en pakt med Portvakten till Descensum och byta oskyldiga själar emot ett längre liv. På grund av detta är Mortishäxorna de häxor som hålls för troligast att en gång bli onda. Det är en orättvis skröna eftersom endast en extremt mäktig Mortis ens skulle kunna drömma om en sådan paktmöjlighet.* 
 
-Hur du använder den: Uttala orden “Alma Mortis”, vartefter offrets kropp långsamt slutar att fungera och slutligen dör.
-
-Du kan beskriva dödsprocessen för spelaren du använder kraften på, till exempel “du känner hur ditt hjärta saktar ner…”  eller hålla upp fingrar som en nedräkning för hur nära de är döden (fem är normaltillstånd och noll är död). Du kan också kombinera dessa metoder. 
+**Hur du använder den:** Uttala orden “Alma Mortis”, vartefter offrets kropp långsamt slutar att fungera och slutligen dör. Du kan beskriva dödsprocessen för spelaren du använder kraften på, till exempel “du känner hur ditt hjärta saktar ner…”  eller hålla upp fingrar som en nedräkning för hur nära de är döden (fem är normaltillstånd och noll är död). Du kan också kombinera dessa metoder. 
 
 Du kan spela på att vara oförmögen att slutföra din Mortisbesvärjelse och på så vis lämna ditt offer precis vid gränsen mellan död och levande. Detta kan också göras medvetet som en form av tortyr. Den eventuella skada som orsakats kroppen stannar kvar efter det att du avslutat din Mortis. 
 
-Det kommer med konsekvenser: att använda Mortis för mycket tunnar ut barriären mellan Descensum och ditt medvetande. Detta har fruktansvärda mardrömmar och hallucinationer som följd.  
+**Det kommer med konsekvenser:** att använda Mortis för mycket tunnar ut barriären mellan Descensum och ditt medvetande. Detta har fruktansvärda mardrömmar och hallucinationer som följd.  
 
 ## Vitalis: Återuppliva de döda. 
 Makten att återuppliva de döda och läka de levande. Den här kraften kan återta någons själ från Descensum (Mortis). 
 
-Om det är din Primära Kraft: Du kan återuppväcka dig själv från de döda. 
+**Om det är din Primära Kraft:** Du kan återuppväcka dig själv från de döda. 
 
-Om det inte är din primära kraft: Du kan inte återuppväcka dig själv från de döda. 
+**Om det inte är din primära kraft:** Du kan inte återuppväcka dig själv från de döda. 
 
-Det är allmänt känt: Vitalishäxor delar med sig av sin egen livskraft för att läka andra och detta förkortar deras livstid gradvis över tid. En kraftfull Vitalishäxa kan ta tillbaka livskraft från de som den läker och på så vis förlänga sitt eget liv. Det här kan göra vissa häxor motvilliga till att låta sig bli läkta av en mäktig Vitalishäxa fastän det kan ta en hel livstid att uppnå detta. 
+**Det är allmänt känt:** *Vitalishäxor delar med sig av sin egen livskraft för att läka andra och detta förkortar deras livstid gradvis över tid. En kraftfull Vitalishäxa kan ta tillbaka livskraft från de som den läker och på så vis förlänga sitt eget liv. Det här kan göra vissa häxor motvilliga till att låta sig bli läkta av en mäktig Vitalishäxa fastän det kan ta en hel livstid att uppnå detta.* 
 
-Hur du använder den: Du uttalar orden “Alma Vitalis” och sen kan du antingen beskriva hur återupplivningen går till, exempelvis “Du kan känna hur ditt hjärta långsamt börjar slå igen... “ eller hålla upp din hand som en uppräkning till den andres återupplivning (där fem fingrar motsvarar död och inga fingrar motsvarar levande). Du kan också kombinera dessa metoder.  
+**Hur du använder den:** Du uttalar orden “Alma Vitalis” och sen kan du antingen beskriva hur återupplivningen går till, exempelvis “Du kan känna hur ditt hjärta långsamt börjar slå igen... “ eller hålla upp din hand som en uppräkning till den andres återupplivning (där fem fingrar motsvarar död och inga fingrar motsvarar levande). Du kan också kombinera dessa metoder.  
 
 En långsam återupplivning är eftersträvansvärt och det är också det säkraste sättet att återuppliva någon. En oerfaren eller en häxa som har bråttom kan kickstarta hjärtat som en adrenalinshock. Det är ett plågsamt och obehagligt sätt att bli återupplivad på. 
 
 Du kan spela på att inte kunna slutföra Vitalis (med fruktansvärda konsekvenser) eller spela på att inte slutföra den medvetet. Bieffekter av en ofullständig Vitalis kan vara: hjärnskador, talbortfall, synbortfall eller nedsatt förmåga att röra sig. 
 
-Det kommer med konsekvenser: Vitalis tar från din egen livskraft och gör dig trött. I det långa loppet förkortar du ditt eget liv varje gång du använder Vitalis och det kan göra vissa motvilliga till att ofta använda den för ofta, men unga häxor tänker inte alltid så långt framåt. 
+**Det kommer med konsekvenser:** Vitalis tar från din egen livskraft och gör dig trött. I det långa loppet förkortar du ditt eget liv varje gång du använder Vitalis och det kan göra vissa motvilliga till att ofta använda den för ofta, men unga häxor tänker inte alltid så långt framåt. 
+
+## Concillium : Sinneskontroll 
+Makten att kontrollera en annan. Concillium kontrollerar kroppen och gör den till ett verktyg med en uppgift att utföra men den kan inte ändra tankarna eller känslorna hos offret. 
+
+**Om det är din primära kraft:** Du kan använda den på fler än en person åt gången. 
+
+**Om det inte är din primära kraft:** Du kan bara använda den på en person i taget. 
+
+**Det är allmänt känt:** *En häxa som ofta kastar Concillium på samma person skapar ett band dem emellan som kan vara svårt att bryta, ens av häxan själv. Den konstanta skadan som orsakas i hjärnan på offret kan också skapa ett zombieliknande stadium av fullständig underkastelse. Rädslan för detta kan leda till att mäktiga Concillium-häxor drar sig undan från andra häxor i samlingar. Det är inte heller helt ovanligt att mäktiga Concillium-häxor isoleras av sina samlingar av samma anledning.*
+
+**Hur du använder kraften:** Ögonkontakt är alltid nödvändigt och orden “Alma Concillium “ uttalas, direkt följt av instruktioner. Till exempel “Alma Concillium : Hämta en kopp te till mig.” Ju mer logisk, kort eller simpel en instruktion är ju troligare är det att det lyckas. Du kan också instruera ditt offer att inte komma ihåg att du kastat förtrollningen på dem. 
+
+Offret som utför uppgiften kan bli förvirrat eller känna sig instängd: fortfarande fullt medveten om sina handlingar men oförmögna att stoppa sig själva. Om offret blivit utsatt för Concillium ofta eller har varit under Concillium länge så kan detta leda till migrän, yrsel, illamående och kräkningar. 
+
+**Det kommer med konsekvenser:** Att använda Concillium kräver enorma mängder energi. Ett långvarit användande kommer att ha negativa fysiska effekter för häxan som kastar den, exempelvis näsblod, huvudvärk, trötthet och i allra värsta fall döden. 
 
 ## Dahlins Samling
 
