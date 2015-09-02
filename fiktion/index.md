@@ -109,9 +109,41 @@ Primära krafter är också de som kan Förråda, alltså vända sig emot dig. A
 
 Krafternas effekter inträffar olika beroende på häxan som utför: vissa kan bara använda dem när de känner en stark känsla, vissa har ingen kontroll över huvudtaget och utför sin kraft helt omedvetet medans andra kan använda dem medveten men inte alltid osv. Ju mer kraftfull en häxa blir (med träning) desto mer kontroll borde den ha över sin/a kraft/er, men det kan också betyda att när de tappar kontrollen gör de mer skada. 
 
-Det är alltid upp till den spelar som blir utsatt för magin att bestämma om de vill spela på effekten eller inte. Det är alltid tillåtet att opta ut ur en situation där du blir förhäxad genom att skylla på svaga krafter eller ett plötsligt kraftigt försvar. Den här funktionen finns för att spelare inte ska känna sig tvingade att spela på saker de inte är bekväma med. Av den anledningen vill vi också att ni respekterar regeln: Om en spelare inte spelar på din magi första gången kan det vara för att de inte hörde och du får försöka en gång till. Om de inte spelar på din magi den andra gången du försöker är det troligtvis för att de inte är intresserade av spelet. Försök inte en tredje gång. Vi hoppas förstås att ni hjälper varandra att göra mäktiga scener tillsammans. 
+*Det är alltid upp till den spelar som blir utsatt för magin att bestämma om de vill spela på effekten eller inte. Det är alltid tillåtet att opta ut ur en situation där du blir förhäxad genom att skylla på svaga krafter eller ett plötsligt kraftigt försvar. Den här funktionen finns för att spelare inte ska känna sig tvingade att spela på saker de inte är bekväma med. Av den anledningen vill vi också att ni respekterar regeln: Om en spelare inte spelar på din magi första gången kan det vara för att de inte hörde och du får försöka en gång till. Om de inte spelar på din magi den andra gången du försöker är det troligtvis för att de inte är intresserade av spelet. Försök inte en tredje gång. Vi hoppas förstås att ni bejakar varandra så mycket som möjligt. *
 
+## Mortis : Dödens beröring.
+Mortis är makten att ta ett liv. När du dödar med Mortis så sjunker ditt offer sakta ner till Descensum : en helvetesdimension där deras värsta mardrömmar och rädslor upprepas i all evighet. 
 
+Om det är din Primära Kraft: Du behöver inte hudkontakt för att använda den men du måste vara synlig för den eller de person/er du ska använda den emot. 
+
+Om det inte är din primära kraft: Du behöver ha hudkontakt för att kunna använda den. 
+
+Det är allmänt känt: att en Mortishäxa kan ingå en pakt med Portvakten till Descensum och byta oskyldiga själar emot ett längre liv. På grund av detta är Mortishäxorna de häxor som hålls för troligast att en gång bli onda. Det är en orättvis skröna eftersom endast en extremt mäktig Mortis ens skulle kunna drömma om en sådan paktmöjlighet. 
+
+Hur du använder den: Uttala orden “Alma Mortis”, vartefter offrets kropp långsamt slutar att fungera och slutligen dör.
+
+Du kan beskriva dödsprocessen för spelaren du använder kraften på, till exempel “du känner hur ditt hjärta saktar ner…”  eller hålla upp fingrar som en nedräkning för hur nära de är döden (fem är normaltillstånd och noll är död). Du kan också kombinera dessa metoder. 
+
+Du kan spela på att vara oförmögen att slutföra din Mortisbesvärjelse och på så vis lämna ditt offer precis vid gränsen mellan död och levande. Detta kan också göras medvetet som en form av tortyr. Den eventuella skada som orsakats kroppen stannar kvar efter det att du avslutat din Mortis. 
+
+Det kommer med konsekvenser: att använda Mortis för mycket tunnar ut barriären mellan Descensum och ditt medvetande. Detta har fruktansvärda mardrömmar och hallucinationer som följd.  
+
+## Vitalis: Återuppliva de döda. 
+Makten att återuppliva de döda och läka de levande. Den här kraften kan återta någons själ från Descensum (Mortis). 
+
+Om det är din Primära Kraft: Du kan återuppväcka dig själv från de döda. 
+
+Om det inte är din primära kraft: Du kan inte återuppväcka dig själv från de döda. 
+
+Det är allmänt känt: Vitalishäxor delar med sig av sin egen livskraft för att läka andra och detta förkortar deras livstid gradvis över tid. En kraftfull Vitalishäxa kan ta tillbaka livskraft från de som den läker och på så vis förlänga sitt eget liv. Det här kan göra vissa häxor motvilliga till att låta sig bli läkta av en mäktig Vitalishäxa fastän det kan ta en hel livstid att uppnå detta. 
+
+Hur du använder den: Du uttalar orden “Alma Vitalis” och sen kan du antingen beskriva hur återupplivningen går till, exempelvis “Du kan känna hur ditt hjärta långsamt börjar slå igen... “ eller hålla upp din hand som en uppräkning till den andres återupplivning (där fem fingrar motsvarar död och inga fingrar motsvarar levande). Du kan också kombinera dessa metoder.  
+
+En långsam återupplivning är eftersträvansvärt och det är också det säkraste sättet att återuppliva någon. En oerfaren eller en häxa som har bråttom kan kickstarta hjärtat som en adrenalinshock. Det är ett plågsamt och obehagligt sätt att bli återupplivad på. 
+
+Du kan spela på att inte kunna slutföra Vitalis (med fruktansvärda konsekvenser) eller spela på att inte slutföra den medvetet. Bieffekter av en ofullständig Vitalis kan vara: hjärnskador, talbortfall, synbortfall eller nedsatt förmåga att röra sig. 
+
+Det kommer med konsekvenser: Vitalis tar från din egen livskraft och gör dig trött. I det långa loppet förkortar du ditt eget liv varje gång du använder Vitalis och det kan göra vissa motvilliga till att ofta använda den för ofta, men unga häxor tänker inte alltid så långt framåt. 
 
 ## Dahlins Samling
 
@@ -122,77 +154,3 @@ Det var den lokala kyrkan som klev in och vederlade ryktena. Därefter var Dahli
 Samlingen förställdes som många olika typer av tillflyktsorter genom tiderna, en gång även som ett barnhem. Men det var 1925 när grevinnan Ebba von Eckermann, en tidigare medlem av Frustunaby Flickors Utomhus Klubb, donerade Frustunaby till Scouterna, som det skapades en permanent täckmantel som håller än idag. Det var dock inte förrän sammanslagningen av flickscouterna och Svenska Scoutförbundet 1960 som pojkar tilläts att ansluta sig till Dahlinsamlingen.
 
 Dahlins var som de flesta samlingar idag på gränsen till utrotning. Deras medlemsantal hade minskats dramatisk under de senaste trettio åren, och nya häxor har blivit allt mer sällsynta. När deras Suprema dog för fyra år sedan blev det genast uppenbart att ingen ny Suprema skulle kallas. Den plötsliga tillströmningen av häxor från andra utrotade samlingar under det senaste året var lovande, och proven hölls. Det upptäcktes snabbt att ingen ny Suprema skulle uppstå och att proven inte ansågs giltig. Samlingen var helt enkelt inte stark nog.
-
-## De Fem Krafterna
-
-När samlingarna började dö ut, och häxorna slutade använda sina gåvor, blev krafterna svagare. De två redan mest sällsynta krafterna, pyrokinesi och telekinesi, försvann helt och hållet. Mortis, Vitalis, Concilium, Clairvoyance och Tranfero är de ursprungskrafter som finns kvar idag. Det är dock enbart svagare versioner av dessa som uppstår bland dagens häxor.
-
-Legender finns om häxor som kunde bränna ner hela skogar med en blick och böja hela byar till sin vilja. Om det är sant eller ej är omöjligt att veta nu, men att häxor en gång varit mycket, mycket mäktigare än de som finns idag är onekligen sant. 
-
-*Spelarna har väldigt mycket kontroll över hur de gestaltar sina egna krafter och hur mäktiga de själva vill spela. Detta är en tillit vi ger våra spelare. Vi ser helst att spelarna alltid bejakar sina medspelare när de kan, men det är alltid möjligt att undvika att bli förhäxad och skylla på svaga krafter eller ett plötsligt starkt försvar. Det finns inskrivet så att spelare inte ska behöva ta sig an spel de är obekväma med OFF.*
-
-### Mortis: Dödens Beröring
-
-Kraften att ta ett  liv är en mycket instabil kraft och svår att kontrollera. Den härstammar från ursprungskraften Descensum.
-
-Mortis kräver hudkontakt samtidigt som  orden "Alma, Mortis" uttalas, varpå offret omedelbart kommer att känna sin kropp börja stänga ner och sakta dö.
-
-Mortis manifesterar sig på olika sätt beroende på häxan. Vissa kan bara aktivera kraften när de upplever starka känslor, en del har ingen kontroll alls och aktiverar kraften utan avsikt, vissa kan kasta den när de verkligen vill men kräver då mycket mer hudkontakt o.s.v.
-
-### Vitalis: Återuppliva de döda
-
-Kraften att återuppväcka de döda är, liksom Mortis, en svår kraft att lära sig hantera och kräver övning. Den härstammar från ursprungskraften Vitalum Vitalis.
-
-Vitalis kräver inte hudkontakt, men vissa häxor upplever att det ger dem bättre resultat. Orden "Alma, Vitalis" uttalas innan häxan försiktigt blåser på den dödas ansikte. Det kan ta lite olika lång tid för någon som varit död att återfå full funktion av sin kropp, beroende på hur länge de varit “borta”.
-
-Att mästra Vitalis väl är ingen enkel uppgift, och biverkningar av att bli återuppväckt från de döda kan vara allvarliga om det inte görs på rätt sätt. Personen riskerar att bli svårt hjärnskadad eller helt hjärndöd. Att mista sin syn eller talförmåga är inte heller ovanligt från en oavslutad eller för svag Vitalis. Lyckligtvis kan detta ofta korrigeras genom applikationen av en kraftfullare häxas Vitalis.
-
-Biverkningarna av att bli återuppväckt från de döda ger en euforisk rus, jämförbar med vissa droger. Detta har resulterat i att vissa häxor använder Mortis och Vitalis på varandra, för rusets skull. Det finns naturligtvis många risker; ju längre personen är under desto bättre rus, men en stark häxa behövs för att undvika riskerna när det är dags att återuppliva.
-
-### Concilium: Sinneskontroll
-
-Makten att styra en annan människas sinne och därmed även deras kropp. Härstammar från ursprungskraften Concilium.
-
-Concilium varierar något beroende på hur skicklig dess användare är. Ögonkontakt med offret är alltid ett krav. Orden "Alma, Concilium" följs av instruktioner i.e. "Alma, Concilium. Ge dig själv en smäll" eller en mer komplex variant, eftersom den måste hålla längre, skulle kunna vara "Alma, Concilium: Gå fixa en kopp te åt mig". 
-
-Styrkan av häxan kontra styrkan av den som blir förhäxad spelar roll när man använder Concilium. En starkare häxa (t.ex. en senior) skulle kunna motstå en Concilium av en svagare häxa (t.ex en junior). Men även en svagare häxa kan komma att bryta förhäxningen mitt i te-bryggningen. Concilium kan lämna offret förvirrad och desorienterad, eller få dem att känna sig instängda i sina egna kroppar, fullt medveten om sina handlingar men oförmögna att stoppa dem.
-
-En bra indikator på att Concilium har använts är en skarp, men tillfällig, huvudvärk som biverkning. Om offret exponeras för Concilium flera gånger, eller har varit kontrollerad en längre tid, kan detta t.o.m leda till migrän, illamående och kräkningar. Långvarigt användande av Concilium kommer också att ha en fysisk effekt på häxans som använder den. Denna effekt varierar från häxa till häxa och kan inkluderar näsblod, huvudvärk eller extrem trötthet.
-
-### Clarvoyance: Tankeläsning
-
-Kraften att läsa andras tankar och även få dem att säga dem högt. Den härstammar från ursprungskraften Clairvoyance.
-
-Clairvoyance och Concilium har en hel del likheter. Både varierar något beroende på häxans styrka, och båda kräver ögonkontakt med offret. Clairvoyance är dock mycket svårare att bryta om det finns hudkontakt mellan häxan och offret. Orden "Alma, Clairvoyance" uttalas och offret kommer att börja säga sina tankar högt. Ibland märker offret inte själv att de gör detta, ibland gör de det men kan inte stoppa sig själva. 
-
-Som med Concilium handlar det om häxans styrka kontra offrets styrka, en starkare häxa skulle kunna motstå eller bryta Clairvoyance av en svagare häxa.
-
-### Transfero: Överför skador till andra
-
-Makten att överföra smärta och skada på andra. Härstammar från ursprungskraften Transmutation.
-
-Transfero kräver att häxan har ögonkontakt med sitt offer i hela Transfero-processen. Bryts ögonkontakten bryts Transferon, men all skada som redan överförts förblir. Det är mycket svårt att själv bryta ögonkontakt när man väl påverkas av Transfero. 
-
-Häxan etablerar ögonkontakt, säger orden "Alma, Transfero" och skadar sedan sin egen kropp på något sätt, till exempel genom att slå sig själv eller sticka en gaffel i sin hand. Offret känner smärtan istället för häxans och kan också få skador på sin kropp.
-
-Det är svårare för en svagare häxa att bryta Transfero av en starkare häxa, men Transfero kan brytas av en tredje person, som med flit kommer mellan ögonkontakten av häxan och deras offer.
-
-## De Sju Proven
-
-Varje Suprema i varje samling har gått igenom De Sju Proven och visat sig vara den mest kraftfulla häxan i sin samling, mäktig nog att styra alla sju av de ursprungliga krafterna. Endast en Suprema väljs per prövning och de övriga kandidaterna elimineras i prov efter prov. Det är möjligt, och har skett, att kandidater dör under provens gång. 
-
-En häxa går bara igenom De Sju Proven en gång i sitt liv, om ens någonsin. Att delta i proven kan vara ett sätt att skynda på utvecklingen av dina krafter, men det kan finnas ett högt pris att betala. Även om du överlever proven, slutar dina krafter att utvecklas efteråt. Det finns ingen kunskap som förklarar varför detta sker. Ingen kan heller förklara varför alla dokumenterade häxor som har försökt att genomgå proven en gång till har omkommit under försöket. 
-
-Det har varit traditionellt att Supreman själv väljer ut och sedan bjuder häxor i sin samling att ta De Sju Proven när de är redo att avstiga sin position. Men numera är det inte ovanligt att proven utförs av häxor som erbjuder själva eller blir tvingade av samlingen. 
-
-När en ny Suprema börjar träda fram i en generation drar de kraften från den befintliga Supreman som försvagas. Det är så en Suprema känner på sig när tiden kommit för en ny provning och en ny starkare efterträdare. Det har skett att en Suprema, benägen att hålla fast vid sin position, har hittat och dödat de potentiella nya Supremorna innan provet kan utföras. Denna taktik kan även förekomma mellan kandidaterna inför en prövning.
-
-## Magi
-
-All magi i lajvets universum är direkt länkat till de sju krafterna: Mortis, Vitalis, Concilium, Clairvoyance, Transfero, Telekinesis och Pyrokinesis. Detta betyder att om det kan länkas till en av krafterna så går det göra: t.ex. en ritual som laddar en amulett med kraften Vitalis för att hela någon eller skydda dem från skada. Eller en “förbannelse” som använder Transfero för att ladda ett objekt så att den första som rör vid det fylls av sorg eller hat.
-
-Tarotkort, krystaler, amuletter, ritualer osv kan användas för att lagra, rikta, öka eller försvara mot magi. Men ju större effekt man vill att det ska ha, desto mer energi, tid och ork tar det att skapa eller använda: mycket förberedelse, tålamod eller magisk styrka. (Om du gör till exempel ett förbannat objekt, glöm inte att antingen informera den du vill använda det på i förväg eller skriva en liten lapp med instruktioner, så att spelaren som hittar den vet vad den ska göra).
-
-Du kan även låna av din energi till andra häxor med hjälp av t.ex. en ritual: en häxa med Vitalis har inte nog styrka att hela en svårt skadad person, andra häxor ökar hens Vitaliskraft genom att låna ut sin energi. Du kan inte “ge” någon en kraft som du har men inte de: en häxa med Mortis kan inte ge kraften Mortis till en annan häxa som inte har den. Detta innebär även att en t.ex. helande ritual inte kan genomföras om ingen som är med och genomför den har Vitalis.
-
-Lajvet siktar på att behålla diskbänksrealismen så gott som det går på ett magilajv. Försök att inte använda fantasimagi som påminner om Harry Potter för mycket: inga trollspön, inget abrakadabra, inga magiska djur eller trolldrycker som får människor att byta kroppar med varandra. Tänk er istället primala ritualer, chants, blod och lite äckel. Kom även ihåg att all magi har ett pris, om det så är en huvudvärk, ett näsblod eller din själ.
