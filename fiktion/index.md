@@ -117,7 +117,7 @@ Mortis är makten att ta ett liv. När du dödar med Mortis så sjunker ditt off
 
 **Om det inte är din primära kraft:** Du behöver ha hudkontakt för att kunna använda den. 
 
-**Det är allmänt känt:** 'att en Mortishäxa kan ingå en pakt med Portvakten till Descensum och byta oskyldiga själar emot ett längre liv. På grund av detta är Mortishäxorna de häxor som hålls för troligast att en gång bli onda. Det är en orättvis skröna eftersom endast en extremt mäktig Mortis ens skulle kunna drömma om en sådan paktmöjlighet.* 
+**Det är allmänt känt:** *att en Mortishäxa kan ingå en pakt med Portvakten till Descensum och byta oskyldiga själar emot ett längre liv. På grund av detta är Mortishäxorna de häxor som hålls för troligast att en gång bli onda. Det är en orättvis skröna eftersom endast en extremt mäktig Mortis ens skulle kunna drömma om en sådan paktmöjlighet.* 
 
 **Hur du använder den:** Uttala orden “Alma Mortis”, vartefter offrets kropp långsamt slutar att fungera och slutligen dör. Du kan beskriva dödsprocessen för spelaren du använder kraften på, till exempel “du känner hur ditt hjärta saktar ner…”  eller hålla upp fingrar som en nedräkning för hur nära de är döden (fem är normaltillstånd och noll är död). Du kan också kombinera dessa metoder. 
 
