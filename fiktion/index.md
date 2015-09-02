@@ -89,6 +89,27 @@ Att ha ett prestigefyllt och anrikt familjenamn kan hjälpa dig att bli accepter
 
 Om du inte har någon nu levande familj inom det magiska samhället och inget starkt familjenamn, men du visar dig vara en kraftfull häxa så kan en annan familj välja att åta sig dig och ge dig deras namn -som en slags adoption. Detta är förhållandevis vanligt inom Häxrådet. De flesta häxor imponeras av en protegé eftersom detta betyder att du är mäktig nog att vara uppmärksammad av en anrik familj eller av rådet. Det orsakar även givetvis svartsjuka. 
 
+## Om magi 
+Lajvet strävar efter en slags realism (med magi, ja, vi vet), men vad det innebär är att vi vill att ni försöker styra bort från den fantasy-magi som finns i exempelvis Harry Potter. Vi vill inte ha några trollstavar, inget abrakadabra, inga magiska varelser och inga trolldrycker som får er att byta kroppar. Tänk istället smutsiga och mörka primala ritualer, diskbänksrealism, talkörer, symboler, blod och lite äckel. Kom också ihåg att all magi har sitt pris oavsett om det är en huvudvärk, ett näsblod eller din själ. 
+
+All magi i det här universat kommer från De Ursprunliga Krafterna och De Sju Proverna: Descendum, Vitalium Vitalis, Concillium, Clarvoyance, Transfero, Telekinesis och Pyrokinesis. Det betyder att så länge som du kan härleda det till någon av dessa så kan du utföra det. 
+
+Du kan låna ut din styrka till en annan häxa genom att sammanlänka er (med en ritual, en talkör, handhållning eller symboler etc.) men du kan inte “ge bort” din/a kraft/er till en annan häxa. 
+
+Tarot-kort, kristaller, ritualer etc kan användas för att kanalisera, förvara, förstärka eller skydda mot magi. Kom ihåg att ju större effekt du strävar efter desto mer utmattande är utförandet och ju längre tid tar det. Ju mer det smakar desto mer kommer det kosta. 
+
+## De Fem Krafterna. 
+När samlingarna började dö ut och fler och fler häxor började avstå från att utveckla sina krafter så blev också krafterna i sig svagare. Pyrokinesis och Telekinesis försvann helt. Mortis, Vitalis, Concillium, Clairvoyance och Transfero är de fem återstående krafterna som fortfarande finns bland häxor idag: de är alla svagare versioner av de ursprungliga krafterna.
+
+Din första kraft kallas din Primära Kraft. Du upplever både dess starkaste fördelar och dess starkaste nackdelar. Dina andra krafter är Sekundära och de är svagare i sjunkande ordning. Genom att sammanlänka dig med andra häxor kan du genom deras samlade kraft uppnå samma effekt för en Sekundär som du skulle ha av en Primär kraft. 
+
+Häxor som delar samma Primära Kraft har en outtalad närmare förståelse för varandra. Du kan lättare motstå att bli utsatt för den kraft som du har som Primär och du kan lättare se när någon annan utsätts för den i närheten av dig. 
+
+Primära krafter är också de som kan Förråda, alltså vända sig emot dig. Att spela på att din kraft förråder dig kan göras genom att säga “Alma (namn på kraft)” utan att rikta den emot någon/ting speciell/t. Det betyder att om en häxa har Transfero som sin Primära kraft och inte har kontroll över den så kan häxans mest privata känslor plötsligt “läcka ut” till de som är runt omkring. En Mortishäxa kanske omedvetet triggar sin kraft när den upplever starka känslor som vid sex. Osv.
+
+Krafternas effekter inträffar olika beroende på häxan som utför: vissa kan bara använda dem när de känner en stark känsla, vissa har ingen kontroll över huvudtaget och utför sin kraft helt omedvetet medans andra kan använda dem medveten men inte alltid osv. Ju mer kraftfull en häxa blir (med träning) desto mer kontroll borde den ha över sin/a kraft/er, men det kan också betyda att när de tappar kontrollen gör de mer skada. 
+
+Det är alltid upp till den spelar som blir utsatt för magin att bestämma om de vill spela på effekten eller inte. Det är alltid tillåtet att opta ut ur en situation där du blir förhäxad genom att skylla på svaga krafter eller ett plötsligt kraftigt försvar. Den här funktionen finns för att spelare inte ska känna sig tvingade att spela på saker de inte är bekväma med. Av den anledningen vill vi också att ni respekterar regeln: Om en spelare inte spelar på din magi första gången kan det vara för att de inte hörde och du får försöka en gång till. Om de inte spelar på din magi den andra gången du försöker är det troligtvis för att de inte är intresserade av spelet. Försök inte en tredje gång. Vi hoppas förstås att ni hjälper varandra att göra mäktiga scener tillsammans. 
 
 
 
