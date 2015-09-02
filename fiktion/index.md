@@ -42,6 +42,13 @@ Samlingar är inte egentligen skolor även om de lär ut. De är mer som klaner 
 
 De två mest allvarliga straffen är döden genom bränning eller exil. 
 
+**Kända Samlingar:**  
+ * **Dahlin,** en Samling som varit på gränsen till utrotning i många år men som en gång var stor och inflytelserik med starka band till Häxrådet. (Detta är din nya Samling.)  
+ * **Ekdal,** en stor och prestigefull Samling med nära band till Häxrådet. Många av deras häxor går vidare till jobb inom och för rådet.  
+ * **Almsted**, en respektabel Samling med lojaliteter till och inom rådet.   
+ * **Holm,** en liten och ganska isolerad Samling som hade en lång historia av att vägra svära sig till rådet. Den attackerades och förintades av häxjägare.  
+
+
 ## Dahlins Samling
 
 Alma Dahlin byggde det första huset i Frustunaby nära slutet av sjuttonhundratalet. Hon kom med sitt hushåll och flera unga kvinnliga skyddslingar, till stor spänning för det lilla samhället. Senare när Dahlin-familjen och deras församling höll sig för sig själva började ryktena snart att sprida sig om att Frustunaby var en plats för gravida unga kvinnor att föda sina oönskade barn. 
