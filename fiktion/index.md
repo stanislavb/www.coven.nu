@@ -27,6 +27,21 @@ Sedan förändrades något. Häxjägarna slutade fokusera på samlingar som sitt
 
 Detta är den nuvarande situationen. En grupp räddade häxor anländer till en svensk samling för att upptäcka och lära sig att hantera sina krafter, varandra, och den livshotande fara de alla står inför.
 
+## Hierarkier och världens struktur. 
+
+### Samlingar. 
+Det finns många Samlingar runt om i världen. De är stationära och skapade i områden med en stark magisk energi. Den här energin hänger ihop med Samlingen i en symbios. En stor Samling gör energin starkare, en stark Suprema gör energin starkare, mäktiga häxor gör energin starkare och det i sin tur gör att starkare Supremor kommer fram och så vidare. 
+
+En Samling består av minst tretton häxor. Om Samlingens antal sjunker under tretton kommer inte en ny Suprema att uppenbara sig och Samlingen kommer gradvis att förlova sin styrka och dö ut. Häxrådet är en Samling; den största existerande Samlingen i världen. 
+
+Normalt sett när dina krafter uppenbarar sig i de tidiga tonåren blir du skickad till en Samling. Om du har en familj som är en del av det magiska samhället så har du, eller rättare sagt din familj, haft ett ord med i beslutsprocessen kring vilken Samling du blivit skickad till. De flesta seniorer har kommit från familjer som är medvetna om sin härkomst och har därför varit beredda på att Häxrådet ska hämta dem. 
+
+När du ansluter dig till en Samling förväntas du lämna det icke-magiska samhället bakom dig, så även den familj du kanske har kvar där. Oavsett om du bara har en enda avlägsen släkting på en Samling långt bort så övergår detta till att vara din enda familj när du ansluter dig. Du kommer väldigt sällan, om någonsin, träffa eller prata med familjen som du hade utanför det magiska samhället igen. Det gäller även dina föräldrar. 
+
+Samlingar är inte egentligen skolor även om de lär ut. De är mer som klaner eller kloster. När du väl har svurit dig till en Samling så hör du till den för resten av ditt liv och du kan inte ändra dig eller lämna Samlingen när du vill. Straff för oacceptabelt beteende i en Samling kan variera kraftigt. 
+
+De två mest allvarliga straffen är döden genom bränning eller exil. 
+
 ## Dahlins Samling
 
 Alma Dahlin byggde det första huset i Frustunaby nära slutet av sjuttonhundratalet. Hon kom med sitt hushåll och flera unga kvinnliga skyddslingar, till stor spänning för det lilla samhället. Senare när Dahlin-familjen och deras församling höll sig för sig själva började ryktena snart att sprida sig om att Frustunaby var en plats för gravida unga kvinnor att föda sina oönskade barn. 
