@@ -156,7 +156,22 @@ Makten att kontrollera en annan. Concillium kontrollerar kroppen och gör den ti
 
 Offret som utför uppgiften kan bli förvirrat eller känna sig instängd: fortfarande fullt medveten om sina handlingar men oförmögna att stoppa sig själva. Om offret blivit utsatt för Concillium ofta eller har varit under Concillium länge så kan detta leda till migrän, yrsel, illamående och kräkningar. 
 
-**Det kommer med konsekvenser:** Att använda Concillium kräver enorma mängder energi. Ett långvarit användande kommer att ha negativa fysiska effekter för häxan som kastar den, exempelvis näsblod, huvudvärk, trötthet och i allra värsta fall döden. 
+**Det kommer med konsekvenser:** Att använda Concillium kräver enorma mängder energi. Ett långvarit användande kommer att ha negativa fysiska effekter för häxan som kastar den, exempelvis näsblod, huvudvärk, trötthet och i allra värsta fall döden.
+
+## Clairvoyance : Tankeläsning
+Makten att läsa en annan persons tankar och få dem att säga dem högt. 
+
+**Om det är din Primära Kraft:** Du kan också känna de sanna känslorna hos en annan genom att säga “Alma Clairvoyance : dina känslor”
+
+**Om det inte är din primära kraft:** Du kan inte känna känslorna hos de omkring dig. 
+
+**Det är allmänt känt:** *Det är vanligt att Clairvoyancehäxor blir bemötta med medlidande från övriga häxor. Ju mäktigare en Clairvoyancehäxa blir desto större ansträngning krävs för att stänga ute känslorna och tankarna från alla runt omkring dem. Denna konstanta mentala skölden är utmattande att upprätthålla och leder ofta till att de till slut isolerar sig fullständigt eller blir galna.* 
+
+**Hur du använder den:** Ögonkontakt med ditt offer behövs alltid. Säg orden “Alma Clairvoyance”. Var beredd på att behöva instruera ditt offer på att säga sina tankar högt, annars skall den börja göra det automatiskt. Det är ofta ett osammanhängande babblande av alla tankar som går igenom huvudet, ofta tänker de inte ens själva på att de gör detta, ibland märker dem det men kan inte stoppa sig själva. 
+
+Häxan som kastade besvärjelsen kan också ställa direkta frågor och kommer som allra oftast få ärliga svar. 
+
+**Det kommer med konsekvenser:** Om du använde Clairvoyance för ofta blir gränsen mellan dina tankar och din röst oklar och du kan själv börja tänka saker högt. 
 
 ## Dahlins Samling
 
