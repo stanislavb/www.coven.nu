@@ -79,6 +79,18 @@ Traditionen bjuder att det är Supreman som personligen väljer ut de häxor som
 
 *Vi vill att de som tänker delta i Proven tar kontakt med oss under fredagen. När du gör det kommer vi att förklara allt du behöver veta om att delta i dem. IN-lajv kommer ingen av er veta att Proven ska äga rum under helgen som lajvet utspelar sig.* 
 
+### Häxrådet
+Detta är den största och äldsta dokumenterade Samlingen i världen. I hundratals år har den varit Samlingarnas högsta auktoritet. Den fungerar som det magiska samhällets polis, rättsystem och armé. Den här Samlingen och dess Suprema är tungt bevakade och exakt var den ligger är inte allmän kännedom. Den har agenter och utskott över hela världen. Dess nuvarande Suprema är den nyligen tillträdda Alessa Caito. 
+
+Häxrådet kan bara utöva sin auktoritet över de som har svurit dem trohet och de kan aldrig tvinga en Suprema eller någon annan häxa att svära dem trohet. Det förväntas att alla Supremor ändå gör detta och då även för sin Samlings räkning. På så vis underställer sig Supreman alltså sig själva och sin Samling rådets auktoritet och beskydd. De få som väljer att inte göra detta blir misstänkliggjorda och isolerade. 
+
+### Familjenamn och protegeér. 
+Att ha ett prestigefyllt och anrikt familjenamn kan hjälpa dig att bli accepterad in i en starkare, mer prestigefylld och till och med säkrare Samling. Om du har ett erkänt namn betyder detta mest troligt att du kommer från en lång linje av framstående och/eller kända häxor.
+
+Om du inte har någon nu levande familj inom det magiska samhället och inget starkt familjenamn, men du visar dig vara en kraftfull häxa så kan en annan familj välja att åta sig dig och ge dig deras namn -som en slags adoption. Detta är förhållandevis vanligt inom Häxrådet. De flesta häxor imponeras av en protegé eftersom detta betyder att du är mäktig nog att vara uppmärksammad av en anrik familj eller av rådet. Det orsakar även givetvis svartsjuka. 
+
+
+
 
 ## Dahlins Samling
 
