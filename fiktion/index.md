@@ -48,6 +48,14 @@ De två mest allvarliga straffen är döden genom bränning eller exil.
  * **Almsted**, en respektabel Samling med lojaliteter till och inom rådet.   
  * **Holm,** en liten och ganska isolerad Samling som hade en lång historia av att vägra svära sig till rådet. Den attackerades och förintades av häxjägare.  
 
+### Ederna. 
+Du föds inte in i en Samling utan du ansluter dig till en genom att svära en ed. När du väl svurit eden är du bunden till din Samling och till alla de kommande Supremorna tills du dör eller tills det att Samlingen dör (genom att antalet svurna häxor blir färre än tretton och Samlingen inte har någon Suprema.)
+
+Eftersom Dahlinsamlingen hitintills har varit färre än tretton och utan Suprema så har de inte kunnat svära in de anlända häxorna från Ekdal, Almsted och Holm. Det betyder att om Samlingen hade fortsatt att dala och inga nya häxor kommit så hade det varit möjligt att lämna Dahlinsamlingen för en annan Samling. 
+
+Häxor bor och tränas i en Samling tills de väljer att svära eden, det förväntas inträffa i den tidiga tjugoårsåldern. Du måste inte svära eden till den Samling som tränat dig, men de flesta gör så. Det är inte ovanligt att unga häxor från större och mer välmående Samlingar skickas till mindre Samlingar i syfte att återuppliva dem. Som Senior har du kanske blivit tillfrågad, beordrad eller varit frivillig till att ansluta dig till Dahlinsamlingen. 
+
+Du kan inte svära eden till två Samlingar samtidigt. Det enda undantaget är Häxrådet och ingen vet hur detta är möjligt. Till skillnad från eden till din Samling, som binder dig för livet, så beror eden till Häxrådet på vem som svor den. Om du svurit direkt till dem så binder den dig för resten av ditt liv. Om Supreman för din Samling svor den å hela Samlingens vägnar så binder den dig hela Supremans livstid och måste förnyas av nästa Suprema. 
 
 ## Dahlins Samling
 
