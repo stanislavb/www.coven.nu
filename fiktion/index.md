@@ -57,6 +57,14 @@ Häxor bor och tränas i en Samling tills de väljer att svära eden, det förv�
 
 Du kan inte svära eden till två Samlingar samtidigt. Det enda undantaget är Häxrådet och ingen vet hur detta är möjligt. Till skillnad från eden till din Samling, som binder dig för livet, så beror eden till Häxrådet på vem som svor den. Om du svurit direkt till dem så binder den dig för resten av ditt liv. Om Supreman för din Samling svor den å hela Samlingens vägnar så binder den dig hela Supremans livstid och måste förnyas av nästa Suprema. 
 
+### Supremorna. 
+Supreman för en Samling blir utsedd av De Sju Proven. Samlingen styrs av sin Suprema och alla häxorna tillhörande Samlingen måste lyda sin Suprema. Supremorna i sin tur svarar bara inför Häxrådet (men bara om de svurit dem trohet.)
+
+Personligheten hos Supreman styr Samlingens inriktning: en omhändertagande Suprema tar troligtvis  hand om sin Samling i syfte att skapa en trygg harmoni medan en elak eller makthungrig Suprema kan förgifta sin Samling och skapa konflikt. Det är ett brott som bestraffas med döden att försöka döda en Suprema så när den väl utsetts kan ingen häxa i Samlingen själv påverka detta.
+
+
+
+
 ## Dahlins Samling
 
 Alma Dahlin byggde det första huset i Frustunaby nära slutet av sjuttonhundratalet. Hon kom med sitt hushåll och flera unga kvinnliga skyddslingar, till stor spänning för det lilla samhället. Senare när Dahlin-familjen och deras församling höll sig för sig själva började ryktena snart att sprida sig om att Frustunaby var en plats för gravida unga kvinnor att föda sina oönskade barn. 
