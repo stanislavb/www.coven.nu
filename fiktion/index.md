@@ -18,7 +18,6 @@ image:
 </section><!-- /#table-of-contents -->
 
 ## Bakgrund
-
 Häxor har alltid funnits, men har oftast hållit sig för sig själva och undvikit att bli upptäckt av omvärlden. De fanns i samlingar, en grupp häxor bundna på en specifik plats. Dessa samlingar har varit deras hem, deras tillflykt och gemenskap.
 
 Häxjägare har funnits lika länge som det har funnits häxor. I skydd av stora organisationer har de spårat och dödat häxor i generationer. Under de senaste trettio åren har de lyckats utrota samling efter samling. De få samlingar som finns kvar är gömda, men många häxor har valt att dölja sina krafter och fly in i det övriga samhället. De samlingar som finns kvar väntar in sitt öde, de har ingen annanstans att gå. Även deras största auktoritet, Häxrådet, tycks ha gett upp.
@@ -171,10 +170,24 @@ Makten att läsa en annan persons tankar och få dem att säga dem högt.
 
 Häxan som kastade besvärjelsen kan också ställa direkta frågor och kommer som allra oftast få ärliga svar. 
 
-**Det kommer med konsekvenser:** Om du använde Clairvoyance för ofta blir gränsen mellan dina tankar och din röst oklar och du kan själv börja tänka saker högt. 
+**Det kommer med konsekvenser:** Om du använde Clairvoyance för ofta blir gränsen mellan dina tankar och din röst oklar och du kan själv börja tänka saker högt.
+
+## Transfero: Överföra skador till andra 
+Makten att överföra sina egna skador, smärta och känslor till andra. 
+
+**Om det är din Primära Kraft:** Du kan inte skada dig själv och även om en besvärjelse misslyckas så kommer en Transferohäxa inte att bli skadad.  
+
+**Om det inte är din primära kraft:** Du kan bli skadad. Om du misslyckas med att kasta Transfero så stannar skadan hos dig.
+
+**Det är allmänt känt:** *Transferohäxor skickar hela tiden ut sina känslor och och sin fysiska känslighet och i och med detta förlorade de dem också sakta men säkert. Långa perioder av att inte känna någon fysisk smärta eller starka känslor gör att Transferohäxor kan blir obehagliga sociopater över tid.*  
+
+**Hur du använder den:** Etablera ögonkontakt och uttala orden “Alma Transfero” och åsamka din kropp sedan “skada” på något vis, exempelvis genom att ge dig själv en örfil eller uttala känslan du vill skicka till den du förhäxar. Offret känner smärtan eller känslan och får också den eventuella permanenta skada som uppstår. 
+
+Förlorad ögonkontakt bryter Transfero-besvärjelsen men återtar inte skadan som redan utdelats men det är otroligt svårt att bryta ögonkontakten när besvärjelsen väl påbörjats.
+
+**Det kommer med konsekvenser:** Långa perioder av Transfero påverkar häxans impulskontroll och de kan i allmänhet börja bry sig mindre om konsekvenserna deras handlingar får för andra. 
 
 ## Dahlins Samling
-
 Alma Dahlin byggde det första huset i Frustunaby nära slutet av sjuttonhundratalet. Hon kom med sitt hushåll och flera unga kvinnliga skyddslingar, till stor spänning för det lilla samhället. Senare när Dahlin-familjen och deras församling höll sig för sig själva började ryktena snart att sprida sig om att Frustunaby var en plats för gravida unga kvinnor att föda sina oönskade barn. 
 
 Det var den lokala kyrkan som klev in och vederlade ryktena. Därefter var Dahlin-familjen, deras skyddslingar, och hela deras hushåll närvaronde vid kyrkan varje söndag och fick flera predikningar tillägnade sig. Generösa donationer hade också tagits emot av kyrkan runt denna tid. Den varma relationen mellan Frustunaby och kyrkan fortsatte även efter att Alma och hennes man hade gått bort.
