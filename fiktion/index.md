@@ -62,7 +62,22 @@ Supreman för en Samling blir utsedd av De Sju Proven. Samlingen styrs av sin Su
 
 Personligheten hos Supreman styr Samlingens inriktning: en omhändertagande Suprema tar troligtvis  hand om sin Samling i syfte att skapa en trygg harmoni medan en elak eller makthungrig Suprema kan förgifta sin Samling och skapa konflikt. Det är ett brott som bestraffas med döden att försöka döda en Suprema så när den väl utsetts kan ingen häxa i Samlingen själv påverka detta.
 
+### De Sju Proven. 
+Varje Suprema har genomgått och klarat De Sju Proven och därmed bevisat sin förmåga att bemästra alla sju av de ursprungliga krafterna. De ursprungliga krafterna är den renaste formen av de nu existerande, mycket svagare, krafterna. Bara under proven kan de ursprungliga krafterna nås och då bara av de häxor som genomför proven. Alla krafter som uppnås under Proven återgår till sin svagare form när proven väl är över. 
 
+**Descensum** : *Kraften att vandra in och ur ur döden och den andra sidan.*     
+**Vitalium Vitalis**  : *Livets kraft, kan återuppväcka de döda.*  
+**Concillium** : *Kraften att kontrollera andras sinnen.*   
+**Clairvoyance** : *Kraften att läsa andras tankar, spådom och att se in i framtiden.*   
+**Transmutation** : *Kraften som gör det möjligt att teleportera sig själv, objekt eller känslor från en plats till en annan.*   
+**Pyrokenesis** : *Kraften att skapa, kontrollera och manipulera eld. (Kan bara användas under Proven. Du har troligtvis aldrig sett det användas.)*  
+**Telekenesis** : *Kraften att med ditt sinna flytta och manipulera objekt i din omgivning. (Kan bara användas under Proven. Du har troligtvis aldrig sett den användas.)*  
+
+Du kan bara delta i proven en gång under din livstid, om någonsin. Att delta i proven kan vara ett sätt att snabba på utvecklingen av nya krafter men du kommer också att helt sluta utveckla nya krafter efteråt. 
+
+Traditionen bjuder att det är Supreman som personligen väljer ut de häxor som ska delta i De Sju Proven. Nu för tiden är det inte ovanligt att häxor anmäler sig frivilliga eller rent utav blir tvingade att delta. Om de är villiga att stå för konsekvenserna så kan även en Junior delta i Proven. 
+
+*Vi vill att de som tänker delta i Proven tar kontakt med oss under fredagen. När du gör det kommer vi att förklara allt du behöver veta om att delta i dem. IN-lajv kommer ingen av er veta att Proven ska äga rum under helgen som lajvet utspelar sig.* 
 
 
 ## Dahlins Samling
