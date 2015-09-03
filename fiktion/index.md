@@ -67,7 +67,7 @@ Varje Suprema har genomgått och klarat De Sju Proven och därmed bevisat sin f�
 **Descensum** : *Kraften att vandra in och ur ur döden och den andra sidan.*     
 **Vitalium Vitalis**  : *Livets kraft, kan återuppväcka de döda.*  
 **Concillium** : *Kraften att kontrollera andras sinnen.*   
-**Clairvoyance** : *Kraften att läsa andras tankar, spådom och att se in i framtiden.*   
+**Divination** : *Kraften att läsa andras tankar, spådom och att se in i framtiden.*   
 **Transmutation** : *Kraften som gör det möjligt att teleportera sig själv, objekt eller känslor från en plats till en annan.*   
 **Pyrokenesis** : *Kraften att skapa, kontrollera och manipulera eld. (Kan bara användas under Proven. Du har troligtvis aldrig sett det användas.)*  
 **Telekenesis** : *Kraften att med ditt sinna flytta och manipulera objekt i din omgivning. (Kan bara användas under Proven. Du har troligtvis aldrig sett den användas.)*  
