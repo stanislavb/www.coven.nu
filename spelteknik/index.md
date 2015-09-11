@@ -17,21 +17,19 @@ image:
 </div>
 </section><!-- /#table-of-contents -->
 
-Det finns olika definitioner av skillnaden mellan en spelteknik och en metateknik. För detta arrangemang kommer vi att tala om speltekniker när vi vill beskriva de tekniker du som spelare behöver använda för att komma åt vissa möjligheter IN-lajv, exempelvis lotterisystemet vi använder för att dela ut Krafter. Vi kommer också att använda termer speltekniker som ett paraplybegrepp för att beskriva följande.
+Det finns olika definitioner av skillnaden mellan en spelteknik och en metateknik. För detta arrangemang kommer vi att tala om speltekniker när vi vill beskriva de tekniker du som spelare behöver använda för att komma åt vissa möjligheter IN-lajv, exempelvis lotterisystemet vi använder för att dela ut krafter. Vi kommer också att använda termer speltekniker som ett paraplybegrepp för att beskriva följande.
 
 ## Metatekniker
 
-Detta är sätt på vilka du som spelare kan kommunicera med dina medspelare under spelets gång utan att bryta spelet. Som spelare, om du ser eller hör att en teknik blir använd och den inte är riktad specifikt mot dig ska du oftast ignorera den då det ej blivit sagt något IN-lajv. Orden som uttalas när en Kraft används är exempel på en metateknik, liksom pärlorna du har på dig för att visa dina medspelare vilka Krafter din karaktär har.
+Detta är sätt på vilka du som spelare kan kommunicera med dina medspelare under spelets gång utan att bryta spelet. Som spelare, om du ser eller hör att en teknik blir använd och den inte är riktad specifikt mot dig ska du oftast ignorera den då det ej blivit sagt något IN-lajv. Orden som uttalas när en kraft används är exempel på en metateknik, liksom banden du har på dig för att visa dina medspelare vilka krafter din karaktär har.
 
 ## Krafterna
 
 Nästan allt kring att få och att använda dina krafter är metatekniker. 
 
-Det betyder att pärlorna som symboliserar dina krafter är “osynliga” i spelets värld och det är även breven du får när du lottar en ny kraft. De finns som en påminnelse för dig själv och för andra spelare om vilka krafter som finns och vem som har dem.
+Det betyder att banden som symboliserar dina krafter är “osynliga” i spelets värld och det är även informationskortet du får när du lottar en ny kraft. De finns som en påminnelse för dig själv och för andra spelare om vilka krafter som finns och vem som har dem.
 
 Även när du använder krafterna, Mortis till exempel, måste du använda orden “Alma, Mortis” för att den andra spelaren ska vet vad det är du vill ha från dem. Denna fras finns inte IN, din karaktär uttalar den alltså inte, bara spelaren. Alma är ett meta nyckelord för att få andra spelare uppmärksamma på vad som kommer att ske och att dem måste lyssna för att höra instruktionerna. 
-
-Det är även en indikation OFF att din karaktär medvetet använder sina krafter. Det går nämligen att spela på att du använder dem av misstag och även att du vill misslyckas med att använda dem. Säger du enbart “Mortis” är det den andra spelarens val om det har något effekt alls eller om det är ett helt misslyckat försök, de får även välja att spela på om deras karaktär märkte att du försökte eller inte. 
 
 Meta-orden för krafterna är:
 
@@ -45,15 +43,13 @@ Mer information om de fem krafterna hittas under [Fiktion](/fiktion/).
 
 ## Lotteri
 
-Varje spelare kommer att börja lajvet med 1-3 av de fem krafterna. Under spelets gång kan du som spelare prata med en medlem ur hushållet om att få fler krafter, en i taget. 
+Varje spelare kommer att börja lajvet med 1-3 av de fem krafterna. Under spelets gång kan du som spelare gå till OFF-rummet för att få fler krafter, en ny kraft i taget. 
 
-Det är utlottat vilka nya krafter du kan få. Detta går ut på att dra en pärla ur en påse: färgen på pärlan symboliserar en kraft. Pärlan är också en symbol IN till andra spelare om vilka krafter du har att använda. Den kan sitta på ett halsband eller armband men ska alltid hållas synlig för andra spelare. Den nya kraften behöver inte sättas i spel direkt, du som spelare kan välja att sätta pärlan med dina andra vid ett senare tillfälle.
+Det är utlottat vilka nya krafter du kan få. Detta går ut på att dra en pärla ur en påse: färgen på pärlan symboliserar en kraft. Du får sedan med dig ett band i färgen av din kraft och ett litet infokort om kraften. Detta band visar andra spelare vilka krafter du har att använda. Den ska alltid hållas synlig för andra spelare och används lättast som ett armband. Den nya kraften behöver inte sättas i spel direkt, du som spelare kan välja att sätta på dig bandet vid ett senare tillfälle.
 
-När en ny kraft blivit dragen får spelaren ett kuvert med samma färg som pärlan, innehållandes en kort beskrivning av kraften och en påminnelse om hur den ska användas. Kuvertet finns inte IN, men kan lämnas synligt för att ge andra spelare möjligheten att spela på misstankar om dina begynnande krafter. Det är dock först när pärlan sitter på ditt halsband/armband som du och dina medspelare kan spela på din nya kraft fullt ut.
+När en ny kraft blivit dragen får spelaren även ett infokort, i samma färg som kraften, med en kort påminnelse om hur den ska användas. Infokortet finns inte IN, men kan lämnas synligt för att ge andra spelare möjligheten att spela på misstankar om dina begynnande krafter. Det är dock först när du sätter på bandet som du och dina medspelare kan spela på din nya kraft.
 
-Du som spelare väljer själv om du vill få alla fem krafterna under lajvets gång eller inte få några nya alls.
-
-Om du vill delta i De Sju Proven som sker på andra dagen behöver du ha minst fyra krafter före den eftermiddagen.
+Du som spelare väljer själv hur många nya krafter du vill få under lajvets gång.
 
 ## Satan, Chilla och Tap Out
 
