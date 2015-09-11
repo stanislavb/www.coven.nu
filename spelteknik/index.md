@@ -33,11 +33,11 @@ Det betyder att banden som symboliserar dina krafter är “osynliga” i spelet
 
 Meta-orden för krafterna är:
 
-"Alma, Mortis": dödens beröring.  
-"Alma, Vitalis": återuppliva de döda eller hela de levande.  
-"Alma, Concilium": sinneskontroll.  
-"Alma, Clarvoyance": tankeläsning.  
-"Alma, Transfero": överför skador till andra.  
+**"Alma, Mortis"** *(dödens beröring).*  
+**"Alma, Vitalis"** *(återuppliva de döda eller hela de levande).*  
+**"Alma, Concilium"** *(sinneskontroll).*  
+**"Alma, Clarvoyance"** *(tankeläsning).*  
+**"Alma, Transfero"** *(överför skador till andra).*  
 
 Mer information om de fem krafterna hittas under [Fiktion](/fiktion/).
 
